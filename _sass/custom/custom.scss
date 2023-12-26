@@ -31,21 +31,24 @@ h6 {
   text-decoration: underline;
 }
 
-.float-icon {
-  float: left;
-  margin-right: 8px;
+.icon-left {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
 }
 
-img.float-icon {
+.icon-left img {
   width: 40px;
+  height: 100%;
 }
 
-// Clearfix for float-icon
-.float-icon::after {
-  content: "";
-  clear: both;
-  display: table;
-}
+// // Clearfix for float-icon
+// .float-icon::after {
+//   content: "";
+//   clear: both;
+//   display: table;
+// }
 
 div {
   font-family: pmPopjoy;

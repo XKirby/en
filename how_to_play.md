@@ -22,15 +22,13 @@ nav_order: 6
 Characters in Paper Story all follow the same general rules. They all have three Stats, and a variety of Skills that fall under the umbrella of those stats.
 
 ![](assets/images/icons/heart.png){: .float-left } Heart – your Health Points and physical ability. Characters have 5 HP x their Heart – to a minimum of 1 HP.
-{: .text-red-200 }
+{: .text-red-200 .icon-left }
 
-![](assets/images/icons/spirit.png){: .float-left }  
-- Spirit – your Flower Points and mental/technical ability. Characters have 5 FP x their Spirit.
-{: .text-green-100 }
+![](assets/images/icons/spirit.png){: .float-left } Spirit – your Flower Points and mental/technical ability. Characters have 5 FP x their Spirit.
+{: .text-green-100 .icon-left }
 
-![](assets/images/icons/courage.png){: .float-left }  
-- Courage – your Badge Points and spiritual/social ability. Characters have 3 BP x their Courage.
-{: .text-yellow-300 }
+![](assets/images/icons/courage.png){: .float-left } Courage – your Badge Points and spiritual/social ability. Characters have 3 BP x their Courage.
+{: .text-yellow-300 .icon-left }
 
 In addition, players have some special stats used for combat, which aren't related to the main three stats.
 
