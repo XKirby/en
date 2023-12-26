@@ -21,25 +21,25 @@ nav_order: 6
 
 Characters in Paper Story all follow the same general rules. They all have three Stats, and a variety of Skills that fall under the umbrella of those stats.
 
-![](assets/images/icons/heart.png){: .float-left } Heart – your Health Points and physical ability. Characters have 5 HP x their Heart – to a minimum of 1 HP.
+![](assets/images/icons/heart.png) Heart – your Health Points and physical ability. Characters have 5 HP x their Heart – to a minimum of 1 HP.
 {: .text-red-200 .icon-left }
 
-![](assets/images/icons/spirit.png){: .float-left } Spirit – your Flower Points and mental/technical ability. Characters have 5 FP x their Spirit.
+![](assets/images/icons/spirit.png) Spirit – your Flower Points and mental/technical ability. Characters have 5 FP x their Spirit.
 {: .text-green-100 .icon-left }
 
-![](assets/images/icons/courage.png){: .float-left } Courage – your Badge Points and spiritual/social ability. Characters have 3 BP x their Courage.
+![](assets/images/icons/courage.png) Courage – your Badge Points and spiritual/social ability. Characters have 3 BP x their Courage.
 {: .text-yellow-300 .icon-left }
 
 In addition, players have some special stats used for combat, which aren't related to the main three stats.
 
-![](/assets/images/icons/power.png){: .float-left }  
-- Power – your raw combat skill and capacity for dealing damage to foes. The base damage for your [Techniques](TODO:LINK) is determined by your Power. You begin play with 1 Power, unless your Species modifies it.
+![](assets/images/icons/power.png) Power – your raw combat skill and capacity for dealing damage to foes. The base damage for your [Techniques](TODO:LINK) is determined by your Power. You begin play with 1 Power, unless your Species modifies it.
+{: .icon-left }
 
-![](/assets/images/icons/attack.png){: .float-left }  
-- Attack – how hard you can hit in the heat of the moment. Under most circumstances, your Attack is 0, but it can temporarily go up or down. Every one of your [Strikes](TODO:LINK) are modified by your Attack.
+![](assets/images/icons/attack.png) Attack – how hard you can hit in the heat of the moment. Under most circumstances, your Attack is 0, but it can temporarily go up or down. Every one of your [Strikes](TODO:LINK) are modified by your Attack.
+{: .icon-left }
 
-![](/assets/images/icons/defense.png){: .float-left }  
-- Defense – whenever you're struck in combat, you reduce the damage by your Defense. You get your full Defense against all strikes made against you, even if they're made by the same attacker. For most species, your beginning Defense is 0, though this can be improved with [Gear](TODO:LINK).
+![](assets/images/icons/defense.png) Defense – whenever you're struck in combat, you reduce the damage by your Defense. You get your full Defense against all strikes made against you, even if they're made by the same attacker. For most species, your beginning Defense is 0, though this can be improved with [Gear](TODO:LINK).
+{: .icon-left }
 
 Before we go any further, there's just a few more general rules to cover off:
 
