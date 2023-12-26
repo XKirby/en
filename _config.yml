@@ -71,6 +71,8 @@ aux_links:
 
 aux_links_new_tab: false
 
+encoding: "ASCII-8BIT"
+
 footer_content: "This is a mirror of Paper Story's ruleset and is based on the publicly available PDFs of it. This website isn't in any way affiliated with either Nintendo, or the Paper Story TTRPG team."
 last_edit_timestamp: true
 last_edit_time_format: "%b %e %Y at %I:%M %p"
