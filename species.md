@@ -79,7 +79,7 @@ For some of the rarer Species, or those less inclined to adventure – from Toad
 {: .specie-callout }
 > *Bob-Omb*{: .text-beta .header-font }  
 >
-> ![](assets/images/icons/bob-omb.png)
+> ![](assets/images/species/bob-omb.png)
 > {: .float-right-desktop }
 > Bob-Ombs are demolitions experts. As much as it confuses people, Bob-Ombs suffer no ill effects from blowing themselves up, and many seem to relish the act. Despite this they are rarely violent and often even-tempered.
 >
@@ -114,13 +114,14 @@ Ranged
 >
 > {: .specie-inner-callout }
 > > *Example Techniques*{: .text-gamma .header-font }  
-> > {: .specie-inner-callout } 
+> >
+> > {: .specie-inner-callout }  
 > > > *Quick Blast (**0 FP**{: .spirit-color })*{: .header-font }  
 Quickly detonates to blast foes away.  
 *Athletics (+Explode)*{: .heart-color }:  
 *Nice!*{: .nice-color }: 4 DMG  
 *Element (Blast), Indirect, Variant (**Athletics**{: .heart-color }), Strong, Commitment*{: .italic }
-> > {: .specie-inner-callout }
+> > {: .specie-inner-callout }  
 > > > *Bob-Ombast (**8 FP**{: .spirit-color })*{: .header-font }  
 A powerful explosion that blasts everything away – including your allies.  
 *Athletics (+Explode)*{: .heart-color }:  

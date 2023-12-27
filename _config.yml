@@ -92,10 +92,10 @@ callouts:
     color: beige
     opacity: 1
   specie-pros-callout:
-    color: green
+    color: alt-green
     opacity: 1
   specie-cons-callout:
-    color: red
+    color: alt-red
     opacity: 1
   specie-inner-callout:
     color: grey-lt
