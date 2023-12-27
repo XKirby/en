@@ -2,7 +2,7 @@
 layout: default
 title: Exceptional Techniques
 permalink: /exceptional_techniques
-nav_order: 16
+nav_order: 17
 ---
 
 ![](assets/images/icons/starpower-alt.png)
