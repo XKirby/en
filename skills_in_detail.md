@@ -133,4 +133,212 @@ However, if you need to recover in the field, or want to use a healing Item more
 
 ## *Crafts - Working from Scratch*{: .spirit-color }
 
+*Crafts*{: .spirit-color } (and other appropriate Skills) can be used to develop useable products from raw materials, which may otherwise be useless.
+
+First, choose an Item, Power-Up, Badge or Gear you want to make and have the materials for.
+
+A *Nice*{: .nice-color } result is enough to make something with an equivalent value of 5 Coins; for each Grade of Success earned, you can double the value range of the Items you can make, as follows:
+
+- *Nice!*{: .nice-color }: 5 Coins
+- *Good!*{: .good-color }: 10 Coins
+- *Great!*{: .great-color }: 20 Coins
+- *Wonderful!*{: .wonderful-color }: 40 Coins
+- *Excellent!*{: .excellent-color }: 80 Coins
+- *Unbelievable!*{: .unbelievable-color }: 160 Coins
+
+Failure consumes all materials involved and produces a Mistake; a useless Item that may provide only a severely restricted form of the intended effect, or something much worse. Critical Failure is bound to create even worse Mistakes.
+
+{: .example-callout}
+> *Example: Crafting Gear*{: .header-font }
+>
+> A Koopa smithy wants to smith a Super Hammer. Super Gear costs a whopping 400 Coins, so this is a tall order, but it's well worth the effort.  
+> They earn a *Wonderful*{: .wonderful-color } result, for an equivalent of 40 Coins; an impressive outcome but only a fifth of the way there.  
+> They try to push themselves to keep working, and earn a *Great*{: .great-color } result on the second check; this only adds on 10 Coins, for a total of 50.  
+> They decide to set the project aside before they make a Mistake, but take pride that their new Gear is 1/8 complete.
+
+Once you've created something or otherwise know how it's made, it becomes easier to craft, with value starting from 10 Coins on a *Nice*{: .nice-color } result.  
+In any case, one attempt to *Craft*{: .spirit-color } can only produce one Item, Gear or Power-Up at a time, and can't produce enhanced or mixed Items.
+
+Depending on the quality of the materials you use, you may be able to craft Items with less Grades of Success than normal; however, appropriate materials must always be sourced and used up.
+
+As a general rule, when it comes to materials:
+
+- [Items](TODO:LINK) can be made with common materials which can be sourced on the cheap in most settlements, costing no more than half the Item's value.
+- [Badges](TODO:LINK) and [Gear](TODO:LINK) require more valuable and rarer materials, which may take more work to find on the market, or require the crafter to seek them out in the field.
+- [Power-Ups](TODO:LINK) require some form of magical charge, either taken from rare materials, or crafted with [*Magic*{: .spirit-color }](TODO:LINK) assistance (as a Skill Substitution or Skill Enhancement; if you have an ally assisting, you don't necessarily have to do the magic yourself).
+
+If you don't achieve a high enough result, you can either settle for a similar product you could have made with the materials you used instead (such as settling for a Mushroom over a Super Mushroom), accept failure and make a Mistake, or take the time to make another check; each additional check made in this way takes more time, and successive checks without rest require a higher Grade of Success.
+
+{: .tip-callout }
+> *Tracking down the materials for crafting can be an adventure in and of itself, taking you to far away places with all sorts of exotic goods.* ![](assets/images/icons/tipguy.png)
+> {: .icon-right }
+
+## *Crafts - Enhancing and Mixing*{: .spirit-color }
+
+In addition to creating things from scratch, *Crafts*{: .spirit-color } (and other appropriate Skills) can be used to enhance or combine consumable [Items](TODO:LINK).  
+For each Grade of Success, you can choose one of the following effects to apply to the new Item:
+
+- Consume another Item, adding *all*{: .underlined } of its effects (*HP*{: .heart-color }, *FP*{: .spirit-color }, gradual recovery, damage, Status, etc.) to the new Item, using the first Item's targets.  
+*No matter what*{: .underlined }, you can't combine more than two Items at once.
+- Increase an existing *HP*{: .heart-color } and/or *FP*{: .spirit-color } recovery effect by 2.
+- Increase the Item's damage by 1 (if it would deal damage).
+- Add an Element or replace an existing Element, changing the type of damage dealt.
+- Add a Status, or increase an existing Status Level by 1.  
+New Statuses have the same duration as the original Item's Statuses (if applicable), lasting up to a minimum of 1 turn.
+- Increase the duration of all the Item's Statuses and other effects by 1 turn.  
+
+Failure instead consumes all Items involved and produces a Mistake; a useless Item that may provide only a severely restricted form of the intended effect, or something much worse. Critical Failure is bound to create even worse Mistakes.
+
+![](assets/images/scenes/09.png)
+{: .center-img }
+
+{: .tip-callout }
+> *Cooking can be a costly exercise, but well worth it! Stronger attacks, better healing, and simply condensing multiple Items into one Inventory slot are all good reasons to top up when you're in town.* ![](assets/images/icons/tipguy.png)
+> {: .icon-right }
+
+Once you've created an Item or otherwise know its recipe, it becomes easier to make it again, requiring half as many Grades of Success (to a minimum of *Nice*{: .nice-color }).  
+However, you have to use the same method when following a recipe – a chef sweetening an Ice Storm to make an Icicle Pop is very different to an alchemist strengthening it to make a Blizzard Storm, for instance.
+
+Treat the new Item's Coin value as equivalent to ½ of its component Items' values, +5 more Coins for each Grade of Success required to make it (not accounting for the halved Grades of a known recipe).
+
+Including a previously enhanced or mixed Item in your crafting adds one more Grade of Success to the recipe's difficulty *for each time an ingredient was previously enhanced or mixed*{: .underlined }, as it becomes a more volatile ingredient.
+
+{: .example-callout}
+> *Example: Mixing Items*{: .header-font }
+>
+> A Dayzee wants to combine some delicious Honey Syrup with their own special recipe, a Fried Sparkshroom (combining a Super Shroom and a Volt Shroom). They make a Crafts roll, and earn a *Good*{: .good-result } result.  
+> Since the Fried Sparkshroom was previously mixed together, they need one more Grade of Success to go ahead with this recipe.  
+> They have just enough Grades to finish off the recipe, slathering the mushroom to make a Glazed Sparkshroom, which restores 10 HP, 5 FP and bestows the same Contact Trait as a Volt Shroom.  
+> If they wanted to sell this invention, it would have an equivalent value of 27 Coins (15 from the Fried Sparkshroom, 2 from the Honey Syrup and 10 from their *Good*{: .good-result } result).
+
+![](assets/images/scenes/10.png)
+{: .center-img }
+
+{: .tip-callout }
+> *Just be careful you don't take things too far. You wouldn't want that powerful Superbombomb you've been working on to backfire once you take it into the field, would you?* ![](assets/images/icons/tipguy.png)
+> {: .icon-right }
+
+## *Magic - Spontaneous Spells*{: .spirit-color }
+
+*Magic*{: .spirit-color }'s most powerful quality is its versatility – the ability to do *anything*{: .underlined }!  
+These rules apply whenever you would cast a spell that's not already a key part of your repertoire, like a Technique, representing the challenging art of spontaneous casting.
+
+Whatever kind of spell you cast, you choose beforehand how much of your *Magic*{: .spirit-color } dicepool to use; this includes dice you receive from your Skill, your relevant Specialisations and Boosts to your *Magic*{: .spirit-color } skill.  
+It doesn't include situational bonuses, though, like the extra dice you'd get for someone's assistance.
+
+For each die included in your pool, you pay *3 FP*{: .spirit-color }.  
+If you have a relevant Specialisation, you pay *2 FP*{: .spirit-color } per die instead, and if you have a relevant Efficient trait, you only pay *1 FP*{: .spirit-color } per die.  
+No matter the circumstances, you *always*{: .underlined } pay at least as much *FP*{: .spirit-color } as one die would cost.  
+Regardless, the final roll is modified by your *Spirit*{: .spirit-color } as normal for a *Magic*{: .spirit-color } check.
+
+Keep in mind though that *no matter what*{: .underlined }, *Magic*{: .spirit-color } spells can't be used to gain or bestow *FP*{: .spirit-color } or *SP*{: .courage-color } ([Exceptional Results](TODO:LINK) aside).
+
+- *Skill Substitution*{: .header-font }  
+  *Magic*{: .spirit-color } can be used to emulate other skills, such as *Athletics*{: .heart-color }, *Notice*{: .spirit-color } or *Bully*{: .courage-color }, by making a *Magic*{: .spirit-color } check instead – completely replacing the check you'd make with your Magic pool.
+
+- *Skill Enhancement*{: .header-font }  
+  As long as you would normally have dice for the check, you can enhance it with *Magic*{: .spirit-color }; this works as if you made the check, and were also assisted by yourself using your *Magic*{: .spirit-color }.  
+  You pay *FP*{: .spirit-color } to access your *Magic*{: .spirit-color } dicepool as normal, then add ½ of that dicepool (to a minimum of 0) and your *Spirit*{: .spirit-color } onto the main Skill check.  
+  Even if the main check used *Spirit*{: .spirit-color }, you can still add your *Spirit*{: .spirit-color } again!
+
+{: .example-callout}
+> *Example: Enhanced Skills*{: .header-font }
+>
+> A Koopa sorcerer comes under attack! While they have *2 Heart*{: .heart-color } and *1 Guard*{: .heart-color }, they're much better at spellcasting, with *3 Spirit*{: .spirit-color } and *2 Magic*{: .spirit-color }.  
+> They can pay *6 FP*{: .spirit-color } to use their two *Magic*{: .spirit-color } dice; as they're assisting themselves, they add half of that onto their main *Guard*{: .heart-color } dicepool, for +1d6 and a total of 2d6.  
+> The dice come up 1 and 2; since they can use both their *Heart*{: .heart-color } and their *Spirit*{: .spirit-color }, this is enough to boost both dice to 4's for a *Good*{: .good-color } result.
+
+- *Enchantments*{: .header-font }  
+  *Magic*{: .spirit-color } can be used to temporarily enchant targets with [Personal Traits](TODO:LINK), such as Fly, Invisibility or Mimicry.  
+  Make a *Magic*{: .spirit-color } check and choose a Personal Trait; if you succeed, the target receives the chosen Trait, lasting for 1 turn for each *Magic*{: .spirit-color } die you used.  
+  Numerical values of the Trait (e.g. Resist, Contact damage, Status Level) are all set to 1, even if they would normally be higher.  
+  For each Grade of Success you earn, you can choose one:
+  
+  - The Enchantment lasts for one more turn.
+  - The Enchantment includes another Trait.
+  - A numerical value of one of the Traits increases by +1.
+  - One of the Traits includes one more element (if applicable).
+  - The Enchantment affects one more valid target.
+
+  If the target already has a Trait they would receive from this enchantment, the enchantment temporarily overrides their Trait; this can be used to substitute existing Immunities and Resistances.
+
+  You have to specify any particulars of the Trait, such as the elements affected or the exact Contact effect, when you cast the enchantment; these effects should be based on existing Personal Traits, with the GM having final say on what's possible.
+
+  Any *FP*{: .spirit-color } costs associated with the Trait cost *double FP*{: .spirit-color }; however, you can substitute that with whatever *FP*{: .spirit-color } you spent casting the enchantment, for as long as the enchantment lasts.  
+  As an added bonus, any action taken or checks made to initiate the Trait (such as starting to fly or transforming with Mimicry) use the action and *Magic*{: .spirit-color } check of the enchantment instead. Trying to take these actions after being enchanted requires the target roll as normal, though.
+
+{: .example-callout}
+> *Example: Enchanting Traits*{: .header-font }
+>
+> A Goomba enchanter is sneaking along behind their Boo ally; their friend is able to fly and turn invisible, and not wanting to get left behind, the Goomba decides they should too.  
+> They decide to be conservative and pay *6 FP*{: .spirit-color } for two of their *Magic*{: .spirit-color } dice.  
+> They get a *Good*{: .good-color } result, and choose to give themselves the Invisibility Trait; they also add in the Fly Trait, and make it last an extra turn, for a total of 3 turns. They immediately turn invisible and start flying.  
+> Ordinarily it would cost *2 FP*{: .spirit-color } to turn invisible for a turn, and *2 FP*{: .spirit-color } for each turn after that; but because they've already spent *6 FP*{: .spirit-color }, they're already covered for as long as the enchantment lasts!
+
+- *Curses*{: .header-font }  
+  Similarly, *Magic*{: .spirit-color } can be used to temporarily neutralise the target's qualities and other Personal Traits.  
+  Make a *Magic*{: .spirit-color } check and choose a quality the target has (e.g. a Personal Trait, a Status delivered by their attack, or an elemental affinity of their attack); if you succeed, the target suffers a Curse as if it was a Status, temporarily neutralising their ability to use that quality in some fashion. They can recover as normal, such as with [Items](TODO:LINK) or [*Steady*{: .courage-color }](TODO:LINK), and players can make a *Steady*{: .courage-color } check to resist as a reaction, just like any other Status.  
+  The Curse lasts for 1 turn for each *Magic*{: .spirit-color } die you used.  
+  For each Grade of Success you earn, you can choose one:
+  - The Curse lasts for one more turn.
+  - The Curse includes another quality.
+  - The Curse affects one more valid target.
+
+{: .example-callout}
+> *Example: A Curse on Ye*{: .header-font }
+>
+> A Squeek wizard is beset on all sides by a storm of 4 Paratroopas – and their allies are firmly set on the ground.  
+> They attempt to bring the enemy down to earth, spending *8 FP*{: .spirit-color } to use their full 4 dice from *3 Magic*{: .spirit-color } and a Specialisation in Curses, earning a *Great*{: .great-color } result.  
+> They choose to remove the Paratroopas' ability to fly, equivalent to the Fly Trait. With their Grades of Success, they're able to ground each of their enemies for 4 turns.
+
+![](assets/images/scenes/11.png)
+{: .center-img }
+
+{: .tip-callout }
+> *Curses come in many forms, but usually, they're a horrible time. There's not much you can do besides tough it out.* ![](assets/images/icons/tipguy.png)
+> {: .icon-right }
+
+- *Technique Spells*{: .header-font }  
+  *Magic*{: .spirit-color } can even be used to improvise Techniques on the fly! Instead of making any Technique checks, you make one *Magic*{: .spirit-color } check to conjure up an effect; as long as you succeed, this Technique begins with 1 Grade of Success in any of its Primary or Secondary checks, and an effective *FP cost*{: .spirit-color } of 0.  
+  For each Grade of Success you earn, you can choose one:
+  - Add *3 FP*{: .spirit-color } to the final Technique's effective cost.
+  - Add a Grade of Success to the outcome of the Technique's Primary and/or Secondary Checks.
+
+  You can select up to your dicepool in positive Traits, and up to your dicepool in negative Traits, as long as the *FP cost*{: .spirit-color } for the combined Traits doesn't exceed the effective cost.  
+
+  Finally, you can add *Indirect*{: .positive-color }, *Ranged*{: .positive-color } and/or *Harmless*{: .negative-color } as bonus Traits for no additional cost; this is simply the nature of *Magic*{: .spirit-color }.  
+
+  You don't pay the effective cost, or make any further checks – the Technique simply resolves with whatever Traits and Grades of Success you chose to give it based on your *Magic*{: .spirit-color } check. Since it doesn't make its own check, you can't benefit from its results on top of your own check (such as for Exceptional Results).
+
+{: .example-callout}
+> *Example: Improvised Spells*{: .header-font }
+>
+> A Dayzee witch wants to cast a hex on their enemies, but doesn't have the right Techniques for the job. Instead, they improvise.  
+> They spend *8 FP*{: .spirit-color } to use their full 4 dice from *3 Magic*{: .spirit-color } with a Specialisation in Hexes, and earn a *Great*{: .great-color } result.  
+> They can add up to 4 positive Traits, and up to 4 negative Traits. They want the hex to stop all their enemies in their tracks, so they add Group, Lengthen and Daze x3, giving the hex an effective cost of *8 FP*{: .spirit-color }.  
+> They don't need it to deal any damage though, and they're sure it will work without a hitch; so they give it the negative traits Harmless and Commitment, reducing the effective cost to just *3 FP*{: .spirit-color }.  
+> Finally, they take their 3 Grades of Success; 1 is spent increasing the *FP*{: .spirit-color } pool for the Technique to *3*{: .spirit-color }, which is enough to pay the effective cost. The last 2 are spent to give the Technique a *Great*{: .great-color } Grade of Success.  
+> The end result is a Technique that Dazes (3) their enemies for 4 turns, giving them plenty of time to act.
+
+## *Trickery - Dodging*{: .spirit-color }
+
+In battle, you can use *Trickery*{: .spirit-color } to completely side-step attacks.  
+If you attempt to *Dodge*{: .spirit-color }, you can't also *Guard*{: .heart-color } against attacks in the same round, unless an [Item](TODO:LINK) or other effect would specifically allow it.  
+A *Great*{: .great-color } result allows you to dodge all attacks from one target. For each additional Grade of Success, you can dodge attacks from another target.
+
+{: .example-callout}
+> *Example: Dodging*{: .header-font }
+>
+> A Squeek is attacked by a gang of three Hammer Bros! They can't handle their powerful hammer throws, and decide to *Dodge*{: .spirit-color } instead.  
+> They make a *Trickery*{: .spirit-color } check and earn a *Wonderful*{: .wonderful-color } result. They're able to completely dodge the attacks of the first two Hammer Bros, but have to take the last Hammer Bro's attacks head-on.
+
+![](assets/images/scenes/12.png)
+{: .center-img }
+
+{: .tip-callout }
+> *You don't need to Dodge attacks if you can prevent them! Invisibility effects and Secure Techniques are great for getting around attacks, if used carefully. And if you can avoid a fight in the first place, even better!* ![](assets/images/icons/tipguy.png)
+> {: .icon-right }
+
+## *Cheer - Cheering People On*{: .courage-color }
+
 WIP
