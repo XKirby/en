@@ -541,4 +541,116 @@ You can't combine this effect with a Secondary Check that only has one potential
 
 The Technique must have a Primary or a Secondary Check in order for Commitment to be applied to either.
 
-WIP
+### *Conditional*{: .negative-color} *(-1 FP)*{: .spirit-color } [X]
+
+Choose up to [X] of this Technique's distinct Positive Traits; they only function in specific circumstances (e.g. midair, underwater), or against specific targets (e.g. Goombas, sleeping targets). If the Trait has multiple instances, this condition applies to all instances of that trait, and the specific circumstances are defined for each Trait separately.  
+Otherwise, the Technique continues to function.  
+The circumstances don't need to be extremely rare but they can't be so common as to almost always be applicable for the user (e.g. "enemies that can breathe").  
+Can't be combined with *Situational*{: .negative-color } effects involving the same circumstance.
+
+### *Cooldown*{: .negative-color} *(-1 FP)*{: .spirit-color } [X - Cap 5]
+
+This Technique can't be used again until [X] turns have passed, counting from the next turn.
+
+### *Delayed*{: .negative-color} *(-2 FP)*{: .spirit-color } [X - Cap 5]
+
+This Technique doesn't take effect immediately, instead being executed [X] rounds after it was used as a free action at the end of the round.  
+Targets are declared, *FP*{: .spirit-color } is spent and checks are rolled when this Technique is first used.  
+If the target is invalid when the Technique is executed, it either targets the same area (if a valid target has taken the initial target's place), or fails.  
+Instead of swapping with their allies, if a targeted character would swap under their own power, they can move the targeted space for this Technique the same distance – and can even move it outside of their group to completely dodge it.
+
+### *Exhausting*{: .negative-color} *(-4 FP)*{: .spirit-color } [X]
+
+The user can't take any more actions for [X] turns. They can still talk, move around (without changing position), take part in other characters' actions (such as *Team*{: .negative-color } Techniques and swapping with *Coordination*{: .heart-color }) and react freely.
+
+### *Fumble*{: .negative-color} *(-? FP)*{: .spirit-color } [Random]
+
+This Technique has a rare chance to backfire.  
+It contains a Fumble Slot of Technique Traits. When you use this Technique, roll 1d6; the Fumble Slot's Traits are suppressed, as long as you don't roll a 1.  
+The Fumble Slot can contain any number of Technique Traits, with their *FP cost*{: .spirit-color } calculated separately from your own Technique, including all of their negative Traits.  
+The Fumble Slot can have any number of Traits, but its overall *FP cost*{: .spirit-color } *must*{: .underlined } be negative.  
+The amount of *FP*{: .spirit-color } *Fumble*{: .negative-color } takes off of your Technique is equal to 1/3 of the Fumble Slot's *FP cost*{: .negative-color }.
+
+{: .example-callout}
+> *Example: Fumbled Attack*{: .header-font }
+>
+> A Hammer Bro swings with a devastating melee attack – but their hammer is so heavy, it has a 1 in 6 chance to Fumble!  
+> The Fumble Slot contains Harmless, and 6 instances of Penalty (Disarm (Tool)), which would normally save *-9 FP*{: .spirit-color }.  
+> This cost is divided by 3, for *-3 FP*{: .spirit-color }.  
+> When the Hammer Bro fumbles, they're unable to swing – and worse, they lose their grip on their hammer!
+
+You can combine *Lucky Hit*{: .positive-color } with *Fumble*{: .negative-color }. If the Technique has both traits, roll the same die once for both effects.
+
+### *Harmless*{: .negative-color} *(-3 FP)*{: .spirit-color } [Strikes]
+
+This Technique doesn't deal damage at all; it includes no Strikes, isn't affected by Attack and has no Primary Check, instead skipping to the Secondary Check (if applicable).  
+Since it has no need to physically strike at the target, it can also include the *Indirect*{: .positive-color } Trait at the user's option for no added cost.  
+This Trait can't be combined with *Weak*{: .negative-color }.
+
+### *Lacking*{: .negative-color} *(-1 FP)*{: .spirit-color } [X]
+
+Choose one of this Technique's distinct Positive Traits; it needs [X] additional Grades of Success in order to function, and is inactive if that threshold isn't met. If that Trait has multiple instances, this *Lacking*{: .negative-color } effect applies to all instances of that trait.  
+If you have multiple instances of *Lacking*{: .negative-color } targeting different traits, you can split the additional [X] Grades of Success between them freely.  
+This Trait can't save more *FP*{: .spirit-color } than the target Trait's total *FP*{: .spirit-color } cost.  
+This Trait can't be added if it would raise the minimum floor for the overall success of relevant checks.
+
+{: .example-callout}
+> *Example: Lacking Status*{: .header-font }
+>
+> If a Technique had both Lingering x3 and Daze x2, you could add Lacking (Daze) to require a *Good*{: .good-color } result or higher for Daze to function. You couldn't then add Lacking (Lingering), because then the Secondary Check would require a *Good*{: .good-color } result at minimum.
+
+### *Others* *(-1 FP)*{: .spirit-color } [Target]
+
+This Technique can only be used on one other willing target (e.g. allies), and not the user or their enemies.
+
+### *Penalty*{: .negative-color} *(-2 FP)*{: .spirit-color } [X - Cap 3]
+
+Choose up to [X] negative Statuses when you add this Trait (e.g. [Confused](TODO:LINK), [Dazed](TODO:LINK), [Disarmed](TODO:LINK), [Disoriented](TODO:LINK), [Lingering](TODO:LINK), [Provoked](TODO:LINK), [Stunned](TODO:LINK) or [Weakened](TODO:LINK)).  
+After this Technique resolves, you receive those Statuses with no opportunity to resist. The Status Level and duration of each Status added must add up to at least [XXXX], and their duration is unaffected by *Shorten*{: .negative-color }.  
+If you choose a Status you have an Immunity to, this effect bypasses that Immunity.  
+You can reduce this Status with *Steady*{: .courage-color } in later turns, as normal for any Status.
+
+### *Self*{: .negative-color} *(-? FP)*{: .spirit-color } [Target]
+
+This Technique can only be used on the user.  
+If this Technique has *Counter*{: .positive-color } or *Harmless*{: .negative-color }, this trait is worth *-1 FP*{: .spirit-color }.  
+Otherwise, this trait is worth *-2 FP*{: .spirit-color } for each point of Power in this Technique (after applying other Traits), and the user can't bypass or otherwise resist its damage through Immunities, Resistances, Secure or any other effect.
+
+### *Shorten*{: .negative-color} *(-1 FP)*{: .spirit-color } [X]
+
+The effects of this Technique last for [X] less turns, to a minimum of 1.  
+This Trait can't be taken more than the maximum number of turns all of its effects can last.
+
+### *Side-Effect*{: .negative-color} *(-2 FP)*{: .spirit-color } [X - Cap 3]
+
+Choose up to [X] positive Statuses when you add this Trait (e.g. [Boosted](TODO:LINK), [Hustled](TODO:LINK) or [Secure](TODO:LINK)).  
+Before this Technique resolves, regardless of its check result, all targeted enemies receive that Status. The Status Level and duration of each Status added must add up to at least [XXXX], their duration is unaffected by *Shorten*{: .negative-color }, and the Status Level can't exceed the maximum allowed for the Status (e.g. Secure can't go beyond Status Level 1).  
+Any Status added with this Trait must be impactful and useful to a general enemy; Boost (Attack) would be fine for most cases, but something like Boost (*Knowhow*{: .spirit-color }) would generally be too niche and require GM approval.
+
+### *Situational*{: .negative-color} *(-? FP)*{: .spirit-color }
+
+Choose one:
+
+- For *-2 FP*{: .spirit-color }, this Technique can't be used while in a specific situation, such as while in a specific State or while using a Power-Up.
+- For *-4 FP*{: .spirit-color }, this Technique can't be used at all outside of a specific situation, such as while underwater, while the target is at full health, or while in midair.
+
+In either case, the situation doesn't need to be extremely rare but it must be reasonably plausible for the user (e.g. a Goomba couldn't have "while flipped over"), and it can't be so common as to always be applicable (e.g. a Goomba couldn't have "while able to breathe").  
+Can't be combined with *Conditional*{: .negative-color } effects involving the same circumstances.
+
+### *Team*{: .negative-color} *(-2 FP)*{: .spirit-color } [Secondary - *Coordination*{: .heart-color }/*Cheer*{: .courage-color }] [X]
+
+This Technique requires the user and [X] other allies to roll for this Technique's Secondary Check first, before the Primary Check is rolled; if any participant's roll fails to meet the Secondary Check's minimum requirements, the Technique fails.  
+Otherwise, you can use the result of any other participant's Secondary Check in place of your Primary Check and/or your Secondary Check.  
+If you replace your Primary Check in this way, don't roll for your own Primary Check.  
+For the purposes of rewarding Exceptional Results and Exceptional Technique boosts, the user makes all decisions, but *SP*{: .courage-color } earned goes to the character who made the check, and only the checks used for the final Technique can earn *SP*{: .courage-color }.
+
+### *Unwieldy*{: .negative-color} *(-2 FP)*{: .spirit-color } [X]
+
+This Technique requires [X] more Grades of Success to function; you can apply these additional requirements to either its Primary or Secondary checks freely.
+
+### *Weak*{: .negative-color} *(-2 FP)*{: .spirit-color } [X - Cap by Power]
+
+This Technique has –[X] Power. This Trait cannot be combined with *Harmless*{: .negative-color }, and cannot reduce Power lower than 0.
+
+{: .tip-callout }
+> *If you're confident you can hit your targets, **Scaling**{: .positive-color } and **Strong**{: .positive-color } combo well with **Unwieldy**{: .negative-color } to make your attacks much more powerful! Consider adding these traits on as you level up and get better at making checks. ![](assets/images/icons/tipguy.png)*{: .icon-right }
