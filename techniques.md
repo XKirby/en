@@ -175,7 +175,7 @@ The target is [Charmed](TODO:LINK), causing them to be easily persuaded, for [X]
 For every additional Grade of Success, increase the Status Level by 1, to a maximum of [X].
 
 {: .tip-callout }
-> *An enemy Charmed is an enemy you don't have to deal with, **and* *{: .underlined } an asset to fight your enemies! Even outside of combat, Charm can be incredibly useful. ![](assets/images/icons/tipguy.png)*{: .icon-right }
+> *An enemy Charmed is an enemy you don't have to deal with, **and**{: .underlined } an asset to fight your enemies! Even outside of combat, Charm can be incredibly useful. ![](assets/images/icons/tipguy.png)*{: .icon-right }
 
 ### *Coin Toss*{: .positive-color} *(+? FP)*{: .spirit-color } [Random]
 
@@ -196,11 +196,11 @@ If after this Coin Toss would have a negative *FP cost*{: .spirit-color }, you c
 {: .example-callout}
 > *Example: Heads or Tails*{: .header-font }
 >
-> A gambling Shy Guy spins into a wild, uncontrolled kick!
-> Essentially, they flip a coin; if it comes up Heads, they can add Strong to their kick! If it comes up Tails, though, they Exhaust themselves instead.
-> On the Heads side, Strong would normally cost *2 FP*{: .spirit-color }, so they add ½ that for *+1 FP*{: .spirit-color } to the cost.
-> Looking at Tails though, Exhausting would save *-4 FP*{: .spirit-color }; so they take ½ that away, for *-2 FP*{: .spirit-color }.
-> Both sides have the same number of Traits, so they add *+1 FP*{: .spirit-color } for 1 Trait.
+> A gambling Shy Guy spins into a wild, uncontrolled kick!  
+> Essentially, they flip a coin; if it comes up Heads, they can add Strong to their kick! If it comes up Tails, though, they Exhaust themselves instead.  
+> On the Heads side, Strong would normally cost *2 FP*{: .spirit-color }, so they add ½ that for *+1 FP*{: .spirit-color } to the cost.  
+> Looking at Tails though, Exhausting would save *-4 FP*{: .spirit-color }; so they take ½ that away, for *-2 FP*{: .spirit-color }.  
+> Both sides have the same number of Traits, so they add *+1 FP*{: .spirit-color } for 1 Trait.  
 > The gambler's kick is so risky, it would actually work out to *0 FP*{: .spirit-color } overall!
 
 ### *Counter*{: .positive-color} *(+3 FP)*{: .spirit-color }
@@ -320,15 +320,12 @@ The overall *FP cost*{: .spirit-color } *Lucky Hit*{: .positive-color } adds to 
 {: .example-callout}
 > *Example: Lucky Critical*{: .header-font }
 >
-> A roguish Swooper strikes from the shadows! Their attack has a 1 in 6 chance to land a devastating Lucky Hit!
-> The Lucky Slot contains 4 instances of Strong, which would normally cost *8 FP*{: .spirit-color }.
-> This cost is divided by 3 and rounded down, for *2 FP*{: .spirit-color }. Since it contains 4 Traits (two pairs), another *+2 FP*{: .spirit-color } is added.
+> A roguish Swooper strikes from the shadows! Their attack has a 1 in 6 chance to land a devastating Lucky Hit!  
+> The Lucky Slot contains 4 instances of Strong, which would normally cost *8 FP*{: .spirit-color }.  
+> This cost is divided by 3 and rounded down, for *2 FP*{: .spirit-color }. Since it contains 4 Traits (two pairs), another *+2 FP*{: .spirit-color } is added.  
 > Overall, this Lucky Hit costs *4 FP*{: .spirit-color } – half the usual cost!
 
 You can combine *Lucky Hit*{: .positive-color } with *Fumble*{: .negative-color }. If the Technique has both traits, roll the same die once for both effects.
-
-{: .tip-callout }
-> *You know what they say; better lucky than good. ![](assets/images/icons/tipguy.png)*{: .icon-right }
 
 ### *Minion*{: .positive-color} *(+3 FP)*{: .spirit-color } [Secondary - *Bully*{: .courage-color }/*Cheer*{: .courage-color }/*Magic*{: .magic-color }/*Persuade*{: .courage-color }] [Target] [X]
 
@@ -401,9 +398,9 @@ Otherwise, if *Roulette*{: .positive-color } would cost *0 FP*{: .spirit-color }
 {: .example-callout}
 > *Example: Elemental Roulette*{: .header-font }
 >
-> A Magikoopa conjures a blast of prismatic energy, shifting between 6 different elements at random.
-> Each Roulette Slot has a different Element Trait, but no other Traits.
-> The magician only has to pay for one of those Roulette Slots (costing *1 FP*{: .spirit-color }), then *+1 FP*{: .spirit-color } for the one Trait used.
+> A Magikoopa conjures a blast of prismatic energy, shifting between 6 different elements at random.  
+> Each Roulette Slot has a different Element Trait, but no other Traits.  
+> The magician only has to pay for one of those Roulette Slots (costing *1 FP*{: .spirit-color }), then *+1 FP*{: .spirit-color } for the one Trait used.  
 > Thus, Roulette would add *+2 FP*{: .spirit-color }, instead of the *+6 FP*{: .spirit-color } normally paid for each Element added together.
 
 ### *Safe*{: .positive-color} *(+2 FP)*{: .spirit-color }
