@@ -11,6 +11,7 @@ nav_order: 12
 While all the peoples of the Mushroom Kingdom are wildly different, their advantages are roughly alike. Every Species looks something like this:
 
 ---
+{: .species-separator }
 
 ## Species Name
 
@@ -66,12 +67,14 @@ Includes potential outcomes and skills required for Primary and Secondary checks
 *The traits used to make this Technique are shown here*{: .italic }
 
 ---
+{: .species-separator }
 
 Some of the more commonly adventurous folk of the Mushroom Kingdom are listed here; it is however far from all the available options, as the Mushroom Kingdom and its surrounds are huge and incredibly diverse.
 
 For some of the rarer Species, or those less inclined to adventure – from Toads to Chomps to Piantas – refer to the [Species Compendium](TODO:LINK).
 
 ---
+{: .species-separator }
 
 ## Bob-Omb
 
@@ -127,3 +130,78 @@ Auto: 2 DMG
 *Element (Blast), Scaling x2, Variant (_Athletics_{: .heart-color }), All (Indirect), Strong*{: .italic }
 
 ---
+{: .species-separator }
+
+## Boo
+
+![](assets/images/species/boo.png)
+{: .float-right-desktop }
+The origins of Boos are shrouded in mystery. What is known for sure though is they're ghosts with a penchant for trickery. While most are reclusive, few Boos can resist a good scare.
+
+### *+2 Spirit*{: .spirit-color }
+### 1 Power, 0 Defense
+
+### Pros
+
+*+ Trickery (Dodge)*{: .spirit-color }
+
+*+ Knowhow (Lore)*{: .spirit-color }
+
+*+ Bully (Surprises)*{: .courage-color }
+
+Immune (Fear, Poison)
+
+Immune (Shadow)  
+> *You recover _HP_{: .heart-color } equal to the attack's damage (minimum _1 HP_{: .heart-color }).*{: .fs-3 }  
+> *If there's any excess _HP_{: .heart-color }, your Attack is Boosted (1) for a number of turns equal to the excess _HP_{: .heart-color }.*{: .fs-3 }
+
+Clone (Illusions)
+
+Hover
+
+Fly
+
+Intangibility
+
+Invisibility
+
+Undead (Lifelike)
+
+### Cons
+
+Weakness (Life Magic, Sudden Light, Stars)  
+&emsp;&emsp;*Any _HP_{: .heart-color } you would normally recover is treated as damage instead; then, you take double damage.*{: .fs-3 }  
+&emsp;&emsp;*If this Technique wouldn't usually deal damage, it deals 2 Piercing damage.*{: .fs-3 }  
+&emsp;&emsp;*You're left Dazed (1) for a number of turns equal to the damage taken.*{: .fs-3 }
+
+### Tech Defaults
+
+Boost (*Dodge*{: .spirit-color })  
+*Element (Shadow)*{: .alt-grey-line }  
+Fear x2  
+*Secure (Intangible)*{: .alt-grey-line }
+
+*Optional*{: .underlined }: Element (Shadow) on Indirect or Ranged Techniques
+
+### Example Techniques
+
+Frightening Smack (*0 FP*{: .spirit-color })  
+A spooky backhand terrifies the foe, causing them to either flee or cower in fear.  
+*Coordination*{: .heart-color }:  
+*Nice!*{: .nice-color }: 1 DMG    
+*Good!*{: .good-color }: 2 DMG  
+*Bully (+Surprises)*{: .courage-color }:  
+*Nice!*{: .nice-color }: Stun (1) for 4 turns  
+*Good!*{: .good-color }: Stun (2) for 4 turns  
+*Great!*{: .great-color }: Stun (3) for 4 turns  
+*Wonderful!*{: .wonderful-color }: Stun (4) for 4 turns  
+*Fear x4, Unwieldy*{: .italic }
+
+Outta Sight (*0 FP*{: .spirit-color })  
+Hides you and your allies away from attacks.  
+*Trickery (+Evade)*{: .spirit-color }:  
+*Nice!*{: .nice-color }: Become Secure for one turn.  
+*Secure, Allies, Harmless*{: .italic }
+
+---
+{: .species-separator }
