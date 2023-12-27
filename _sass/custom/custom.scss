@@ -43,6 +43,74 @@ h6 {
   height: 100%;
 }
 
+$pink-000: #f77ef1;
+$pink-100: #f967f1;
+$pink-200: #e94ee1;
+$pink-300: #dd2cd4;
+
+$brown-000: #CFBDA9;
+$brown-100: #AC9A86;
+$brown-200: #64503E;
+$brown-300: #4F3C29;
+
+.example-callout,
+.example-callout-titlle {
+  color: $brown-300;
+}
+
+$heart-color: #C00000;
+$courage-color: #E36C0A;
+$spirit-color: #00B050;
+$positive-color: #92D050;
+$negative-color: #943634;
+$nice-color: #1F497D;
+$excellent-color: #4BACC6;
+$unbelievable-color: #8064A2;
+
+.heart-color {
+  color: $heart-color;
+}
+
+.courage-color {
+  color: $courage-color;
+}
+
+.spirit-color {
+  color: $spirit-color;
+}
+
+.positive-color {
+  color: $positive-color;
+}
+
+.negative-color {
+  color: $negative-color;
+}
+
+.nice-color {
+  color: $nice-color;
+}
+
+.good-color {
+  color: $spirit-color;
+}
+
+.great-color {
+  color: $courage-color;
+}
+
+.wonderful-color {
+  color: $heart-color;
+}
+
+.excellent-color {
+  color: $excellent-color;
+}
+
+.unbelievable-color {
+  color: $unbelievable-color;
+}
+
 // // Clearfix for float-icon
 // .float-icon::after {
 //   content: "";
