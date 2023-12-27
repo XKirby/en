@@ -12,32 +12,32 @@ While all the peoples of the Mushroom Kingdom are wildly different, their advant
 
 ---
 
-![](assets/images/icons/tipguy.png)
-{: .float-right-desktop }
 ## Species Name
 
+![](assets/images/icons/tipguy.png)
+{: .float-right-desktop }
 A description of the Species and how they fit into the world. These descriptions are simple and general, and do not define individual members of their Species.
 
 ### Stat Modifiers
 ### Base Power & Defense
 
-#### Pros
+### Pros
 
 The Skill Specialisations and other Traits that make denizens of that Species more capable.  
 &emsp;&emsp;*Some Traits, like Immune, will be described in more detail like this.*{: .fs-3 }
 
-#### Cons
+### Cons
 
 The Traits that a character of that Species have to deal with that are generally less desirable.  
 &emsp;&emsp;*Some Traits, like Weakness, will be described in more detail like this.*{: .fs-3 }
 
-#### Other Traits
+### Other Traits
 
 Any other qualities the species has that may not fit neatly into a Pro or a Con go here in one large block underneath Pros and Cons.
 
 Most often this is for Species with a State Trait, which grants them contextual bonuses/penalties.
 
-#### Tech Defaults
+### Tech Defaults
 
 Sets of Technique Traits a character of that Species can include when they start designing a Technique, without affecting its cost.
 
@@ -53,7 +53,7 @@ Example Tech 3
 
 Any *Required*{: .underlined } or *Optional*{: .underlined } effects are listed underneath, and can (or must) be taken in addition to Tech Defaults.
 
-#### Example Techniques
+### Example Techniques
 
 An example of a Technique a character of this Species might use, assuming they have 1 Power and not accounting for their level limit on negative Traits.
 
@@ -73,16 +73,16 @@ For some of the rarer Species, or those less inclined to adventure – from Toad
 
 ---
 
-![](assets/images/species/bob-omb.png)
-{: .float-right-desktop }
 ## Bob-Omb
 
+![](assets/images/species/bob-omb.png)
+{: .float-right-desktop }
 Bob-Ombs are demolitions experts. As much as it confuses people, Bob-Ombs suffer no ill effects from blowing themselves up, and many seem to relish the act. Despite this they are rarely violent and often even-tempered.
 
 ### *+1 Heart*{: .heart-color }, *+1 Spirit*{: .spirit-color }
 ### 1 Power, 1 Defense
 
-#### Pros
+### Pros
 
 *+ Athletics (Explode)*{: .heart-color }  
 *+ Crafts (Demolition)*{: .spirit-color }  
@@ -92,13 +92,13 @@ Immune (Poison)
 1 Resist (Ice)  
 Construct (Lifelike)
 
-#### Cons
+### Cons
 
 Weakness (Blast, Fire)  
 &emsp;&emsp;*You take +2 damage and detonate harmlessly, leaving you completely Stunned (6) for the next 2 turns.*{: .fs-3 }  
 Handless
 
-#### Tech Defaults
+### Tech Defaults
 
 Burst  
 *Indirect*{: .alt-grey-line }  
@@ -107,7 +107,7 @@ Ranged
 
 *Optional*{: .underlined }: Element (Blast) on attacks, or Element (Blast) and Variant (*Athletics*{: .heart-color} - Primary Only) on Indirect attacks
 
-#### Example Techniques
+### Example Techniques
 
 Quick Blast (*0 FP*{: .spirit-color })  
 Quickly detonates to blast foes away.  
