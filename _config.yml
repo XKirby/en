@@ -88,6 +88,18 @@ callouts:
   tip-callout:
     color: alt-blue
     opacity: 1
+  specie-callout:
+    color: beige
+    opacity: 1
+  specie-pros-callout:
+    color: green
+    opacity: 1
+  specie-cons-callout:
+    color: red
+    opacity: 1
+  specie-inner-callout:
+    color: grey-lt
+    opacity: 1
 
 exclude:
   - tag/TAG.md
