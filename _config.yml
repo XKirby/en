@@ -85,6 +85,9 @@ callouts:
   example-callout:
     color: brown
     opacity: 1
+  tip-callout:
+    color: alt-blue
+    opacity: 1
 
 exclude:
   - tag/TAG.md
