@@ -8,15 +8,6 @@ nav_order: 12
 # Species
 {: .no_toc }
 
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
-
 While all the peoples of the Mushroom Kingdom are wildly different, their advantages are roughly alike. Every Species looks something like this:
 
 ---
@@ -86,7 +77,7 @@ For some of the rarer Species, or those less inclined to adventure – from Toad
 {: .species-separator }
 
 {: .specie-callout }
-> *Bob-Omb*{: .text-beta .header-font }{:toc}  
+> *Bob-Omb*{: .text-beta .header-font }  
 >
 > ![](assets/images/species/bob-omb.png)
 > {: .float-right-desktop }
@@ -151,7 +142,7 @@ Auto: 2 DMG
 {: .species-separator }
 
 {: .specie-callout }
-> *Boo*{: .text-beta .header-font }{:toc}  
+> *Boo*{: .text-beta .header-font }  
 >
 > ![](assets/images/species/boo.png)
 > {: .float-right-desktop }
@@ -224,7 +215,7 @@ Hides you and your allies away from attacks.
 {: .species-separator }
 
 {: .specie-callout }
-> *Dayzee*{: .text-beta .header-font }{:toc}  
+> *Dayzee*{: .text-beta .header-font }  
 >
 > ![](assets/images/species/dayzee.png)
 > {: .float-right-desktop }
@@ -293,7 +284,7 @@ Targeted singing puts the target to sleep while dealing damage.
 {: .species-separator }
 
 {: .specie-callout }
-> *Goomba*{: .text-beta .header-font }{:toc}  
+> *Goomba*{: .text-beta .header-font }  
 >
 > ![](assets/images/species/goomba.png)
 > {: .float-right-desktop }
@@ -351,7 +342,7 @@ Focus you power for 4 turns.
 {: .species-separator }
 
 {: .specie-callout }
-> *Koopa*{: .text-beta .header-font }{:toc}  
+> *Koopa*{: .text-beta .header-font }  
 >
 > ![](assets/images/species/koopa.png)
 > {: .float-right-desktop }
@@ -414,7 +405,7 @@ Bolsters the target's Defense with a borrowed shell.
 {: .species-separator }
 
 {: .specie-callout }
-> *Squeek*{: .text-beta .header-font }{:toc}  
+> *Squeek*{: .text-beta .header-font }  
 >
 > ![](assets/images/species/squeek.png)
 > {: .float-right-desktop }
