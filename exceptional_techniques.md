@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Star Power
-permalink: /star_power
+title: Exceptional Techniques
+permalink: /exceptional_techniques
 nav_order: 16
 ---
 
