@@ -174,8 +174,8 @@ Each subsequent attack deals -1 damage (to a minimum of 1), calculated for each 
 The target is [Charmed](TODO:LINK), causing them to be easily persuaded, for [X] turns.  
 For every additional Grade of Success, increase the Status Level by 1, to a maximum of [X].
 
-{: .tip-callout }
-> *An enemy Charmed is an enemy you don't have to deal with, **and**{: .underlined } an asset to fight your enemies! Even outside of combat, Charm can be incredibly useful. ![](assets/images/icons/tipguy.png)*{: .icon-right }
+{: .tip-callout .icon-right }
+> *An enemy Charmed is an enemy you don't have to deal with, **and**{: .underlined } an asset to fight your enemies! Even outside of combat, Charm can be incredibly useful.* ![](assets/images/icons/tipguy.png)
 
 ### *Coin Toss*{: .positive-color} *(+? FP)*{: .spirit-color } [Random]
 
