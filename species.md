@@ -112,13 +112,13 @@ Ranged
 > > *Example Techniques*{: .text-gamma .header-font }  
 > >
 > > {: .specie-inner-callout }  
-> > > *Quick Blast (**0 FP**{: .spirit-color })*{: .header-font }  
+> > > *Quick Blast*{: .header-font } (**0 FP**{: .spirit-color })  
 Quickly detonates to blast foes away.  
 *Athletics (+Explode)*{: .heart-color }:  
 *Nice!*{: .nice-color }: 4 DMG  
 *Element (Blast), Indirect, Variant (**Athletics**{: .heart-color }), Strong, Commitment*{: .italic }
 > > {: .specie-inner-callout }  
-> > > *Bob-Ombast (**8 FP**{: .spirit-color })*{: .header-font }  
+> > > *Bob-Ombast*{: .header-font } (**8 FP**{: .spirit-color })  
 A powerful explosion that blasts everything away – including your allies.  
 *Athletics (+Explode)*{: .heart-color }:  
 Auto: 2 DMG  
@@ -179,7 +179,7 @@ Fear x2
 > > *Example Techniques*{: .text-gamma .header-font }  
 > >
 > > {: .specie-inner-callout }  
-> > > Frightening Smack (*0 FP*{: .spirit-color })  
+> > > *Frightening Smack*{: .header-font } (*0 FP*{: .spirit-color })  
 A spooky backhand terrifies the foe, causing them to either flee or cower in fear.  
 *Coordination*{: .heart-color }:  
 *Nice!*{: .nice-color }: 1 DMG    
@@ -191,7 +191,7 @@ A spooky backhand terrifies the foe, causing them to either flee or cower in fea
 *Wonderful!*{: .wonderful-color }: Stun (4) for 4 turns  
 *Fear x4, Unwieldy*{: .italic }
 > > {: .specie-inner-callout }  
-> > > Outta Sight (*0 FP*{: .spirit-color })  
+> > > *Outta Sight*{: .header-font } (*0 FP*{: .spirit-color })  
 Hides you and your allies away from attacks.  
 *Trickery (+Evade)*{: .spirit-color }:  
 *Nice!*{: .nice-color }: Become Secure for one turn.  
@@ -302,7 +302,7 @@ Flowery
 > > *Example Techniques*{: .text-gamma .header-font }  
 > >
 > > {: .specie-inner-callout }  
-> > > Pollen Pounder (*0 FP*{: .spirit-color })  
+> > > *Pollen Pounder*{: .header-font } (*0 FP*{: .spirit-color })  
 An aggressive headbutt rife with pollen puts foes to sleep.  
 *Coordination*{: .heart-color }:  
 Auto: 1 Earth DMG  
@@ -312,7 +312,7 @@ Auto: 1 Earth DMG
 *Good!*{: .good-color }: Daze (2) for 2 turns  
 *Daze x2, Element (Earth)*{: .italic }
 > > {: .specie-inner-callout }  
-> > > Lullaby (*3 FP*{: .spirit-color })  
+> > > *Lullaby*{: .header-font } (*3 FP*{: .spirit-color })  
 Targeted singing puts the target to sleep while dealing damage.  
 *Perform (+Sing)*{: .courage-color }:  
 *Good!*{: .good-color }: 4 DMG  
@@ -416,14 +416,14 @@ Repeat
 > > *Example Techniques*{: .text-gamma .header-font }  
 > >
 > > {: .specie-inner-callout }  
-> > > Headbonk (*0 FP*{: .spirit-color })  
+> > > *Headbonk*{: .header-font } (*0 FP*{: .spirit-color })  
 A double-tapping aerial strike, made with the head.  
 *Athletics (+Jump)*{: .heart-color }:  
 Auto: 1 DMG
 *Nice!*{: .nice-color }: 1 DMG x2  
 *Aerial*{: .italic }
 > > {: .specie-inner-callout }  
-> > > Charge (*2 FP*{: .spirit-color })  
+> > > *Charge*{: .header-font } (*2 FP*{: .spirit-color })  
 Focus you power for 4 turns.  
 *Cheer (+Aggression)*{: .courage-color }:  
 *Nice!*{: .nice-color }: +1 Attack for 4 turns  
@@ -520,14 +520,14 @@ Indirect
 > > *Example Techniques*{: .text-gamma .header-font }  
 > >
 > > {: .specie-inner-callout }  
-> > > Shell Toss (*0 FP*{: .spirit-color })  
+> > > *Shell Toss*{: .header-font } (*0 FP*{: .spirit-color })  
 Hits one target in melee with your shell.  
 *Athletics (+Shells)*{: .heart-color }:  
 Auto: 1 DMG  
 *Nice!*{: .nice-color }: 2 DMG  
 *Indirect, Variant (**Athletics**{: .heart-color })*{: .italic }
 > > {: .specie-inner-callout }  
-> > > Shell Shield (*3 FP*{: .spirit-color })  
+> > > *Shell Shield*{: .header-font } (*3 FP*{: .spirit-color })  
 Bolsters the target's Defense with a borrowed shell.  
 *Guard*{: .heart-color }:  
 *Nice!*{: .nice-color }: +1 Defense for 4 turns  
@@ -624,14 +624,14 @@ Snatch
 > > *Example Techniques*{: .text-gamma .header-font }  
 > >
 > > {: .specie-inner-callout }  
-> > > Tricky Slap (*0 FP*{: .spirit-color })  
+> > > *Tricky Slap*{: .header-font } (*0 FP*{: .spirit-color })  
 Slaps an enemy, ignoring defense.  
 *Coordination*{: .heart-color }:  
 Auto: 1 Piercing DMG  
 *Nice!*{: .nice-color }: 1 Piercing DMG x2  
 *Piercing*{: .italic }
 > > {: .specie-inner-callout }  
-> > > Tricky Thief (*0 FP*{: .spirit-color })  
+> > > *Tricky Thief*{: .header-font } (*0 FP*{: .spirit-color })  
 Steals an item from the target.  
 *Trickery (+Theft)*{: .spirit-color }:  
 Choose one option based on your Grades of Success.  
