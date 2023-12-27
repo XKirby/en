@@ -21,11 +21,11 @@ The number of Successes needed for any action is reduced to a shorthand, represe
 
 - *0 Successes:*{: .header-font } Nothing; unless the action can work automatically, it fails.
 - *1 Successes:*{: .header-font } *Nice! 1 Grade of Success.*{: .nice-color }
-- *2 Successes:*{: .header-font } Good! 2 Grades of Success.{: .good-color }
-- *4 Successes:*{: .header-font } Great! 3 Grades of Success.{: .great-color }
-- *6 Successes:*{: .header-font } Wonderful! 4 Grades of Success.{. .wonderful-color }
-- *8 Successes:*{: .header-font } Excellent! 5 Grades of Success.{: .excellent-color }
-- *10 Successes:*{: .header-font } Unbelievable! 6 Grades of Success.{: .unbelievable-color }
+- *2 Successes:*{: .header-font } *Good! 2 Grades of Success.*{: .good-color }
+- *4 Successes:*{: .header-font } *Great! 3 Grades of Success.*{: .great-color }
+- *6 Successes:*{: .header-font } *Wonderful! 4 Grades of Success.*{. .wonderful-color }
+- *8 Successes:*{: .header-font } *Excellent! 5 Grades of Success.*{: .excellent-color }
+- *10 Successes:*{: .header-font } *Unbelievable! 6 Grades of Success.*{: .unbelievable-color }
 
 Any additional Grades of Success beyond *Unbelievable*{: .unbelievable-color } require 2 more Successes at a time.
 

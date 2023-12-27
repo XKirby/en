@@ -43,6 +43,10 @@ h6 {
   font-style: italic;
 }
 
+.bold {
+  font-weight: bold;
+}
+
 .icon-left {
   display: flex;
   flex-direction: row;
@@ -60,6 +64,10 @@ h6 {
   flex-direction: row;
   align-items: center;
   gap: 10px;
+}
+
+.mgl {
+  margin-left: 2em;
 }
 
 @media screen and (min-width: 480px) {
@@ -159,6 +167,11 @@ div {
 em {
   // Remove italic style
   font-style: normal;
+}
+
+em strong {
+  // Remove bold style within italic
+  font-weight: normal;
 }
 
 a.nav-list-link {

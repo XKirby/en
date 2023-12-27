@@ -148,9 +148,8 @@ The origins of Boos are shrouded in mystery. What is known for sure though is th
 *+ Bully (Surprises)*{: .courage-color }  
 Immune (Fear, Poison)  
 Immune (Shadow)  
-> *You recover*{: .fs-3 } *HP*{: .fs-3 .heart-color } *equal to the attack's damage (minimum*{: .fs-3 } *1 HP*{: .fs-3 .heart-color })*.*{: .fs-3 }  
-> *If there's any excess*{: .fs-3 } *HP*{: .fs-3 .heart-color }*, your Attack is Boosted (1) for a number of turns equal to the excess*{: .fs-3 } *HP*{: .fs-3 .heart-color }*.*{: .fs-3 }
-
+*You recover **HP**{: .heart-color } equal to the attack's damage (minimum **1 HP**{: .heart-color }).*{: .mgl .fs-3 }  
+*If there's any excess **HP**{: .heart-color }, your Attack is Boosted (1) for a number of turns equal to the excess **HP**{: .heart-color }.*{: .mgl .fs-3 }  
 Clone (Illusions)  
 Hover  
 Fly  
