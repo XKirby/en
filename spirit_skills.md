@@ -5,7 +5,8 @@ permalink: /spirit_skills
 nav_order: 9
 ---
 
-![](assets/images/icons/spirit.png) {: .float-right }
+![](assets/images/icons/spirit.png)
+{: .float-right }
 
 # Spirit Skills
 {: .no_toc .spirit-color }

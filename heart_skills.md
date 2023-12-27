@@ -5,7 +5,8 @@ permalink: /heart_skills
 nav_order: 8
 ---
 
-![](assets/images/icons/heart.png) {: .float-right }
+![](assets/images/icons/heart.png)
+{: .float-right }
 
 # Heart Skills
 {: .no_toc .heart-color }

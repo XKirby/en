@@ -5,7 +5,8 @@ permalink: /courage_skills
 nav_order: 10
 ---
 
-![](assets/images/icons/courage.png) {: .float-right }
+![](assets/images/icons/courage.png)
+{: .float-right }
 
 # Courage Skills
 {: .no_toc .courage-color }
