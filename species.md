@@ -143,28 +143,19 @@ The origins of Boos are shrouded in mystery. What is known for sure though is th
 
 ### Pros
 
-*+ Trickery (Dodge)*{: .spirit-color }
-
-*+ Knowhow (Lore)*{: .spirit-color }
-
-*+ Bully (Surprises)*{: .courage-color }
-
-Immune (Fear, Poison)
-
+*+ Trickery (Dodge)*{: .spirit-color }  
+*+ Knowhow (Lore)*{: .spirit-color }  
+*+ Bully (Surprises)*{: .courage-color }  
+Immune (Fear, Poison)  
 Immune (Shadow)  
-> *You recover _HP_{: .heart-color } equal to the attack's damage (minimum _1 HP_{: .heart-color }).*{: .fs-3 }  
-> *If there's any excess _HP_{: .heart-color }, your Attack is Boosted (1) for a number of turns equal to the excess _HP_{: .heart-color }.*{: .fs-3 }
+> *You recover*{: .fs-3 } *HP*{: .fs-3 .heart-color } *equal to the attack's damage (minimum*{: .fs-3 } *1 HP*{: .fs-3 .heart-color })*.*{: .fs-3 }  
+> *If there's any excess*{: .fs-3 } *HP*{: .fs-3 .heart-color }*, your Attack is Boosted (1) for a number of turns equal to the excess*{: .fs-3 } *HP*{: .fs-3 .heart-color }*.*{: .fs-3 }
 
-Clone (Illusions)
-
-Hover
-
-Fly
-
-Intangibility
-
-Invisibility
-
+Clone (Illusions)  
+Hover  
+Fly  
+Intangibility  
+Invisibility  
 Undead (Lifelike)
 
 ### Cons
