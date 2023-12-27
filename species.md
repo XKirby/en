@@ -236,8 +236,8 @@ Flowery
 Pollen Pounder (*0 FP*{: .spirit-color })  
 An aggressive headbutt rife with pollen puts foes to sleep.  
 *Coordination*{: .heart-color }:  
-Auto: 1 Earth DMG
-*Nice!*{: .nice-color }: 2 Earth DMG    
+Auto: 1 Earth DMG  
+*Nice!*{: .nice-color }: 2 Earth DMG  
 *Bully*{: .courage-color }:  
 *Nice!*{: .nice-color }: Daze (1) for 2 turns  
 *Good!*{: .good-color }: Daze (2) for 2 turns  
@@ -343,7 +343,7 @@ Indirect
 Shell Toss (*0 FP*{: .spirit-color })  
 Hits one target in melee with your shell.  
 *Athletics (+Shells)*{: .heart-color }:  
-Auto: 1 DMG
+Auto: 1 DMG  
 *Nice!*{: .nice-color }: 2 DMG  
 *Indirect, Variant (**Athletics**{: .heart-color })*{: .italic }
 
@@ -392,14 +392,14 @@ Snatch
 Tricky Slap (*0 FP*{: .spirit-color })  
 Slaps an enemy, ignoring defense.  
 *Coordination*{: .heart-color }:  
-Auto: 1 Piercing DMG
+Auto: 1 Piercing DMG  
 *Nice!*{: .nice-color }: 1 Piercing DMG x2  
 *Piercing*{: .italic }
 
 Tricky Thief (*0 FP*{: .spirit-color })  
 Steals an item from the target.  
 *Trickery (+Theft)*{: .spirit-color }:  
-Choose one option based on your Grades of Success.
+Choose one option based on your Grades of Success.  
 *Nice!*{: .nice-color }: 1d6 Coins, +1d6 per Grade of Success  
 *Nice!*{: .nice-color }: A small Item  
 *Good!*{: .good-color }: A large Item  
