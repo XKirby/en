@@ -56,7 +56,7 @@ Example Tech 3
 > > An example of a Technique a character of this Species might use, assuming they have 1 Power and not accounting for their level limit on negative Traits.  
 Includes potential outcomes and skills required for Primary and Secondary checks.
 > >
-> > Example (*X FP*{: .spirit-color })  
+> > *Example*{: .header-font } (*X FP*{: .spirit-color })  
 Primary Check  
 Secondary Check  
 Includes potential outcomes and skills required for Primary and Secondary checks.  
