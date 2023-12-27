@@ -56,11 +56,15 @@ Example Tech 3
 > > An example of a Technique a character of this Species might use, assuming they have 1 Power and not accounting for their level limit on negative Traits.  
 Includes potential outcomes and skills required for Primary and Secondary checks.
 > >
-> > *Example*{: .header-font } (*X FP*{: .spirit-color })  
+> > {: .specie-inner-callout }  
+> > > *Example*{: .header-font } (**X FP**{: .spirit-color })  
 Primary Check  
 Secondary Check  
 Includes potential outcomes and skills required for Primary and Secondary checks.  
 *The traits used to make this Technique are shown here*{: .italic }
+> > >
+> >
+>
 
 ---
 {: .species-separator }
@@ -108,8 +112,8 @@ Ranged
 > > *Optional*{: .underlined }: Element (Blast) on attacks, or Element (Blast) and Variant (*Athletics*{: .heart-color} - Primary Only) on Indirect attacks
 > >
 >
-> {: .specie-inner-callout }
-> > *Example Techniques*{: .text-gamma .header-font }  
+> {: .specie-inverted-callout }
+> > *Example Techniques*{: .text-gamma .header-font .text-grey-lt-000 }  
 > >
 > > {: .specie-inner-callout }  
 > > > *Quick Blast*{: .header-font } (**0 FP**{: .spirit-color })  
@@ -195,73 +199,17 @@ A spooky backhand terrifies the foe, causing them to either flee or cower in fea
 *Great!*{: .great-color }: Stun (3) for 4 turns  
 *Wonderful!*{: .wonderful-color }: Stun (4) for 4 turns  
 *Fear x4, Unwieldy*{: .italic }
+> > >
+> >
 > > {: .specie-inner-callout }  
 > > > *Outta Sight*{: .header-font } (*0 FP*{: .spirit-color })  
 Hides you and your allies away from attacks.  
 *Trickery (+Evade)*{: .spirit-color }:  
 *Nice!*{: .nice-color }: Become Secure for one turn.  
 *Secure, Allies, Harmless*{: .italic }
-
-## Boo
-
-![](assets/images/species/boo.png)
-{: .float-right-desktop }
-The origins of Boos are shrouded in mystery. What is known for sure though is they're ghosts with a penchant for trickery. While most are reclusive, few Boos can resist a good scare.
-
-### *+2 Spirit*{: .spirit-color }
-### 1 Power, 0 Defense
-
-### Pros
-
-*+ Trickery (Dodge)*{: .spirit-color }  
-*+ Knowhow (Lore)*{: .spirit-color }  
-*+ Bully (Surprises)*{: .courage-color }  
-Immune (Fear, Poison)  
-Immune (Shadow)  
-*You recover **HP**{: .heart-color } equal to the attack's damage (minimum **1 HP**{: .heart-color }).*{: .mgl .fs-3 }  
-*If there's any excess **HP**{: .heart-color }, your Attack is Boosted (1) for a number of turns equal to the excess **HP**{: .heart-color }.*{: .mgl .fs-3 }  
-Clone (Illusions)  
-Hover  
-Fly  
-Intangibility  
-Invisibility  
-Undead (Lifelike)
-
-### Cons
-
-Weakness (Life Magic, Sudden Light, Stars)  
-*Any **HP**{: .heart-color } you would normally recover is treated as damage instead; then, you take double damage.*{: .mgl .fs-3 }  
-*If this Technique wouldn't usually deal damage, it deals 2 Piercing damage.*{: .mgl .fs-3 }  
-*You're left Dazed (1) for a number of turns equal to the damage taken.*{: .mgl .fs-3 }
-
-### Tech Defaults
-
-Boost (*Dodge*{: .spirit-color })  
-*Element (Shadow)*{: .alt-grey-line }  
-Fear x2  
-*Secure (Intangible)*{: .alt-grey-line }
-
-*Optional*{: .underlined }: Element (Shadow) on Indirect or Ranged Techniques
-
-### Example Techniques
-
-Frightening Smack (*0 FP*{: .spirit-color })  
-A spooky backhand terrifies the foe, causing them to either flee or cower in fear.  
-*Coordination*{: .heart-color }:  
-*Nice!*{: .nice-color }: 1 DMG    
-*Good!*{: .good-color }: 2 DMG  
-*Bully (+Surprises)*{: .courage-color }:  
-*Nice!*{: .nice-color }: Stun (1) for 4 turns  
-*Good!*{: .good-color }: Stun (2) for 4 turns  
-*Great!*{: .great-color }: Stun (3) for 4 turns  
-*Wonderful!*{: .wonderful-color }: Stun (4) for 4 turns  
-*Fear x4, Unwieldy*{: .italic }
-
-Outta Sight (*0 FP*{: .spirit-color })  
-Hides you and your allies away from attacks.  
-*Trickery (+Evade)*{: .spirit-color }:  
-*Nice!*{: .nice-color }: Become Secure for one turn.  
-*Secure, Allies, Harmless*{: .italic }
+> > >
+> >
+>
 
 ---
 {: .species-separator }
@@ -316,6 +264,8 @@ Auto: 1 Earth DMG
 *Nice!*{: .nice-color }: Daze (1) for 2 turns  
 *Good!*{: .good-color }: Daze (2) for 2 turns  
 *Daze x2, Element (Earth)*{: .italic }
+> > >
+> >
 > > {: .specie-inner-callout }  
 > > > *Lullaby*{: .header-font } (*3 FP*{: .spirit-color })  
 Targeted singing puts the target to sleep while dealing damage.  
@@ -326,63 +276,9 @@ Targeted singing puts the target to sleep while dealing damage.
 *Good!*{: .good-color }: Daze (2) for 3 turns  
 *Great!*{: .great-color }: Daze (3) for 3 turns  
 *Daze x3, Ranged, Strong, Variant (**Perform**{: .courage-color}) x2, Commitment (Primary), Unwieldy*{: .italic }
-
-## Dayzee
-
-![](assets/images/species/dayzee.png)
-{: .float-right-desktop }
-Dayzees are quiet and soft-spoken sorts, which is fitting given their soothing lullabies. While they may be quick to flee, their strength of character is undeniable, and their voices are breathtaking.
-
-### *+2 Courage*{: .courage-color } *or*{: .italic} *+1 Spirit*{: .spirit-color }, *+1 Courage*{: .courage-color }
-### 1 Power, 0 Defense
-
-### Pros
-
-*+ Athletics (Run)*{: .heart-color }  
-*+ Cheer (FP)*{: .courage-color }  
-*+ Perform (Sing)*{: .courage-color }  
-Immune (Water)  
-*You heal **5 HP**{: .heart-color } instead.*{: .mgl .fs-3 }  
-1 Resist (Earth, Shock)  
-
-### Cons
-
-Weakness (Fear)  
-*The Level and Duration of all Statuses you suffer associated with fear are doubled.*{: .mgl .fs-3 }  
-Weakness (Fire)  
-*You take +2 damage and suffer from a Lingering (1) burn, lasting a number of turns equal to the damage taken.*{: .mgl .fs-3 }
-
-### Tech Defaults
-
-Charm  
-*Daze x2*{: .alt-grey-line }  
-Flowery  
-*Variant (**Perform**{: .courage-color })*{: .alt-grey-line }
-
-*Optional*{: .underlined }: Split on Flowery Techniques  
-***Optional**{: .underlined }: Element (Earth) on melee attacks*{: .alt-grey-line }
-
-### Example Techniques
-
-Pollen Pounder (*0 FP*{: .spirit-color })  
-An aggressive headbutt rife with pollen puts foes to sleep.  
-*Coordination*{: .heart-color }:  
-Auto: 1 Earth DMG  
-*Nice!*{: .nice-color }: 2 Earth DMG  
-*Bully*{: .courage-color }:  
-*Nice!*{: .nice-color }: Daze (1) for 2 turns  
-*Good!*{: .good-color }: Daze (2) for 2 turns  
-*Daze x2, Element (Earth)*{: .italic }
-
-Lullaby (*3 FP*{: .spirit-color })  
-Targeted singing puts the target to sleep while dealing damage.  
-*Perform (+Sing)*{: .courage-color }:  
-*Good!*{: .good-color }: 4 DMG  
-*Perform (+Sing)*{: .courage-color }:  
-*Nice!*{: .nice-color }: Daze (1) for 3 turns  
-*Good!*{: .good-color }: Daze (2) for 3 turns  
-*Great!*{: .great-color }: Daze (3) for 3 turns  
-*Daze x3, Ranged, Strong, Variant (**Perform**{: .courage-color}) x2, Commitment (Primary), Unwieldy*{: .italic }
+> > >
+> >
+> 
 
 ---
 {: .species-separator }
@@ -427,6 +323,8 @@ A double-tapping aerial strike, made with the head.
 Auto: 1 DMG
 *Nice!*{: .nice-color }: 1 DMG x2  
 *Aerial*{: .italic }
+> > >
+> >
 > > {: .specie-inner-callout }  
 > > > *Charge*{: .header-font } (*2 FP*{: .spirit-color })  
 Focus you power for 4 turns.  
@@ -436,52 +334,9 @@ Focus you power for 4 turns.
 *Great!*{: .great-color }: +3 Attack for 4 turns  
 *Wonderful!*{: .wonderful-color }: +4 Attack for 4 turns  
 *Boost (Attack) x4, Self, Harmless*{: .italic }
-
-## Goomba
-
-![](assets/images/species/goomba.png)
-{: .float-right-desktop }
-Underdogs by nature, Goombas have a lot of guts and a lot to prove. Whether it's bonking heads or hitting the books, Goombas strive to better themselves constantly.
-
-### *+1 Heart*{: .heart-color }, *+1 Courage*{: .courage-color }
-### 1 Power, 0 Defense
-
-### Pros
-
-*+ Athletics (Jump)*{: .heart-color }  
-*+ Knowhow (Battle)*{: .spirit-color }  
-*+ Cheer (Aggression)*{: .courage-color }  
-
-### Cons
-
-Weakness (Aerial, Crushing)  
-*The Level and Duration of all Statuses you suffer from these attacks are doubled.*{: .mgl .fs-3 }  
-Handless
-
-### Tech Defaults
-
-Aerial  
-*Boost (Any)*{: .alt-grey-line }  
-Repeat  
-*Sequential*{: .alt-grey-line }
-
-### Example Techniques
-
-Headbonk (*0 FP*{: .spirit-color })  
-A double-tapping aerial strike, made with the head.  
-*Athletics (+Jump)*{: .heart-color }:  
-Auto: 1 DMG
-*Nice!*{: .nice-color }: 1 DMG x2  
-*Aerial*{: .italic }
-
-Charge (*2 FP*{: .spirit-color })  
-Focus you power for 4 turns.  
-*Cheer (+Aggression)*{: .courage-color }:  
-*Nice!*{: .nice-color }: +1 Attack for 4 turns  
-*Good!*{: .good-color }: +2 Attack for 4 turns  
-*Great!*{: .great-color }: +3 Attack for 4 turns  
-*Wonderful!*{: .wonderful-color }: +4 Attack for 4 turns  
-*Boost (Attack) x4, Self, Harmless*{: .italic }
+> > >
+> >
+>
 
 ---
 {: .species-separator }
@@ -531,6 +386,8 @@ Hits one target in melee with your shell.
 Auto: 1 DMG  
 *Nice!*{: .nice-color }: 2 DMG  
 *Indirect, Variant (**Athletics**{: .heart-color })*{: .italic }
+> > >
+> >
 > > {: .specie-inner-callout }  
 > > > *Shell Shield*{: .header-font } (*3 FP*{: .spirit-color })  
 Bolsters the target's Defense with a borrowed shell.  
@@ -540,57 +397,9 @@ Bolsters the target's Defense with a borrowed shell.
 *Great!*{: .great-color }: +3 Defense for 4 turns  
 *Wonderful!*{: .wonderful-color }: +4 Defense for 4 turns  
 *Boost (Defense) x4, Harmless (Indirect)*{: .italic }
-
-## Koopa
-
-![](assets/images/species/koopa.png)
-{: .float-right-desktop }
-Koopas are fit and easygoing. Though cowardice is often in their nature, they can be quite formidable when push comes to shove.  
-Often associated with Bowser's armies in the past, these days there are many peace-loving Koopas in the Mushroom Kingdom.
-
-### *+2 Heart*{: .heart-color }
-### 1 Power, 1 Defense
-
-### Pros
-
-*+ Athletics (Shells)*{: .heart-color }  
-&emsp;&emsp;or *+ Athletics (Swim)*{: .heart-color }  
-*+ Guard (Melee)*{: .heart-color }  
-*+ Steady (VS Weaken)*{: .courage-color }  
-1 Resist (Water)
-
-### Cons
-
-Weakness (Aerial, Blast, Quake)  
-*You are flipped over; you retain your Defense against Aerial and Blast attacks initially, but otherwise your Defense is negated for the duration.*{: .mgl .fs-3 }
-*This leaves you completely Stunned (6) for the next 2 turns.*{: .mgl .fs-3 }  
-
-### Tech Defaults
-
-Boost (Defense)  
-*Disorient*{: .alt-grey-line }  
-Indirect  
-*Overrun*{: .alt-grey-line }
-
-*Optional*{: .underlined }: Variant (*Athletics*{: .heart-color } - Primary Only) on Indirect attacks
-
-### Example Techniques
-
-Shell Toss (*0 FP*{: .spirit-color })  
-Hits one target in melee with your shell.  
-*Athletics (+Shells)*{: .heart-color }:  
-Auto: 1 DMG  
-*Nice!*{: .nice-color }: 2 DMG  
-*Indirect, Variant (**Athletics**{: .heart-color })*{: .italic }
-
-Shell Shield (*3 FP*{: .spirit-color })  
-Bolsters the target's Defense with a borrowed shell.  
-*Guard*{: .heart-color }:  
-*Nice!*{: .nice-color }: +1 Defense for 4 turns  
-*Good!*{: .good-color }: +2 Defense for 4 turns  
-*Great!*{: .great-color }: +3 Defense for 4 turns  
-*Wonderful!*{: .wonderful-color }: +4 Defense for 4 turns  
-*Boost (Defense) x4, Harmless (Indirect)*{: .italic }
+> > >
+> >
+>
 
 ---
 {: .species-separator }
@@ -635,6 +444,8 @@ Slaps an enemy, ignoring defense.
 Auto: 1 Piercing DMG  
 *Nice!*{: .nice-color }: 1 Piercing DMG x2  
 *Piercing*{: .italic }
+> > >
+> >
 > > {: .specie-inner-callout }  
 > > > *Tricky Thief*{: .header-font } (*0 FP*{: .spirit-color })  
 Steals an item from the target.  
@@ -645,53 +456,6 @@ Choose one option based on your Grades of Success.
 *Good!*{: .good-color }: A large Item  
 *Great!*{: .great-color }: An equipped Item  
 *Snatch, Empower, Harmless*{: .italic }
-
-## Squeek
-
-![](assets/images/species/squeek.png)
-{: .float-right-desktop }
-Squeeks are crafty little mice. Their keen noses and beady little eyes lead many to lives of crime, but their small stature and their potent senses keep them from getting into any serious trouble.
-
-### *+1 Spirit*{: .spirit-color }, *+1 Courage*{: .courage-color }
-### 1 Power, 0 Defense
-
-### Pros
-
-*+ Notice (Scent)*{: .spirit-color }  
-*+ Trickery (Stealth **or**{: .italic } Theft)*{: .spirit-color }  
-*+ Persuade (Smooth Talk)*{: .courage-color }  
-Immune (Charm)
-
-### Cons
-
-Weakness (Scent)  
-*The Level and Duration of all Statuses you suffer from scent-based sources are doubled.*{: .mgl .fs-3 }
-
-### Tech Defaults
-
-Confuse x2  
-*Piercing*{: .alt-grey-line }  
-Snatch 
-*Variant (**Trickery**{: .spirit-color })*{: .alt-grey-line }
-
-### Example Techniques
-
-Tricky Slap (*0 FP*{: .spirit-color })  
-Slaps an enemy, ignoring defense.  
-*Coordination*{: .heart-color }:  
-Auto: 1 Piercing DMG  
-*Nice!*{: .nice-color }: 1 Piercing DMG x2  
-*Piercing*{: .italic }
-
-Tricky Thief (*0 FP*{: .spirit-color })  
-Steals an item from the target.  
-*Trickery (+Theft)*{: .spirit-color }:  
-Choose one option based on your Grades of Success.  
-*Nice!*{: .nice-color }: 1d6 Coins, +1d6 per Grade of Success  
-*Nice!*{: .nice-color }: A small Item  
-*Good!*{: .good-color }: A large Item  
-*Great!*{: .great-color }: An equipped Item  
-*Snatch, Empower, Harmless*{: .italic }
-
----
-{: .species-separator }
+> > >
+> >
+>

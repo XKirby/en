@@ -100,6 +100,9 @@ callouts:
   specie-inner-callout:
     color: grey-lt
     opacity: 1
+  specie-inverted-callout:
+    color: black
+    opacity: 1
 
 exclude:
   - tag/TAG.md
