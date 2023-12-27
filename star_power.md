@@ -16,7 +16,7 @@ By default, all players can have up to *10 SP*{: .courage-color } at a time, but
 
 In addition to fuelling certain rare and powerful artifacts, *SP*{: .courage-color } can be used on the following special abilities:
 
-- *Try Again* {: .header-font }  
+- *Try Again*{: .header-font }  
     By spending *5 SP*{: .courage-color } during a check, the Stars can smile on you and give you a second chance! When you do this, you can pick up and re-roll any of your dice, as you see fit.  
     You can even use this ability before Critical Failures trigger!  
     You can use this ability as often as you like during a check.
