@@ -51,8 +51,8 @@ Example Tech 3
 > >
 > > Any *Required*{: .underlined } or *Optional*{: .underlined } effects are listed underneath, and can (or must) be taken in addition to Tech Defaults.
 >
-> {: .specie-inner-callout }
-> > *Example Techniques*{: .text-gamma .header-font }  
+> {: .specie-inverted-callout }
+> > *Example Techniques*{: .text-gamma .header-font .text-grey-lt-000 }  
 > > An example of a Technique a character of this Species might use, assuming they have 1 Power and not accounting for their level limit on negative Traits.  
 Includes potential outcomes and skills required for Primary and Secondary checks.
 > >
@@ -184,8 +184,8 @@ Fear x2
 > > *Optional*{: .underlined }: Element (Shadow) on Indirect or Ranged Techniques
 > >
 >
-> {: .specie-inner-callout }
-> > *Example Techniques*{: .text-gamma .header-font }  
+> {: .specie-inverted-callout }
+> > *Example Techniques*{: .text-gamma .header-font .text-grey-lt-000 }  
 > >
 > > {: .specie-inner-callout }  
 > > > *Frightening Smack*{: .header-font } (*0 FP*{: .spirit-color })  
@@ -251,8 +251,8 @@ Flowery
 ***Optional**{: .underlined }: Element (Earth) on melee attacks*{: .alt-grey-line }
 > >
 >
-> {: .specie-inner-callout }
-> > *Example Techniques*{: .text-gamma .header-font }  
+> {: .specie-inverted-callout }
+> > *Example Techniques*{: .text-gamma .header-font .text-grey-lt-000 }  
 > >
 > > {: .specie-inner-callout }  
 > > > *Pollen Pounder*{: .header-font } (*0 FP*{: .spirit-color })  
@@ -313,8 +313,8 @@ Repeat
 *Sequential*{: .alt-grey-line }
 > > 
 >
-> {: .specie-inner-callout }
-> > *Example Techniques*{: .text-gamma .header-font }  
+> {: .specie-inverted-callout }
+> > *Example Techniques*{: .text-gamma .header-font .text-grey-lt-000 }  
 > >
 > > {: .specie-inner-callout }  
 > > > *Headbonk*{: .header-font } (*0 FP*{: .spirit-color })  
@@ -376,8 +376,8 @@ Indirect
 > > *Optional*{: .underlined }: Variant (*Athletics*{: .heart-color } - Primary Only) on Indirect attacks
 > >
 >
-> {: .specie-inner-callout }
-> > *Example Techniques*{: .text-gamma .header-font }  
+> {: .specie-inverted-callout }
+> > *Example Techniques*{: .text-gamma .header-font .text-grey-lt-000 }  
 > >
 > > {: .specie-inner-callout }  
 > > > *Shell Toss*{: .header-font } (*0 FP*{: .spirit-color })  
@@ -434,8 +434,8 @@ Snatch
 *Variant (**Trickery**{: .spirit-color })*{: .alt-grey-line }
 > > 
 >
-> {: .specie-inner-callout }
-> > *Example Techniques*{: .text-gamma .header-font }  
+> {: .specie-inverted-callout }
+> > *Example Techniques*{: .text-gamma .header-font .text-grey-lt-000 }  
 > >
 > > {: .specie-inner-callout }  
 > > > *Tricky Slap*{: .header-font } (*0 FP*{: .spirit-color })  
