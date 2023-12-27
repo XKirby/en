@@ -76,6 +76,62 @@ For some of the rarer Species, or those less inclined to adventure – from Toad
 ---
 {: .species-separator }
 
+{: .specie-callout }
+> *Bob-Omb*{: .text-beta .header-font }  
+>
+> ![](assets/images/icons/bob-omb.png)
+> {: .float-right-desktop }
+> Bob-Ombs are demolitions experts. As much as it confuses people, Bob-Ombs suffer no ill effects from blowing themselves up, and many seem to relish the act. Despite this they are rarely violent and often even-tempered.
+>
+> ***+1 Heart**{: .heart-color }, **+1 Spirit**{: .spirit-color }*{: .text-gamma .header-font }  
+> *1 Power, 1 Defense*{: .text-gamma .header-font }  
+>
+> {: .specie-pros-callout }
+> > *Pros*{: .text-gamma .header-font }  
+> > *+ Athletics (Explode)*{: .heart-color }  
+*+ Crafts (Demolition)*{: .spirit-color }  
+&emsp;&emsp;or *+ Crafts (Explosives)*{: .spirit-color }  
+*+ Crafts (Repairs)*{: .spirit-color }  
+Immune (Poison)  
+1 Resist (Ice)  
+Construct (Lifelike)
+>
+> {: .specie-cons-callout }
+> > *Cons*{: .text-gamma .header-font }  
+> > Weakness (Blast, Fire)  
+*You take +2 damage and detonate harmlessly, leaving you completely Stunned (6) for the next 2 turns.*{: .mgl .fs-3 }  
+Handless
+>
+> {: .specie-inner-callout }
+> > *Tech Defaults*{: .text-gamma .header-font }  
+> > Burst  
+*Indirect*{: .alt-grey-line }  
+Ranged  
+*Scaling*{: .alt-grey-line }
+> > 
+> > *Optional*{: .underlined }: Element (Blast) on attacks, or Element (Blast) and Variant (*Athletics*{: .heart-color} - Primary Only) on Indirect attacks
+> >
+>
+> {: .specie-inner-callout }
+> > *Example Techniques*{: .text-gamma .header-font }  
+> > {: .specie-inner-callout } 
+> > > *Quick Blast (**0 FP**{: .spirit-color })*{: .header-font }  
+Quickly detonates to blast foes away.  
+*Athletics (+Explode)*{: .heart-color }:  
+*Nice!*{: .nice-color }: 4 DMG  
+*Element (Blast), Indirect, Variant (**Athletics**{: .heart-color }), Strong, Commitment*{: .italic }
+> > {: .specie-inner-callout }
+> > > *Bob-Ombast (**8 FP**{: .spirit-color })*{: .header-font }  
+A powerful explosion that blasts everything away – including your allies.  
+*Athletics (+Explode)*{: .heart-color }:  
+Auto: 2 DMG  
+*Nice!*{: .nice-color }: 4 DMG  
+*Good!*{: .good-color }: 6 DMG  
+*Great!*{: .great-color }: 8 DMG  
+*Wonderful!*{: .wonderful-color }: 10 DMG  
+*Excellent!*{: .excellent-color }: 12 DMG  
+*Element (Blast), Scaling x2, Variant (**Athletics**{: .heart-color }), All (Indirect), Strong*{: .italic }
+
 ## Bob-Omb
 
 ![](assets/images/species/bob-omb.png)
@@ -422,7 +478,7 @@ Choose one option based on your Grades of Success.
 > {: .specie-pros-callout }
 > > *Pros*{: .text-gamma .header-font }  
 > > The Skill Specialisations and other Traits that make denizens of that Species more capable.  
-&emsp;&emsp;*Some Traits, like Immune, will be described in more detail like this.*{: .fs-3 }
+*Some Traits, like Immune, will be described in more detail like this.*{: .mgl .fs-3 }
 >
 > {: .specie-cons-callout }
 > > *Cons*{: .text-gamma .header-font }  
