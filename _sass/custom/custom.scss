@@ -77,6 +77,12 @@ h6 {
   }
 }
 
+.center-img img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 @media screen and (max-width: 480px) {
   .float-right-desktop img {
     // Centers the image instead
