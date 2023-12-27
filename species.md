@@ -8,6 +8,15 @@ nav_order: 12
 # Species
 {: .no_toc }
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
 While all the peoples of the Mushroom Kingdom are wildly different, their advantages are roughly alike. Every Species looks something like this:
 
 ---
@@ -53,8 +62,8 @@ Example Tech 3
 >
 > {: .specie-inverted-callout }
 > > *Example Techniques*{: .text-gamma .header-font .text-grey-lt-000 }  
-> > An example of a Technique a character of this Species might use, assuming they have 1 Power and not accounting for their level limit on negative Traits.  
-Includes potential outcomes and skills required for Primary and Secondary checks.
+> > *An example of a Technique a character of this Species might use, assuming they have 1 Power and not accounting for their level limit on negative Traits.*{: .text-grey-lt-000 }  
+*Includes potential outcomes and skills required for Primary and Secondary checks.*{: .text-grey-lt-000 }
 > >
 > > {: .specie-inner-callout }  
 > > > *Example*{: .header-font } (**X FP**{: .spirit-color })  
@@ -77,7 +86,7 @@ For some of the rarer Species, or those less inclined to adventure – from Toad
 {: .species-separator }
 
 {: .specie-callout }
-> *Bob-Omb*{: .text-beta .header-font }  
+> *Bob-Omb*{: .text-beta .header-font }{:toc}  
 >
 > ![](assets/images/species/bob-omb.png)
 > {: .float-right-desktop }
@@ -142,7 +151,7 @@ Auto: 2 DMG
 {: .species-separator }
 
 {: .specie-callout }
-> *Boo*{: .text-beta .header-font }  
+> *Boo*{: .text-beta .header-font }{:toc}  
 >
 > ![](assets/images/species/boo.png)
 > {: .float-right-desktop }
@@ -215,7 +224,7 @@ Hides you and your allies away from attacks.
 {: .species-separator }
 
 {: .specie-callout }
-> *Dayzee*{: .text-beta .header-font }  
+> *Dayzee*{: .text-beta .header-font }{:toc}  
 >
 > ![](assets/images/species/dayzee.png)
 > {: .float-right-desktop }
@@ -284,7 +293,7 @@ Targeted singing puts the target to sleep while dealing damage.
 {: .species-separator }
 
 {: .specie-callout }
-> *Goomba*{: .text-beta .header-font }  
+> *Goomba*{: .text-beta .header-font }{:toc}  
 >
 > ![](assets/images/species/goomba.png)
 > {: .float-right-desktop }
@@ -342,7 +351,7 @@ Focus you power for 4 turns.
 {: .species-separator }
 
 {: .specie-callout }
-> *Koopa*{: .text-beta .header-font }  
+> *Koopa*{: .text-beta .header-font }{:toc}  
 >
 > ![](assets/images/species/koopa.png)
 > {: .float-right-desktop }
@@ -405,7 +414,7 @@ Bolsters the target's Defense with a borrowed shell.
 {: .species-separator }
 
 {: .specie-callout }
-> *Squeek*{: .text-beta .header-font }  
+> *Squeek*{: .text-beta .header-font }{:toc}  
 >
 > ![](assets/images/species/squeek.png)
 > {: .float-right-desktop }
