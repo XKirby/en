@@ -654,4 +654,5 @@ This Technique requires [X] more Grades of Success to function; you can apply th
 This Technique has –[X] Power. This Trait cannot be combined with *Harmless*{: .negative-color }, and cannot reduce Power lower than 0.
 
 {: .tip-callout }
-> *If you're confident you can hit your targets, **Scaling**{: .positive-color } and **Strong**{: .positive-color } combo well with **Unwieldy**{: .negative-color } to make your attacks much more powerful! Consider adding these traits on as you level up and get better at making checks. ![](assets/images/icons/tipguy.png)*{: .icon-right }
+> *If you're confident you can hit your targets, **Scaling**{: .positive-color } and **Strong**{: .positive-color } combo well with **Unwieldy**{: .negative-color } to make your attacks much more powerful! Consider adding these traits on as you level up and get better at making checks.* ![](assets/images/icons/tipguy.png)
+> {: .icon-right }
