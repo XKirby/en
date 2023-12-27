@@ -43,29 +43,15 @@ h6 {
   height: 100%;
 }
 
-$pink-000: #f77ef1;
-$pink-100: #f967f1;
-$pink-200: #e94ee1;
-$pink-300: #dd2cd4;
-
-$brown-000: #CFBDA9;
-$brown-100: #AC9A86;
-$brown-200: #64503E;
-$brown-300: #4F3C29;
+// $pink-000: #f77ef1;
+// $pink-100: #f967f1;
+// $pink-200: #e94ee1;
+// $pink-300: #dd2cd4;
 
 .example-callout,
 .example-callout-titlle {
   color: $brown-300;
 }
-
-$heart-color: #C00000;
-$courage-color: #E36C0A;
-$spirit-color: #00B050;
-$positive-color: #92D050;
-$negative-color: #943634;
-$nice-color: #1F497D;
-$excellent-color: #4BACC6;
-$unbelievable-color: #8064A2;
 
 .heart-color {
   color: $heart-color;
