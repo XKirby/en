@@ -91,41 +91,92 @@ If you find that you just can't make the Technique of your dreams, or your Techn
 
 Some Traits have similar functions which are referred to in shorthand, explained here.
 
-## [X]
-{: .no_toc }
+### [X]
 
 This Trait can be chosen multiple times to strengthen its effects; additional instances are treated as the same singular Trait, but with effects varying based on how many times the Trait has been taken, [X].  
 If there's a limit on how many times it can be taken, this is referred to as the Cap.  
 Note that multiple instances of these values are added together, not multiplied. If [X] is 3, then [XX] would be 6 (3 + 3), and [XXXX] would be 12 (3 + 3 + 3 + 3).
 
-## [Secondary]
-{: .no_toc }
+### [Secondary]
 
 After the Primary Check is resolved, as long as it didn't fail and there's still a valid target, some Techniques have follow-up effects which require a Secondary Check. The Skill required for this is defined by the Trait it's acquired from – if the Trait lists multiple Skills, choose one of them when you first define the Technique, and if the Technique has multiple [Secondary] Traits, choose one skill to represent all Secondary effects.  
 In any case, you only roll one Secondary Check for all relevant effects. If multiple targets would be affected, they all suffer the consequences of the same Secondary Check.
 
-## [Approach]
-{: .no_toc }
+### [Approach]
 
 This Trait modifies the way the user approaches their target(s). Generally, multiple [Approach] Traits can't be taken at once.
 
-## [Target]
-{: .no_toc }
+### [Target]
 
 This Trait modifies the available targets for this Technique in some way. Generally, multiple [Target] Traits can't be taken at once.
 
-## [Strikes]
-{: .no_toc }
+### [Strikes]
 
 This Trait modifies the way Strikes and damage are allocated in some way, making it fundamentally different from a Single-Strike or Multi-Strike Technique.  
 Generally, multiple Strikes Traits can't be taken at once.
 
-## [Random]
-{: .no_toc }
+### [Random]
 
 This Trait features a random element. Multiple [Random] Traits can't be taken 
 at once, unless otherwise specified.
 
 ## Positive Technique Traits
+
+### *Aerial*{: .positive-color} *(+2 FP)*{: .spirit-color } [Approach]
+
+At the user's option, this Technique's Primary Check can use *Athletics*{: .heart-color } instead.  
+The user flies through the air to deliver this attack, striking from above. This allows them to hit targets from anywhere in the fight, though they may struggle to hit targets who are blocked in some way (e.g. under a low ceiling).  
+If the user is flying when they make an Aerial attack, they can Plummet as they make this attack.  
+Plummeting attacks are made at +1 Power, but require one more Grade of Success on their Primary Check.  
+Regardless of the outcome, the user becomes grounded after a Plummeting attack.
+
+### *All*{: .positive-color} *(+3 FP)*{: .spirit-color } [Target]
+
+This Technique affects all available targets, be they friend or foe, besides the user. At the user's option this can also include the *Indirect*{: .positive-color } Trait for no additional cost.
+
+### *Allies*{: .positive-color} *(+2 FP)*{: .spirit-color } [Target]
+
+This Technique affects all of the user's allies, but not themselves. At the user's option this can also include the *Indirect*{: .positive-color } Trait for no additional cost.
+
+### *Alternative*{: .positive-color} *(+2 FP)*{: .spirit-color }
+
+Choose *HP*{: .heart-color }, *SP*{: .courage-color } or Coins:
+- *HP*{: .heart-color }: This Technique spends *HP*{: .heart-color } instead of *FP*{: .spirit-color }. It can't recover *HP*{: .heart-color }, and can't be combined with *Blowback*{: .negative-color } or varieties of *Self*{: .negative-color } that deal damage to the user.
+- *SP*{: .courage-color }: This Technique spends *SP*{: .courage-color } instead of *FP*{: .spirit-color }. It can't recover *SP*{: .courage-color }, even through [Exceptional Results](TODO:LINK) (though [Exceptional Techniques](TODO:LINK) are still possible).
+- Coins: This Technique spends 5 Coins for every *1 FP*{: .spirit-color } it would cost. It can't steal Coins through *Snatch*{: .positive-color }, and can't cover an equivalent cost of more than *10 FP*{: .spirit-color } (for 50 Coins).
+
+The effective *FP*{: .spirit-color } cost can't be reduced lower than *1 FP*{: .spirit-color } by negative Traits while using *Alternative*{: .positive-color }.
+
+### *Boost*{: .positive-color} *(+2 FP)*{: .spirit-color } [Secondary - *Cheer*{: .courage-color }/*Magic*{: .spirit-color }] [X]
+
+The target's abilities are [Boosted](TODO:LINK) for [X] turns – the exact abilities affected by the Boost are decided when this Trait is bought.  
+For every additional Grade of Success, increase the Status Level by 1, to a maximum of [X].  
+This Technique can also use the following skills for Secondary Checks, depending on the ability being Boosted:
+
+- Attack: *Athletics*{: .heart-color } or *Coordination*{: .heart-color }
+- Defense: *Guard*{: .heart-color }
+- Dodge: *Trickery*{: .spirit-color }
+- Skill (e.g. *Steady*{: .courage-color }): The same Skill being Boosted
+
+If this Boost Technique has an element, it also has the following effects depending on the ability Boosted:
+
+- Attack: The target's attacks have the same element for the duration.
+- Defense: The target's Resist for that element is Boosted, too.
+
+### *Burst*{: .positive-color} *(+2 FP)*{: .spirit-color } [Strikes] [Target] [X]
+
+This Technique acts as a Single-Strike Technique on the initial target, then repeats on up to [X] valid targets in front of them, and up to [X] valid targets behind them, ignoring elevation.
+
+Each subsequent attack deals -1 damage (to a minimum of 1), calculated for each direction separately.
+
+### *Charm*{: .positive-color} *(+2 FP)*{: .spirit-color } [Secondary - *Magic*{: .spirit-color}/*Persuade*{: .courage-color }/*Trickery*{: .spirit-color }] [X]
+
+The target is [Charmed](TODO:LINK), causing them to be easily persuaded, for [X] turns.  
+For every additional Grade of Success, increase the Status Level by 1, to a maximum of [X].
+
+{: .tip-callout }
+> *An enemy Charmed is an enemy you don't have to deal with, *and*{: .underlined } an asset to fight your enemies! Even outside of combat, Charm can be incredibly useful. ![](assets/images/icons/tipguy.png)*{: .icon-right }
+
+### *Coin Toss*{: .positive-color} *(+? FP)*{: .spirit-color } [Random]
 
 WIP
