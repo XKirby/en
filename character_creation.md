@@ -35,14 +35,11 @@ nav_order: 11
 6. *Fill up your pockets*{: .header-font }  
     Finally, you start with 100 Coins (or more or less, depending on your campaign) to spend on [Items](TODO:LINK), [Power-Ups](TODO:LINK), [Gear](TODO:LINK) and [Badges](TODO:LINK). Items, Power-Ups and Gear of all sizes occupy one of your 10 inventory slots, while Badges are small enough to not take up space – but the Badges you can actually equip and use at the same time will be restricted by your *BP*{: .courage-color }. 
 
-{: .tip-callout }
+{: .tip-callout .icon-right }
 > *When you're choosing your skills, it's important to consider what the other players in your group can and can't do. That way when they run into trouble, you'll be ready to lend a helping hand* ![](assets/images/icons/tipguy.png)
-{: .icon-right }
 
-{: .tip-callout }
+{: .tip-callout .icon-right }
 > *It's okay if your character concept isn't fully formed to begin with! As you read on you might find some interesting content that you want to work in, or during play you might pick up a Badge you hadn't considered working with. The joy of roleplay is finding new directions to take your character!* ![](assets/images/icons/tipguy.png)
-{: .icon-right }
 
-{: .tip-callout }
-> *Don't stress too much about getting the right Items or Badges right out of the gate – you might find it easier to just jump in with nothing but the clothes on your back and the Coins in your pocket. You can always go shopping once you know what you're dealing with – or make do with what you can find!* ![](assets/images/icons/tipguy.png)
-{: .icon-right } 
+{: .tip-callout .icon-right }
+> *Don't stress too much about getting the right Items or Badges right out of the gate – you might find it easier to just jump in with nothing but the clothes on your back and the Coins in your pocket. You can always go shopping once you know what you're dealing with – or make do with what you can find!* ![](assets/images/icons/tipguy.png) 
