@@ -117,6 +117,8 @@ Quickly detonates to blast foes away.
 *Athletics (+Explode)*{: .heart-color }:  
 *Nice!*{: .nice-color }: 4 DMG  
 *Element (Blast), Indirect, Variant (**Athletics**{: .heart-color }), Strong, Commitment*{: .italic }
+> > >
+> >
 > > {: .specie-inner-callout }  
 > > > *Bob-Ombast*{: .header-font } (**8 FP**{: .spirit-color })  
 A powerful explosion that blasts everything away – including your allies.  
@@ -128,6 +130,9 @@ Auto: 2 DMG
 *Wonderful!*{: .wonderful-color }: 10 DMG  
 *Excellent!*{: .excellent-color }: 12 DMG  
 *Element (Blast), Scaling x2, Variant (**Athletics**{: .heart-color }), All (Indirect), Strong*{: .italic }
+> > >
+> >
+>
 
 ---
 {: .species-separator }
