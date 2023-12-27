@@ -60,7 +60,8 @@ Taking damage at any point during an attack (such as from a Contact Trait) inter
 {: .center-img }
 
 {: .tip-callout }
-> *Multi-Strike attacks take a bit more work than Single-Strike attacks, but the more strikes you make, the more damage you can get from Attack boosts! ![](assets/images/icons/tipguy.png)*{: .icon-right }
+> *Multi-Strike attacks take a bit more work than Single-Strike attacks, but the more strikes you make, the more damage you can get from Attack boosts!* ![](assets/images/icons/tipguy.png)
+> {: .icon-right }
 
 ## Technique Traits
 

@@ -51,7 +51,6 @@ Critically, you can make Exceptional Techniques even when you wouldn't be able t
 > Then, they inflict a light Stun for *2 SP*{: .courage-color }.  
 > The end result is a headbonk that deals 2 DMG, then 3 DMG, and Stuns the enemy for 1 turn at Status Level 1.
 
-
 {: .tip-callout }
 > *Don't forget about your Star Power! Unspent Star Power won't do you any good. The blessings of the Stars keep all adventurers safe, and are an excellent way to get past troublesome foes.* ![](assets/images/icons/tipguy.png)
 > {: .icon-right }

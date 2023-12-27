@@ -103,6 +103,9 @@ callouts:
   specie-inverted-callout:
     color: black
     opacity: 1
+  example-play-callout:
+    color: beige
+    opacity: 1
 
 exclude:
   - tag/TAG.md
