@@ -175,7 +175,8 @@ The target is [Charmed](TODO:LINK), causing them to be easily persuaded, for [X]
 For every additional Grade of Success, increase the Status Level by 1, to a maximum of [X].
 
 {: .tip-callout }
-> _*An enemy Charmed is an enemy you don't have to deal with, **and**{: .underlined } an asset to fight your enemies! Even outside of combat, Charm can be incredibly useful.* ![](assets/images/icons/tipguy.png)_{: .icon-right }
+> *An enemy Charmed is an enemy you don't have to deal with, **and**{: .underlined } an asset to fight your enemies! Even outside of combat, Charm can be incredibly useful.* ![](assets/images/icons/tipguy.png)
+> {: .icon-right }
 
 ### *Coin Toss*{: .positive-color} *(+? FP)*{: .spirit-color } [Random]
 
