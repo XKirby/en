@@ -31,6 +31,10 @@ h6 {
   text-decoration: underline;
 }
 
+.italic {
+  font-style: italic;
+}
+
 .icon-left {
   display: flex;
   flex-direction: row;
@@ -95,6 +99,10 @@ h6 {
 
 .unbelievable-color {
   color: $unbelievable-color;
+}
+
+.float-right {
+  float: right;
 }
 
 // // Clearfix for float-icon
