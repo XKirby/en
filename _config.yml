@@ -83,8 +83,8 @@ back_to_top_text: "Back to top"
 
 callouts:
   example-callout:
-    title: Example
     color: brown
+    opacity: 1
 
 exclude:
   - tag/TAG.md
