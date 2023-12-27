@@ -98,7 +98,7 @@ Construct (Lifelike)
 ### Cons
 
 Weakness (Blast, Fire)  
-&emsp;&emsp;*You take +2 damage and detonate harmlessly, leaving you completely Stunned (6) for the next 2 turns.*{: .fs-3 }  
+*You take +2 damage and detonate harmlessly, leaving you completely Stunned (6) for the next 2 turns.*{: .mgl .fs-3 }  
 Handless
 
 ### Tech Defaults
@@ -116,7 +116,7 @@ Quick Blast (*0 FP*{: .spirit-color })
 Quickly detonates to blast foes away.  
 *Athletics (+Explode)*{: .heart-color }:  
 *Nice!*{: .nice-color }: 4 DMG  
-*Element (Blast), Indirect, Variant (_Athletics_{: .heart-color }), Strong, Commitment*{: .italic }
+*Element (Blast), Indirect, Variant (**Athletics**{: .heart-color }), Strong, Commitment*{: .italic }
 
 Bob-Ombast (*8 FP*{: .spirit-color })  
 A powerful explosion that blasts everything away – including your allies.  
@@ -127,7 +127,7 @@ Auto: 2 DMG
 *Great!*{: .great-color }: 8 DMG  
 *Wonderful!*{: .wonderful-color }: 10 DMG  
 *Excellent!*{: .excellent-color }: 12 DMG  
-*Element (Blast), Scaling x2, Variant (_Athletics_{: .heart-color }), All (Indirect), Strong*{: .italic }
+*Element (Blast), Scaling x2, Variant (**Athletics**{: .heart-color }), All (Indirect), Strong*{: .italic }
 
 ---
 {: .species-separator }
@@ -160,9 +160,9 @@ Undead (Lifelike)
 ### Cons
 
 Weakness (Life Magic, Sudden Light, Stars)  
-&emsp;&emsp;*Any _HP_{: .heart-color } you would normally recover is treated as damage instead; then, you take double damage.*{: .fs-3 }  
-&emsp;&emsp;*If this Technique wouldn't usually deal damage, it deals 2 Piercing damage.*{: .fs-3 }  
-&emsp;&emsp;*You're left Dazed (1) for a number of turns equal to the damage taken.*{: .fs-3 }
+*Any **HP**{: .heart-color } you would normally recover is treated as damage instead; then, you take double damage.*{: .mgl .fs-3 }  
+*If this Technique wouldn't usually deal damage, it deals 2 Piercing damage.*{: .mgl .fs-3 }  
+*You're left Dazed (1) for a number of turns equal to the damage taken.*{: .mgl .fs-3 }
 
 ### Tech Defaults
 
@@ -192,6 +192,219 @@ Hides you and your allies away from attacks.
 *Trickery (+Evade)*{: .spirit-color }:  
 *Nice!*{: .nice-color }: Become Secure for one turn.  
 *Secure, Allies, Harmless*{: .italic }
+
+---
+{: .species-separator }
+
+## Dayzee
+
+![](assets/images/species/dayzee.png)
+{: .float-right-desktop }
+Dayzees are quiet and soft-spoken sorts, which is fitting given their soothing lullabies. While they may be quick to flee, their strength of character is undeniable, and their voices are breathtaking.
+
+### *+2 Courage*{: .courage-color } *or*{: .italic} *+1 Spirit*{: .spirit-color }, *+1 Courage*{: .courage-color }
+### 1 Power, 0 Defense
+
+### Pros
+
+*+ Athletics (Run)*{: .heart-color }  
+*+ Cheer (FP)*{: .courage-color }  
+*+ Perform (Sing)*{: .courage-color }  
+Immune (Water)  
+*You heal **5 HP**{: .heart-color } instead.*{: .mgl .fs-3 }  
+1 Resist (Earth, Shock)  
+
+### Cons
+
+Weakness (Fear)  
+*The Level and Duration of all Statuses you suffer associated with fear are doubled.*{: .mgl .fs-3 }  
+Weakness (Fire)  
+*You take +2 damage and suffer from a Lingering (1) burn, lasting a number of turns equal to the damage taken.*{: .mgl .fs-3 }
+
+### Tech Defaults
+
+Charm  
+*Daze x2*{: .alt-grey-line }  
+Flowery  
+*Variant (**Perform**{: .courage-color })*{: .alt-grey-line }
+
+*Optional*{: .underlined }: Split on Flowery Techniques  
+***Optional**{: .underlined }: Element (Earth) on melee attacks*{: .alt-grey-line }
+
+### Example Techniques
+
+Pollen Pounder (*0 FP*{: .spirit-color })  
+An aggressive headbutt rife with pollen puts foes to sleep.  
+*Coordination*{: .heart-color }:  
+Auto: 1 Earth DMG
+*Nice!*{: .nice-color }: 2 Earth DMG    
+*Bully*{: .courage-color }:  
+*Nice!*{: .nice-color }: Daze (1) for 2 turns  
+*Good!*{: .good-color }: Daze (2) for 2 turns  
+*Daze x2, Element (Earth)*{: .italic }
+
+Lullaby (*3 FP*{: .spirit-color })  
+Targeted singing puts the target to sleep while dealing damage.  
+*Perform (+Sing)*{: .courage-color }:  
+*Good!*{: .good-color }: 4 DMG  
+*Perform (+Sing)*{: .courage-color }:  
+*Nice!*{: .nice-color }: Daze (1) for 3 turns  
+*Good!*{: .good-color }: Daze (2) for 3 turns  
+*Great!*{: .great-color }: Daze (3) for 3 turns  
+*Daze x3, Ranged, Strong, Variant (**Perform**{: .courage-color}) x2, Commitment (Primary), Unwieldy*{: .italic }
+
+---
+{: .species-separator }
+
+## Goomba
+
+![](assets/images/species/goomba.png)
+{: .float-right-desktop }
+Underdogs by nature, Goombas have a lot of guts and a lot to prove. Whether it's bonking heads or hitting the books, Goombas strive to better themselves constantly.
+
+### *+1 Heart*{: .heart-color }, *+1 Courage*{: .courage-color }
+### 1 Power, 0 Defense
+
+### Pros
+
+*+ Athletics (Jump)*{: .heart-color }  
+*+ Knowhow (Battle)*{: .spirit-color }  
+*+ Cheer (Aggression)*{: .courage-color }  
+
+### Cons
+
+Weakness (Aerial, Crushing)  
+*The Level and Duration of all Statuses you suffer from these attacks are doubled.*{: .mgl .fs-3 }  
+Handless
+
+### Tech Defaults
+
+Aerial  
+*Boost (Any)*{: .alt-grey-line }  
+Repeat  
+*Sequential*{: .alt-grey-line }
+
+### Example Techniques
+
+Headbonk (*0 FP*{: .spirit-color })  
+A double-tapping aerial strike, made with the head.  
+*Athletics (+Jump)*{: .heart-color }:  
+Auto: 1 DMG
+*Nice!*{: .nice-color }: 1 DMG x2  
+*Aerial*{: .italic }
+
+Charge (*2 FP*{: .spirit-color })  
+Focus you power for 4 turns.  
+*Cheer (+Aggression)*{: .courage-color }:  
+*Nice!*{: .nice-color }: +1 Attack for 4 turns  
+*Good!*{: .good-color }: +2 Attack for 4 turns  
+*Great!*{: .great-color }: +3 Attack for 4 turns  
+*Wonderful!*{: .wonderful-color }: +4 Attack for 4 turns  
+*Boost (Attack) x4, Self, Harmless*{: .italic }
+
+---
+{: .species-separator }
+
+## Koopa
+
+![](assets/images/species/koopa.png)
+{: .float-right-desktop }
+Koopas are fit and easygoing. Though cowardice is often in their nature, they can be quite formidable when push comes to shove.  
+Often associated with Bowser's armies in the past, these days there are many peace-loving Koopas in the Mushroom Kingdom.
+
+### *+2 Heart*{: .heart-color }
+### 1 Power, 1 Defense
+
+### Pros
+
+*+ Athletics (Shells)*{: .heart-color }  
+&emsp;&emsp;or *+ Athletics (Swim)*{: .heart-color }  
+*+ Guard (Melee)*{: .heart-color }  
+*+ Steady (VS Weaken)*{: .courage-color }  
+1 Resist (Water)
+
+### Cons
+
+Weakness (Aerial, Blast, Quake)  
+*You are flipped over; you retain your Defense against Aerial and Blast attacks initially, but otherwise your Defense is negated for the duration.*{: .mgl .fs-3 }
+*This leaves you completely Stunned (6) for the next 2 turns.*{: .mgl .fs-3 }  
+
+### Tech Defaults
+
+Boost (Defense)  
+*Disorient*{: .alt-grey-line }  
+Indirect  
+*Overrun*{: .alt-grey-line }
+
+*Optional*{: .underlined }: Variant (*Athletics*{: .heart-color } - Primary Only) on Indirect attacks
+
+### Example Techniques
+
+Shell Toss (*0 FP*{: .spirit-color })  
+Hits one target in melee with your shell.  
+*Athletics (+Shells)*{: .heart-color }:  
+Auto: 1 DMG
+*Nice!*{: .nice-color }: 2 DMG  
+*Indirect, Variant (**Athletics**{: .heart-color })*{: .italic }
+
+Shell Shield (*3 FP*{: .spirit-color })  
+Bolsters the target's Defense with a borrowed shell.  
+*Guard*{: .heart-color }:  
+*Nice!*{: .nice-color }: +1 Defense for 4 turns  
+*Good!*{: .good-color }: +2 Defense for 4 turns  
+*Great!*{: .great-color }: +3 Defense for 4 turns  
+*Wonderful!*{: .wonderful-color }: +4 Defense for 4 turns  
+*Boost (Defense) x4, Harmless (Indirect)*{: .italic }
+
+---
+{: .species-separator }
+
+## Squeek
+
+![](assets/images/species/squeek.png)
+{: .float-right-desktop }
+Squeeks are crafty little mice. Their keen noses and beady little eyes lead many to lives of crime, but their small stature and their potent senses keep them from getting into any serious trouble.
+
+### *+1 Spirit*{: .spirit-color }, *+1 Courage*{: .courage-color }
+### 1 Power, 0 Defense
+
+### Pros
+
+*+ Notice (Scent)*{: .spirit-color }  
+*+ Trickery (Stealth **or**{: .italic } Theft)*{: .spirit-color }  
+*+ Persuade (Smooth Talk)*{: .courage-color }  
+Immune (Charm)
+
+### Cons
+
+Weakness (Scent)  
+*The Level and Duration of all Statuses you suffer from scent-based sources are doubled.*{: .mgl .fs-3 }
+
+### Tech Defaults
+
+Confuse x2  
+*Piercing*{: .alt-grey-line }  
+Snatch 
+*Variant (**Trickery**{: .spirit-color })*{: .alt-grey-line }
+
+### Example Techniques
+
+Tricky Slap (*0 FP*{: .spirit-color })  
+Slaps an enemy, ignoring defense.  
+*Coordination*{: .heart-color }:  
+Auto: 1 Piercing DMG
+*Nice!*{: .nice-color }: 1 Piercing DMG x2  
+*Piercing*{: .italic }
+
+Tricky Thief (*0 FP*{: .spirit-color })  
+Steals an item from the target.  
+*Trickery (+Theft)*{: .spirit-color }:  
+Choose one option based on your Grades of Success.
+*Nice!*{: .nice-color }: 1d6 Coins, +1d6 per Grade of Success  
+*Nice!*{: .nice-color }: A small Item  
+*Good!*{: .good-color }: A large Item  
+*Great!*{: .great-color }: An equipped Item  
+*Snatch, Empower, Harmless*{: .italic }
 
 ---
 {: .species-separator }
