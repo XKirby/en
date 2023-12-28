@@ -24,27 +24,13 @@ Regardless of the size or number of things being carried, all players begin play
 
 Items are single-use consumables with a wide variety of effects. Generally, Items require an action to use and are consumed immediately. You don't need to make any special checks, though you can get more out of your Items using [*Aim*{: .heart-color }](TODO:LINK), [*Heal*{: .heart-color }](TODO:LINK) and [*Crafts*{: .spirit-color }](TODO:LINK).
 
-<blockquote class="specie-callout">
-<p class="item-left">
-    <img src="assets/images/items/mushroom.png">
-    <p>
-        <h3>Mushroom</h3>
-        <br>
-        {% include labels/item %} {% include labels/curative %}
-        <br>
-        5 Coins
-        <br>
-        Restores <em class="health-color">5 HP</em> to a willing target.
-    </p>
-</p>
-</blockquote>
-
 {: .item-callout .item-left }
 > ![](assets/images/items/mushroom.png)
 >
 > {: .item-inner-callout }
 > > *Mushroom*{: .fs-6 .header-font }
 > >
-> > Item • Curative • 5 Coins
+> > *Item*{: .label .item .header-font } *Curative*{: .label .curative .header-font }  
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } 5 Coins
 > >
 > > Restores *5 HP*{: .heart-color } to a willing target.

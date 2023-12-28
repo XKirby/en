@@ -82,7 +82,7 @@ blockquote.item-callout {
   padding-top: 0 !important;
   padding-bottom: 0 !important;
   padding-left: .8em !important;
-  padding-right: 0 !important;
+  padding-right: .8em !important;
 }
 
 blockquote.item-inner-callout {
@@ -781,29 +781,40 @@ table.last-line-head tr:last-child {
 */
 
 .item {
-  background-color: $grey-dk-200;
+  background-color: $grey-dk-200 !important;
+  margin-left: 0 !important;
 }
 
 .curative {
-  background-color: $curative-color;
+  background-color: $curative-color !important;
+  margin-left: 0 !important;
 }
 
 .attack {
-  background-color: $attack-color;
+  background-color: $attack-color !important;
+  margin-left: 0 !important;
 }
 
 .booster {
-  background-color: $booster-color;
+  background-color: $booster-color !important;
+  margin-left: 0 !important;
 }
 
 .hazard {
-  background-color: $hazard-color;
+  background-color: $hazard-color !important;
+  margin-left: 0 !important;
 }
 
 .quirk {
-  background-color: $quirk-color;
+  background-color: $quirk-color !important;
+  margin-left: 0 !important;
 }
 
 .power-up {
-  background-color: $power-up-color;
+  background-color: $power-up-color !important;
+  margin-left: 0 !important;
+}
+
+.inline-icon {
+  height: 1em;
 }
