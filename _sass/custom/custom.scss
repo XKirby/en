@@ -78,6 +78,21 @@ h6 {
   gap: 10px;
 }
 
+blockquote.item-callout {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+  padding-left: .8em !important;
+  padding-right: 0 !important;
+}
+
+blockquote.item-inner-callout {
+  width: 100% !important;
+  padding-top: .2em !important;
+  padding-bottom: .2em !important;
+  padding-left: .8em !important;
+  padding-right: .8em !important;
+}
+
 .mgl {
   margin-left: 2em;
   display: inline-block;

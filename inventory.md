@@ -39,10 +39,10 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 </p>
 </blockquote>
 
-{: .specie-callout .item-left }
+{: .item-callout .item-left }
 > ![](assets/images/items/mushroom.png)
 >
-> {: .specie-callout }
+> {: .item-inner-callout }
 > > *Mushroom*{: .fs-6 .header-font }
 > >
 > > Item • Curative • 5 Coins
