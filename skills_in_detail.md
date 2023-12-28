@@ -341,4 +341,65 @@ A *Great*{: .great-color } result allows you to dodge all attacks from one targe
 
 ## *Cheer - Cheering People On*{: .courage-color }
 
-WIP
+You can use *Cheer*{: .courage-color } as an action to replenish an ally's *FP*{: .spirit-color } or *SP*{: .courage-color }.  
+Choose *FP*{: .spirit-color } or *SP*{: .courage-color } – if you succeed the target restores +2 points, and an extra +2 for every additional Grade of Success you achieve. Keep in mind though that if you restore any *SP*{: .courage-color } during this check, you can't get any more *SP*{: .courage-color } from Exceptional Results.  
+Repetitive cheering gets to be a bore, with each follow-up check requiring a higher Grade of Success. After you get some rest, or the session ends, the difficulty reverts back to normal.
+
+## *Perform - Appeals*{: .courage-color }
+
+The Stars watch over everything, like an audience watching the stage. Heroes, villains and all creatures in between can count on their favour if they play to the crowd. Whether it's through prayer, focus or showboating, the Stars reward you for great showmanship.  
+Make a *Perform*{: .courage-color } check; you don't receive any extra *SP*{: .courage-color } for [Exceptional Successes](TODO:LINK), but if you succeed you receive *2 SP*{: .courage-color }, plus an extra *+2 SP*{: .courage-color } per additional Grade of Success.  
+Repetitive Appeals get to be a bore, with each follow-up check requiring a higher Grade of Success. After you get some rest, or the session ends, the difficulty reverts back to normal.
+
+![](assets/images/scenes/13.png)
+{: .center-img }
+
+{: .tip-callout }
+> *All the world's a stage, so smile for the crowd! SP is always useful to have, so it can be worth investing in your appeals. You can even appeal outside of battle to prepare for the future!* ![](assets/images/icons/tipguy.png)
+> {: .icon-right }
+
+## *Perform - Stylish Moves*{: .courage-color }
+
+Stylish Moves are risky gambits and fancy flourishes for little to no gain – but the crowd goes wild when you nail them, and the Stars reward such great showmanship.  
+When making a Stylish Move, once per round you can use *Perform*{: .courage-color } in place of your ordinary check – this can be any kind of check, as long as it doesn't normally use *Perform*{: .courage-color }. You can even make a Stylish Move when using *Magic*{: .spirit-color }, though you still pay *FP*{: .spirit-color } as normal.
+
+Your effective *Perform*{: .courage-color } Skill is limited by your value in the Skill being substituted, including any of its relevant Specialisations.  
+Any extra dice you'd receive for *Perform*{: .courage-color }, such as from your Badges or your *Perform*{: .courage-color } Specialisations, is added on after your *Perform*{: .courage-color } is limited.
+
+Nailing a Stylish Move is harder than usual, requiring one more Grade of Success than usual.  
+If you succeed you earn *2 SP*{: .courage-color } on the spot, and *double the SP*{: .courage-color } you would have received from an Exceptional Result!
+
+Bear in mind though that if you commit to a Stylish Move, you can't spend the *SP*{: .courage-color } you would gain on [Exceptional Techniques](TODO:LINK).
+
+{: .example-callout}
+> *Example: Stylish Moves*{: .header-font }
+>
+> A Dayzee with *1 Coordination*{: .heart-color } and *3 Perform*{: .courage-color } makes a flashy melee attack.  
+> Since their *Perform*{: .courage-color } is higher than their Coordination, they can only use 1 of their Perform dice, but can add +1d6 for their Perform Specialisation in Stylish Moves, and have access to their full *3 Courage*{: .courage-color }.  
+> Ordinarily they'd need a *Nice*{: .nice-color } result to deal their full damage, but due to the difficulty of a Stylish Move, they need a *Good*{: .good-color } result instead.  
+> They earn a *Wonderful*{: .wonderful-color } result, much more than they needed!  
+> In addition to the effects of their attack, they earn *2 SP*{: .courage-color } for pulling off their Stylish Move, and *double the SP*{: .courage-color } they'd normally get from a *Wonderful*{: .wonderful-color } result – another *4 SP*{: .courage-color }, for a total of *6*{: .courage-color }.
+
+## *Steady - Resisting Effects*{: .courage-color }
+
+Whether you're affected by a Status or resisting some other effect, *Steady*{: .courage-color } allows you to grit your teeth and bear it.
+
+You can resist with *Steady*{: .courage-color } as a reaction the first time you're affected by a Status, with your result affecting that Status alone.  
+For each Grade of Success, reduce its Status Level and duration by 1 – Status Level can't be reduced lower than 1, but duration can be dropped to 0, negating the status!
+
+As an action you can attempt to remedy as many of your active Statuses as you want, affecting them all at the same time.  
+If your *Steady*{: .courage-color } check manages to lower all your negative Status' durations to 0, any excess Grades of Success instead make this check into a free action.
+
+{: .example-callout}
+> *Example: Steadying Yourself*{: .header-font }
+>
+> A Squeek is bitten by a particularly deadly variety of Piranha Plant, which normally afflicts its prey with Lingering (5) for 5 turns.  
+> When the Squeek is bitten, they get to make a *Steady*{: .courage-color } check as a reaction, and achieve a *Good*{: .good-color } result – reducing it to Lingering (3) for 3 turns. At the end of the round, they take 3 damage, and the poison downgrades to Lingering (2) for 2 turns.  
+> On their turn, the Squeek tries to get the poison under control. They take an action to *Steady*{: .courage-color } themselves, and achieve a *Great*{: .great-color } result. They're able to reduce the duration down to 0 turns and negate the Status entirely. In fact, they have a spare Grade of Success, allowing them to make this into a free action!
+
+![](assets/images/scenes/14.png)
+{: .center-img }
+
+{: .tip-callout }
+> *Don't neglect your Steady, brave warriors! It's tempting to focus on your combat skills, but Steady is the only way to avoid a lot of Statuses. You can always make up for the experience you invest into Courage with more powerful Badges, and you'll get to look cool in the face of pressure like a zen warrior!* ![](assets/images/icons/tipguy.png)
+> {: .icon-right }
