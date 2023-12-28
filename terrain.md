@@ -448,7 +448,7 @@ Finally, note that if both a Pro and a Con of a Terrain would apply in a given s
 > > Water Techniques used from here have +[X] Attack, and Statuses caused by them have +[X] level and duration.
 > >
 > > Shock Techniques used against characters here have +[X] Attack, and Statuses caused by them have +[X] level and duration.
-
+> >
 > > *Aquatic*{: .underlined } characters who would recover *HP*{: .heart-color } from Water attacks (e.g. Aqua creatures) recover *1 HP*{: .heart-color } at the start of each turn.  
 > > Non-Aquatic characters don't receive this benefit, regardless of their interaction with Water.
 > > 

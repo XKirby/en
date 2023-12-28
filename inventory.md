@@ -22,7 +22,7 @@ Regardless of the size or number of things being carried, all players begin play
 
 ## Items
 
-Items are single-use consumables with a wide variety of effects. Generally, Items require an action to use and are consumed immediately. You don't need to make any special checks, though you can get more out of your Items using [*Aim*{: .heart-color }](TODO:LINK), [*Heal*{: .heart-color }](TODO:LINK) and [*Crafts*{: .spirit-color }](TODO:LINK).m
+Items are single-use consumables with a wide variety of effects. Generally, Items require an action to use and are consumed immediately. You don't need to make any special checks, though you can get more out of your Items using [*Aim*{: .heart-color }](TODO:LINK), [*Heal*{: .heart-color }](TODO:LINK) and [*Crafts*{: .spirit-color }](TODO:LINK).
 
 <blockquote class="specie-callout">
 <p class="item-left">
