@@ -29,10 +29,8 @@ Replace references to [X] in Terrain effects with the Terrain Level.
 
 Finally, note that if both a Pro and a Con of a Terrain would apply in a given situation, the Con takes priority.
 
-## Dark
-
-{: .terrain-callout .text-grey-lt-000 style="background-image: url("images/terrains/dark.png")" }
-> *Dark*{: .header-font .fs-6 }
+{: .terrain-callout .text-grey-lt-000 style="background-image: url("assets/images/terrains/dark.png")" }
+> ## Dark
 >
 > *Lighting*{: .fs-5 }
 >
@@ -54,5 +52,37 @@ Finally, note that if both a Pro and a Con of a Terrain would apply in a given s
 > > Primary Checks for all Techniques used from here or against characters here require [X] additional Grades of Success.
 > >
 > > *Notice*{: .spirit-color } checks to look around in the dark require [X] additional Grades of Success; without an appropriate light source, they may even be impossible.
+> >
+>
+
+{: .terrain-callout style="background-image: url("assets/images/terrains/elevated.png")" }
+> ## Elevated
+>
+> *Environment*{: .fs-5 }
+>
+> You're positioned somewhere comfortably above the battle, just out of reach. This is typically higher up than standard Elevation or Flying will get you, with more space to stand and cover yourself.
+>
+> Characters are able to climb up with *Athletics*{: .heart-color } as an action, as long as their surroundings would allow it and they achieve at least [X] Grades of Success.
+>
+> Otherwise, characters may only be able to reach with appropriate Techniques, or by using their surroundings wisely.
+>
+> {: .terrain-pros-callout }
+> > *Pros*{: .header-font .fs-5 }
+> >
+> > Characters here are treated as if they're elevated, as with the Elevation Trait.
+> >
+> > Aerial Techniques on targets down below have +[X] Attack on the first strike, though as normal the attacker forfeits their elevation.
+> >
+> > Air and Quake attacks used against characters here receive +[X] Attack, and Statuses caused by them have +[X] level and duration.
+> >
+> > *Guard*{: .heart-color } and *Trickery*{: .spirit-color } checks to resist attacks from below (besides Air and Quake) receive +[X]d6, as if Boosted.
+> >
+> > Melee attacks may even be impossible, depending on the surroundings.
+> >
+>
+> {: .terrain-cons-callout }
+> > *Cons*{: .header-font .fs-5 }
+> >
+> > Failing a *Steady*{: .courage-color } check to stay elevated causes you to take [X] damage when you fall back down.
 > >
 >

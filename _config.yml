@@ -111,10 +111,10 @@ callouts:
     opacity: 1
   terrain-pros-callout:
     color: alt-green
-    opacity: 0.2
+    opacity: 0.1
   terrain-cons-callout:
     color: alt-red
-    opacity: 0.2
+    opacity: 0.1
 
 exclude:
   - tag/TAG.md
