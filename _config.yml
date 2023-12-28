@@ -106,6 +106,15 @@ callouts:
   example-play-callout:
     color: beige
     opacity: 1
+  terrain-callout:
+    color: black
+    opacity: 1
+  terrain-pros-callout:
+    color: alt-green
+    opacity: 0.2
+  terrain-cons-callout:
+    color: alt-red
+    opacity: 0.2
 
 exclude:
   - tag/TAG.md

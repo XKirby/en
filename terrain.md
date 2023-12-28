@@ -31,4 +31,28 @@ Finally, note that if both a Pro and a Con of a Terrain would apply in a given s
 
 ## Dark
 
-WIP
+{: .terrain-callout .text-grey-lt-000 style="background-image: url("images/terrains/dark.png")" }
+> *Dark*{: .header-font .fs-6 }
+>
+> *Lighting*{: .fs-5 }
+>
+> Characters with appropriate *Notice*{: .spirit-color } specialisations (e.g. Dark Places, Scent) ignore the dark's effects on their skill checks.
+>
+> Characters can negate the effects of darkness on themselves (and on attacks targeting them) by keeping a light source close at hand, though the darker it gets, the stronger a light they'll need. Strong enough light can negate the effects of darkness entirely, effectively dismissing the Terrain.
+>
+> {: .terrain-pros-callout }
+> > *Pros*{: .header-font .fs-5 }
+> >
+> > Light Techniques used from here have +[X] Attack, and Statuses caused by them have +[X] level and duration.
+> >
+> > *Trickery*{: .spirit-color } checks to hide in the shadows receive +[X]d6, as if Boosted.
+> >
+>
+> {: .terrain-cons-callout }
+> > *Cons*{: .header-font .fs-5 }
+> >
+> > Primary Checks for all Techniques used from here or against characters here require [X] additional Grades of Success.
+> >
+> > *Notice*{: .spirit-color } checks to look around in the dark require [X] additional Grades of Success; without an appropriate light source, they may even be impossible.
+> >
+>
