@@ -59,6 +59,18 @@ h6 {
   height: 100%;
 }
 
+.item-left {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+}
+
+.item-left img {
+  width: 60px;
+  height: 100%;
+}
+
 .icon-right {
   display: flex;
   flex-direction: row;
@@ -749,63 +761,34 @@ table.last-line-head tr:last-child {
   }
 }
 
-.version-agnostic {
-  background-color: $green-200;
-}
-
 /*
-** CORE RULEBOOK
+** ITEMS STUFF
 */
 
-.v2-03 {
-  background-color: $green-200;
+.item {
+  background-color: $grey-dk-200;
 }
 
-.v2-02 {
-  background-color: $green-200;
+.curative {
+  background-color: $curative-color;
 }
 
-.v2-01 {
-  background-color: $green-200;
+.attack {
+  background-color: $attack-color;
 }
 
-.v2-00 {
-  color: $grey-dk-200;
-  background-color: $yellow-200;
+.booster {
+  background-color: $booster-color;
 }
 
-.v1-xx {
-  background-color: $red-200;
+.hazard {
+  background-color: $hazard-color;
 }
 
-/*
-** REBUILD RULEBOOK
-*/
-
-.rebuild-v2-01 {
-  background-color: $green-200;
+.quirk {
+  background-color: $quirk-color;
 }
 
-.rebuild-v2-02 {
-  background-color: $green-200;
-}
-
-.rebuild-v2-03 {
-  background-color: $green-200;
-}
-
-/*
-** RAVAGE RULEBOOK
-*/
-
-.ravage-v2-01 {
-  background-color: $green-200;
-}
-
-.ravage-v2-02 {
-  background-color: $green-200;
-}
-
-.ravage-v2-03 {
-  background-color: $green-200;
+.power-up {
+  background-color: $power-up-color;
 }
