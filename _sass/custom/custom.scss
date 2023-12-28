@@ -62,14 +62,34 @@ h6 {
 .item-left {
   display: flex;
   flex-direction: row;
-  align-items: center;
+  align-items: first baseline;
   gap: 10px;
 }
 
 .item-left img {
   width: 60px;
   height: 100%;
+  vertical-align: text-top;
 }
+
+.inline-icon {
+  height: 1em;
+  width: 1em;
+  vertical-align: middle;
+}
+
+.inline-icon img {
+  height: 1em;
+  width: 1em;
+  vertical-align: middle;
+}
+
+img.inline-icon {
+  height: 1em;
+  width: 1em;
+  vertical-align: middle;
+}
+
 
 .icon-right {
   display: flex;
@@ -91,6 +111,10 @@ blockquote.item-inner-callout {
   padding-bottom: .2em !important;
   padding-left: .8em !important;
   padding-right: .8em !important;
+}
+
+.item-callout img {
+  vertical-align: middle;
 }
 
 .mgl {
@@ -813,8 +837,4 @@ table.last-line-head tr:last-child {
 .power-up {
   background-color: $power-up-color !important;
   margin-left: 0 !important;
-}
-
-.inline-icon {
-  height: 1em;
 }
