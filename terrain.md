@@ -29,8 +29,9 @@ Replace references to [X] in Terrain effects with the Terrain Level.
 
 Finally, note that if both a Pro and a Con of a Terrain would apply in a given situation, the Con takes priority.
 
-{: .terrain-callout .text-grey-lt-000 style="background-image: url("assets/images/terrains/dark.png")" }
+{: .terrain-callout .text-grey-lt-000 style="background-image: url("assets/images/terrains/dark.png");background-size: cover;background-position: bottom;background-size: cover;" }
 > ## Dark
+> {: .text-grey-lt-000}
 >
 > *Lighting*{: .fs-5 }
 >
@@ -55,7 +56,7 @@ Finally, note that if both a Pro and a Con of a Terrain would apply in a given s
 > >
 >
 
-{: .terrain-callout style="background-image: url("assets/images/terrains/elevated.png")" }
+{: .terrain-callout style="background-image: url("assets/images/terrains/elevated.png");background-size: cover;background-position: bottom;background-size: cover;" }
 > ## Elevated
 >
 > *Environment*{: .fs-5 }
