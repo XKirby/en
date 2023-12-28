@@ -38,3 +38,13 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
     </p>
 </p>
 </blockquote>
+
+{: .specie-callout .item-left }
+> ![](assets/images/items/mushroom.png)
+>
+> {: .specie-callout }
+> > *Mushroom*{: .fs-6 .header-font }
+> >
+> > Item • Curative • 5 Coins
+> >
+> > Restores *5 HP*{: .heart-color } to a willing target.
