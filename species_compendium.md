@@ -694,7 +694,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > > *Underfoot*{: .alt-grey-line }  
 > >
 > > *Optional*{: .underlined }: Split on Flowery Techniques  
-> > ***Optional*{: .underlined }: Element (Earth) on melee attacks*{: .alt-grey-line }  
+> > *Optional*{: .underlined }: Element (Earth) on melee attacks*{: .alt-grey-line }  
 >
 > {: .specie-inverted-callout }
 > > *Example Techniques*{: .text-gamma .header-font .text-grey-lt-000 }  
@@ -713,7 +713,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > >
 > > {: .specie-inner-callout }  
 > > > *Hedge Hammer*{: .header-font } (**5 FP**{: .spirit-color })  
-> > > Causes a large hedge to pop up from the ground, striking everyone in the enemy group from underneath and splitting them into two groups. Fails against hovering or flying enemies.
+> > > Causes a large hedge to pop up from the ground, striking everyone in the enemy group from underneath and splitting them into two groups. Fails against hovering or flying enemies.  
 > > > *Crafts (+ Gardening)*{: .spirit-color }:  
 > > > *Nice!*{: .nice-color }: 2 Earth Quake DMG  
 > > > *Good!*{: .good-color }: 4 Earth Quake DMG  
@@ -901,7 +901,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > >
 > > {: .specie-inner-callout }  
 > > > *Cozy Bundle*{: .header-font } (**3 FP**{: .spirit-color })  
-> > > Wrap a target in a warm downy quilt, making them feel more secure for 4 turns.
+> > > Wrap a target in a warm downy quilt, making them feel more secure for 4 turns.  
 > > > *Cheer*{: .courage-color }:  
 > > > *Nice!*{: .nice-color }: +1d6 to *Steady*{: .courage-color } for 4 turns  
 > > > *Good!*{: .good-color }: +2d6 to *Steady*{: .courage-color } for 4 turns  
@@ -1078,7 +1078,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > >
 > > {: .specie-inner-callout }  
 > > > *Rolling Boulder*{: .header-font } (**4 FP**{: .spirit-color })  
-> > > Rolls into melee and bowls enemies over, one by one, hitting up to 4 targets. Strikes get weaker after each target.
+> > > Rolls into melee and bowls enemies over, one by one, hitting up to 4 targets. Strikes get weaker after each target.  
 > > > *Athletics (+ Brawn)*{: .heart-color }:  
 > > > *Good!*{: .good-color }: 3 DMG / 2 DMG / 1 DMG / 1 DMG  
 > > > *Great!*{: .great-color }: 6 DMG / 5 DMG / 4 DMG / 3 DMG  
@@ -1300,7 +1300,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > >
 > > {: .specie-inner-callout }  
 > > > *Clubba Swing*{: .header-font } (**0 FP**{: .spirit-color })  
-> > > Slams an enemy in melee with a heavy club, dealing incredible damage – if it hits.
+> > > Slams an enemy in melee with a heavy club, dealing incredible damage – if it hits.  
 > > > *Coordination (+ Weapon)*{: .heart-color }:  
 > > > *Good!*{: .good-color }: 4 DMG  
 > > > *Great!*{: .great-color }: 8 DMG  
@@ -1602,7 +1602,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > >
 > > {: .specie-inner-callout }  
 > > > *Fling*{: .header-font } (**0 FP**{: .spirit-color })  
-> > > Tosses something, anything, at the enemy from a distance.
+> > > Tosses something, anything, at the enemy from a distance.  
 > > > *Aim (+ Items)*{: .heart-color }:  
 > > > *Nice!*{: .nice-color }: 1 DMG / 2 DMG (2, 6)  
 > > > *Good!*{: .good-color }: 2 DMG / 4 DMG (2, 6)  
@@ -1811,6 +1811,471 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > ## Gulpit (WIP)
 >
 > ![](assets/images/species/gulpit.png)
+> {: .float-right-desktop }
+> The average Gulpit is a burly mountain-dwelling loner, making them quite a rare sight – and a frightening prospect for a traveller lost in the mountains. They can be pretty territorial, and grabby, but they're pretty handy guides.
+>
+> ***+2 Heart**{: .heart-color }*{: .text-gamma .header-font }  
+> *1 Power, 0 Defense*{: .text-gamma .header-font }  
+>
+> {: .specie-pros-callout }
+> > *Pros*{: .text-gamma .header-font }  
+> > *+ Aim (Spit)*{: .heart-color }  
+> > *+ Athletics (Brawn)*{: .heart-color }  
+> > *or **+ Bully (Shove)**{: .courage-color }*{: .mgl }  
+> > *+ Knowhow (Mountains)*{: .spirit-color }  
+> > *or **+ Notice (High Altitude)**{: .spirit-color }*{: .mgl }  
+> > 1 Resist (Ice)
+>
+> {: .specie-cons-callout }
+> > *Cons*{: .text-gamma .header-font }  
+> > N/A
+>
+> {: .specie-inner-callout }
+> > *Tech Defaults*{: .text-gamma .header-font }  
+> >
+> > Launch  
+> > *Snatch*{: .alt-grey-line }  
+> > Strong, Tool (Ranged)  
+> > *Throw*{: .alt-grey-line }  
+> >
+>
+> {: .specie-inverted-callout }
+> > *Example Techniques*{: .text-gamma .header-font .text-grey-lt-000 }  
+> >
+> > {: .specie-inner-callout }  
+> > > *Tongue Lash*{: .header-font } (**0 FP**{: .spirit-color })  
+> > > An aggressive lick with a big, gross tongue! Has a tendency to latch onto things the target would rather keep.  
+> > > *Coordination*{: .heart-color }:  
+> > > *Nice!*{: .nice-color }: 2 DMG  
+> > > *Good!*{: .good-color }: 4 DMG  
+> > > *Bully*:  
+> > > Choose one option based on your Grades of Success.  
+> > > *Nice!*{: .nice-color }: 1d6 Coins, +1d6 per Grade of Success  
+> > > *Good!*{: .nice-color }: A small Item  
+> > > *Great!*{: .nice-color }: A large Item  
+> > > *Wonderful!*{: .nice-color }: An equipped Item  
+> > > *Snatch, Strong, Unwieldy*{: .italic }
+> > >
+> >
+> > {: .specie-inner-callout }  
+> > > *Rock Blaster*{: .header-font } (**3 FP**{: .spirit-color })  
+> > > Spits out a rock from a carefully maintained pile; if they're lucky, it'll be one of the big ones.  
+> > > *Aim (+ Spit)*{: .heart-color }:  
+> > > Flip a coin; if it comes up Heads, deal more damage.  
+> > > *Nice!*{: .nice-color }: 4 DMG / 8 DMG  
+> > > *Tool (Ranged), Coin Toss (Strong x2), Strong, Commitment (Primary)*{: .italic }
+> > >
+> >
+>
+
+{: .specie-callout }
+> ## Human
+>
+> ![](assets/images/species/human.png)
+> {: .float-right-desktop }
+> Humans are exceptionally rare, though given their abilities, very well-known and familiar to most in the Mushroom Kingdom. As always, humans prove to be incredibly versatile, rising to meet any challenge.
+>
+> *+1 Any Stat, +1 Any Stat*{: .text-gamma .header-font }  
+> *1 Power, 0 Defense*{: .text-gamma .header-font }  
+>
+> {: .specie-pros-callout }
+> > *Pros*{: .text-gamma .header-font }  
+> > \+ Skill Specialisation (Any) x2  
+> > \+ 1 Inventory Slot
+>
+> {: .specie-cons-callout }
+> > *Cons*{: .text-gamma .header-font }  
+> > N/A  
+>
+> {: .specie-inner-callout }
+> > *Tech Defaults*{: .text-gamma .header-font }  
+> >
+> > Tool  
+> > 
+> > \+ 2x Custom Set of Traits  
+> > Custom Sets are defined during character creation. For Humans, they can include any Traits totalling no more than *3 FP*{: .spirit-color }, but can't include negative Traits.
+> >
+>
+> {: .specie-inverted-callout }
+> > *Example Techniques*{: .text-gamma .header-font .text-grey-lt-000 }  
+> >
+> > {: .specie-inner-callout }  
+> > > *Weapon Strike*{: .header-font } (**0 FP**{: .spirit-color })  
+> > > Attacks with a hand-held weapon.
+> > > *Coordination*{: .heart-color }:  
+> > > Auto: 1 DMG  
+> > > *Nice!*{: .nice-color }: 2 DMG  
+> > > *Tool (Indirect)*{: .italic }
+> > >
+> >
+> > {: .specie-inner-callout }  
+> > > *Power Attack*{: .header-font } (**2 FP**{: .spirit-color })  
+> > > A weapon attack with more power.  
+> > > *Coordination*{: .heart-color }:  
+> > > Auto: 2 DMG  
+> > > *Nice!*{: .nice-color }: 4 DMG  
+> > > *Tool (Indirect), Strong*{: .italic }
+> > >
+> >
+>
+
+{: .specie-callout }
+> ## Jabbi
+>
+> ![](assets/images/species/jabbi.png)
+> {: .float-right-desktop }
+> The Jabbies are small and frail insects who hide away in long forsaken forests. Many scholars believe they're just a myth. When they do travel abroad, they make for persistent nuisances.
+>
+> ***-1 Heart**{: .heart-color }, **+2 Spirit**{: .spirit-color }*{: .text-gamma .header-font }  
+> *0 Power, 0 Defense*{: .text-gamma .header-font }  
+>
+> {: .specie-pros-callout }
+> > *Pros*{: .text-gamma .header-font }  
+> > *+ Notice (Details)*{: .spirit-color }  
+> > *+ Trickery (Dodge)*{: .spirit-color }  
+> > *or **+ Trickery (Stealth)**{: .spirit-color }*{: .mgl }  
+> > *+ Bully (Poison)*{: .courage-color }  
+> > Fly
+>
+> {: .specie-cons-callout }
+> > *Cons*{: .text-gamma .header-font }  
+> > Weakness (Air)  
+> > *You must make a **Steady**{: .courage-color } check versus Disorientation (1), lasting a number of turns equal to the damage taken (minimum 1 turn).*{: .mgl .fs-3 }  
+> > Weakness (Crushing)  
+> > *You take +2 damage and fall to the ground, unable to fly until you get some rest.{: .mgl .fs-3 }  
+> > *This leaves you Dazed (1) for a number of turns equal to the damage dealt.*{: .mgl .fs-3 }  
+> > Handless
+>
+> {: .specie-inner-callout }
+> > *Tech Defaults*{: .text-gamma .header-font }  
+> >
+> > Disorient  
+> > *Drain x2*{: .alt-grey-line }  
+> > Lingering x2  
+> > *Repeat*{: .alt-grey-line }  
+> >
+>
+> {: .specie-inverted-callout }
+> > *Example Techniques*{: .text-gamma .header-font .text-grey-lt-000 }  
+> >
+> > {: .specie-inner-callout }  
+> > > *Stinger Sucker*{: .header-font } (**0 FP**{: .spirit-color })  
+> > > Meekly nips at an enemy in an attempt to drain their *HP*{: .heart-color }.  
+> > > *Coordination*{: .heart-color }:  
+> > > *Nice!*{: .nice-color }: 1 DMG  
+> > > Restore *HP*{: .heart-color } equal to the damage dealt, up to a maximum of *4 HP*{: .heart-color }.  
+> > > *Drain x2*{: .italic }
+> > >
+> >
+> > {: .specie-inner-callout }  
+> > > *Poison Flurry*{: .header-font } (**2 FP**{: .spirit-color })  
+> > > Flies around the target and jabs at them repeatedly, delivering venom all the while.  
+> > > *Coordination*{: .heart-color }:  
+> > > Deal 1 DMG once for each Grade of Success.  
+> > > *Bully (+ Poison)*{: .courage-color }:  
+> > > *Nice!*{: .nice-color }: Lingering (1) for 2 turns  
+> > > *Good!*{: .good-color }: Lingering (2) for 2 turns  
+> > > *Repeat, Lingering x2*{: .italic }
+> > >
+> >
+>
+
+{: .specie-callout }
+> ## Kong
+>
+> ![](assets/images/species/kong.png)
+> {: .float-right-desktop }
+> The term "Kong" refers to any number of intelligent simian species, not just a specific kind. Kongs tend to band together in crews, and despite their easy-going nature, they're quick to anger when their comrades are in danger.
+>
+> ***+2 Heart**{: .heart-color } or **+1 Heart**{: .heart-color }, **+1 Courage**{: .courage-color }*{: .text-gamma .header-font }  
+> *1 Power, 0 Defense*{: .text-gamma .header-font }  
+>
+> {: .specie-pros-callout }
+> > *Pros*{: .text-gamma .header-font }  
+> > *+ Aim (Throw)*{: .heart-color }  
+> > *+ Athletics (Brawn)*{: .heart-color }  
+> > *or **+ Athletics (Climb)**{: .heart-color }*{: .mgl }  
+> > *or **+ Athletics (Jump)**{: .heart-color }*{: .mgl }  
+> > *Cheer (Allies)*{: .courage-color }  
+> > Immune (Fear)
+>
+> {: .specie-cons-callout }
+> > *Cons*{: .text-gamma .header-font }  
+> > Weakness (Charm, Confuse, Provoke)  
+> > *The Level and Duration of any of these Statuses inflicted on you is doubled.*{: .mgl .fs-3 }
+>
+> {: .specie-inner-callout }
+> > *Tech Defaults*{: .text-gamma .header-font }  
+> >
+> > Aerial  
+> > *Strong*{: .alt-grey-line }  
+> > Throw  
+> > *Tool*{: .alt-grey-line }  
+> >
+>
+> {: .specie-inverted-callout }
+> > *Example Techniques*{: .text-gamma .header-font .text-grey-lt-000 }  
+> >
+> > {: .specie-inner-callout }  
+> > > *Banana Slamma*{: .header-font } (**0 FP**{: .spirit-color })  
+> > > Leaps on top of the enemy with a double-fisted slam attack.  
+> > > *Athletics (+ Jump)*{: .heart-color }:  
+> > > *Good!*{: .good-color }: 6 DMG  
+> > > *Aerial, Strong x2, Commitment, Unwieldy*{: .italic }
+> > >
+> >
+> > {: .specie-inner-callout }  
+> > > *Underhand Bowl*{: .header-font } (**3 FP**{: .spirit-color })  
+> > > Bowls the enemy over with a rolling weapon (such as a barrel), hitting up to 4 targets after the first.  
+> > > *Aim (+ Throw)*{: .heart-color }:  
+> > > *Good!*{: .good-color }: 6 DMG / 5 DMG / 4 DMG / 3 DMG  
+> > > *Strong x2, Strike-Through x4, Tool (Ranged), Commitment, Unwieldy*{: .italic }
+> > >
+> >
+>
+
+{: .specie-callout }
+> ## Koopa
+>
+> ![](assets/images/species/koopa.png)
+> {: .float-right-desktop }
+> Koopas are fit and easygoing. Though cowardice is often in their nature, they can be quite formidable when push comes to shove.  
+> Often associated with Bowser's armies in the past, these days there are many peace-loving Koopas in the Mushroom Kingdom.
+>
+> ***+2 Heart**{: .heart-color }*{: .text-gamma .header-font }  
+> *1 Power, 1 Defense*{: .text-gamma .header-font }  
+>
+> {: .specie-pros-callout }
+> > *Pros*{: .text-gamma .header-font }  
+> > *+ Athletics (Shells)*{: .heart-color }  
+> > *or **+ Athletics (Swim)**{: .heart-color }*{: .mgl }  
+> > *+ Guard (Melee)*{: .heart-color }  
+> > *+ Steady (VS Weaken)*{: .courage-color }  
+> > 1 Resist (Water)
+>
+> {: .specie-cons-callout }
+> > *Cons*{: .text-gamma .header-font }  
+> > Weakness (Aerial, Blast, Quake)  
+> > *You are flipped over; you retain your Defense against Aerial and Blast attacks initially, but otherwise your Defense is negated for the duration.*{: .mgl .fs-3 }
+> > *This leaves you completely Stunned (6) for the next 2 turns.*{: .mgl .fs-3 }
+>
+> {: .specie-inner-callout }
+> > *Tech Defaults*{: .text-gamma .header-font }  
+> > Boost (Defense)  
+> > *Disorient*{: .alt-grey-line }  
+> > Indirect  
+> > *Overrun*{: .alt-grey-line }
+> > 
+> > *Optional*{: .underlined }: Variant (*Athletics*{: .heart-color } - Primary Only) on Indirect attacks
+> >
+>
+> {: .specie-inverted-callout }
+> > *Example Techniques*{: .text-gamma .header-font .text-grey-lt-000 }  
+> >
+> > {: .specie-inner-callout }  
+> > > *Shell Toss*{: .header-font } (*0 FP*{: .spirit-color })  
+> > > Hits one target in melee with your shell.  
+> > > *Athletics (+Shells)*{: .heart-color }:  
+> > > Auto: 1 DMG  
+> > > *Nice!*{: .nice-color }: 2 DMG  
+> > > *Indirect, Variant (**Athletics**{: .heart-color })*{: .italic }
+> > >
+> >
+> > {: .specie-inner-callout }  
+> > > *Shell Shield*{: .header-font } (*3 FP*{: .spirit-color })  
+> > > Bolsters the target's Defense with a borrowed shell.  
+> > > *Guard*{: .heart-color }:  
+> > > *Nice!*{: .nice-color }: +1 Defense for 4 turns  
+> > > *Good!*{: .good-color }: +2 Defense for 4 turns  
+> > > *Great!*{: .great-color }: +3 Defense for 4 turns  
+> > > *Wonderful!*{: .wonderful-color }: +4 Defense for 4 turns  
+> > > *Boost (Defense) x4, Harmless (Indirect)*{: .italic }
+> > >
+> >
+>
+
+{: .specie-callout }
+> ## Koopa Bro
+> 
+> ![](assets/images/icons/tipguy.png)
+> {: .float-right-desktop }
+> More confrontational than the average Koopa, these Bros are known for their combat prowess, bravery and camaraderie. Most Bro clans stick hard to a traditional weapon, and are fierce combatants.
+>
+> ***+2 Heart**{: .heart-color } or **+1 Heart**{: .heart-color }, **+1 Courage**{: .courage-color }*{: .text-gamma .header-font }  
+> *1 Power, 0 Defense*{: .text-gamma .header-font }  
+>
+> {: .specie-pros-callout }
+> > *Pros*{: .text-gamma .header-font }  
+> > *+ Aim (Throw)*{: .heart-color }  
+> > *+ Coordination (Weapon of Choice)*{: .heart-color }  
+> > *Choose a specific weapon for this specialisation during character creation.*{: .mgl .fs-3 }  
+> > *+ Cheer (Boosts)*{: .courage-color }  
+> > Immune (Fear)
+>
+> {: .specie-cons-callout }
+> > *Cons*{: .text-gamma .header-font }  
+> > Weakness (Magic)  
+> > *If a magic attack would deal damage to you, it deals +1 damage.*{: .mgl .fs-3 }  
+> > *Statuses you suffer from magical sources receive +1 Level and +1 Duration.*{: .mgl .fs-3 }
+>
+> {: .specie-inner-callout }
+> > *Tech Defaults*{: .text-gamma .header-font }  
+> >
+> > Boost (Attack)  
+> > *Disarm x2*{: .alt-grey-line }  
+> > Tool  
+> > *Weaken (Attack)*{: .alt-grey-line }  
+> >
+>
+> {: .specie-inverted-callout }
+> > *Example Techniques*{: .text-gamma .header-font .text-grey-lt-000 }  
+> >
+> > {: .specie-inner-callout }  
+> > > *Hammer Toss*{: .header-font } (**0 FP**{: .spirit-color })  
+> > > Throws a hammer at range.
+> > > *Aim (+ Throw)*{: .heart-color }:  
+> > > Auto: 1 DMG  
+> > > *Nice!*{: .nice-color }: 2 DMG  
+> > > *Tool (Ranged)*{: .italic }
+> > >
+> >
+> > {: .specie-inner-callout }  
+> > > *Psyche Up*{: .header-font } (**3 FP**{: .spirit-color })  
+> > > Pump the target up for 4 turns.
+> > > *Cheer (+ Boosts)*{: .courage-color }:  
+> > > *Nice!*{: .nice-color }: +1 Attack for 4 turns  
+> > > *Good!*{: .good-color }: +2 Attack for 4 turns  
+> > > *Great!*{: .great-color }: +3 Attack for 4 turns  
+> > > *Wonderful!*{: .wonderful-color }: +4 Attack for 4 turns  
+> > > *Boost (Attack) x4, Harmless (Indirect)*{: .italic }
+> > >
+> >
+>
+
+{: .specie-callout }
+> ## Kremling
+>
+> ![](assets/images/species/kremling.png)
+> {: .float-right-desktop }
+> Reptiles from exotic lands, typically associated with the Kremling Krew – an amoral band of pirates and thugs.  
+> Though there are exceptions. Despite their rough edges, they're confident, versatile adventurers, and are surprisingly industrious.
+>
+> ***+1 Heart**{: .heart-color }, **+1 Spirit**{: .spirit-color }*{: .text-gamma .header-font }  
+> *1 Power, 0 Defense*{: .text-gamma .header-font }  
+>
+> {: .specie-pros-callout }
+> > *Pros*{: .text-gamma .header-font }  
+> > *+ Athletics (Brawn)*{: .heart-color }  
+> > *or **+ Athletics (Jump)**{: .heart-color }*{: .mgl }  
+> > *or **+ Athletics (Swim)**{: .heart-color }*{: .mgl }  
+> > *+ Crafts (Gadgets)*{: .spirit-color }  
+> > *or **+ Knowhow (Gadgets)**{: .spirit-color }*{: .mgl }  
+> > *+ Bully (Threats)*{: .courage-color }  
+> > Immune (Charm)  
+> > Aquatic
+>
+> {: .specie-cons-callout }
+> > *Cons*{: .text-gamma .header-font }  
+> > Weakness (Ice)  
+> > *You take +2 damage and become Dazed (1) for a number of turns equal to the damage taken.*{: .mgl .fs-3 }  
+> > Weakness (Provoke)  
+> > *The Level and Duration of any Provocation inflicted on you is doubled.*{: .mgl .fs-3 }  
+>
+> {: .specie-inner-callout }
+> > *Tech Defaults*{: .text-gamma .header-font }  
+> >
+> > Aerial  
+> > *Launch*{: .alt-grey-line }  
+> > Strong  
+> > *Tool*{: .alt-grey-line }  
+> >
+>
+> {: .specie-inverted-callout }
+> > *Example Techniques*{: .text-gamma .header-font .text-grey-lt-000 }  
+> >
+> > {: .specie-inner-callout }  
+> > > *Wind-Up Punch*{: .header-font } (**0 FP**{: .spirit-color })  
+> > > Readies a powerful right-hook, then launches it at the end of the next turn. You can't act during the turn you're winding up.  
+> > > *Coordination*{: .heart-color }:  
+> > > Auto: 5 DMG  
+> > > *Nice!*{: .nice-color }: 10 DMG  
+> > > *Strong x4, Delayed, Exhausting*{: .italic }
+> > >
+> >
+> > {: .specie-inner-callout }  
+> > > *Blunderbuss*{: .header-font } (**3 FP**{: .spirit-color })  
+> > > Fires a heavy Kannonball from a blunderbuss, which barrels through the target to hit two targets behind them, too.  
+> > > *Aim*{: .heart-color }:  
+> > > *Nice!*{: .nice-color }: 3 DMG / 2 DMG / 1 DMG  
+> > > *Good!*{: .good-color }: 6 DMG / 5 DMG / 4 DMG  
+> > > *Strong x2, Strike-Through x2, Tool (Ranged), Unwieldy*{: .italic }
+> > >
+> >
+>
+
+{: .specie-callout }
+> ## Lakitu
+>
+> ![](assets/images/species/lakitu.png)
+> {: .float-right-desktop }
+> Lakitu are offshoots of Koopas known for their partnership with the clouds. While they can walk around like a normal Koopa they rarely leave their clouds, preferring to attack from above.
+>
+> ***+2 Spirit***{: .text-gamma .header-font }  
+> *1 Power, 0 Defense*{: .text-gamma .header-font }  
+>
+> {: .specie-pros-callout }
+> > *Pros*{: .text-gamma .header-font }  
+> > *+ Aim (Throw)*{: .heart-color }  
+> > *+ Knowhow (Weather)*{: .spirit-color }  
+> > *+ Trickery (Dodge)*{: .spirit-color }  
+> > 1 Resist (Ice, Shock, Water)  
+> > Carrier  
+> > Fly  
+> > Hover  
+>
+> {: .specie-cons-callout }
+> > *Cons*{: .text-gamma .header-font }  
+> > Weakness (Air)  
+> > *You must make a **Steady**{: .courage-color } check versus Disorientation (1), lasting a number of turns equal to the damage taken (minimum 1 turn).*{: .mgl .fs-3 }
+>
+> {: .specie-inner-callout }
+> > *Tech Defaults*{: .text-gamma .header-font }  
+> >
+> > Boost (*Dodge*{: .spirit-color })  
+> > *Minion (Spiny)*{: .alt-grey-line }  
+> > Ranged  
+> > *Terrain (Weather)*{: .alt-grey-line }  
+> >
+>
+> {: .specie-inverted-callout }
+> > *Example Techniques*{: .text-gamma .header-font .text-grey-lt-000 }  
+> >
+> > {: .specie-inner-callout }  
+> > > *Spiny Toss*{: .header-font } (**0 FP**{: .spirit-color })  
+> > > Tosses a Spiny Egg at the foe.
+> > > *Aim (+ Throw)*{: .heart-color }:  
+> > > Auto: 1 DMG  
+> > > *Nice!*{: .nice-color }: 2 DMG  
+> > > *Ranged*{: .italic }
+> > >
+> >
+> > {: .specie-inner-callout }  
+> > > *Cloud Nine*{: .header-font } (**3 FP**{: .spirit-color })  
+> > > Hides the target away in the user's cloud, making it easier for them to *Dodge*{: .spirit-color } for 4 turns.
+> > > *Cheer*{: .courage-color }:  
+> > > *Nice!*{: .nice-color }: +1d6 to *Dodge*{: .spirit-color } for 4 turns  
+> > > *Good!*{: .good-color }: +2d6 to *Dodge*{: .spirit-color } for 4 turns  
+> > > *Great!*{: .great-color }: +3d6 to *Dodge*{: .spirit-color } for 4 turns  
+> > > *Wonderful!*{: .wonderful-color }: +4d6 to *Dodge*{: .spirit-color } for 4 turns  
+> > > *Boost (**Dodge**{: .spirit-color }) x4, Harmless*{: .italic }
+> > >
+> >
+>
+
+{: .specie-callout }
+> ## Lantern Ghost (WIP)
+>
+> ![](assets/images/species/lantern_ghost.png)
 > {: .float-right-desktop }
 > A description of the Species and how they fit into the world. These descriptions are simple and general, and do not define individual members of their Species.
 >
