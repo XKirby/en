@@ -1187,6 +1187,855 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > >
 > > Increases *Heart*{: .heart-color } by 1 and adds *5 Max HP*{: .heart-color }.
 
+{: .item-callout .item-left }
+> ![](assets/images/badges/spiritplus.png)
+>
+> {: .item-inner-callout }
+> > *Spirit Plus*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Stats*{: .label .stats-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 3 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 150 Coins
+> >
+> > Increases *Spirit*{: .spirit-color } by 1 and adds *5 Max FP*{: .spirit-color }.
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/courageplus.png)
+>
+> {: .item-inner-callout }
+> > *Courage Plus*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Stats*{: .label .stats-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 3 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 150 Coins
+> >
+> > Increases *Courage*{: .courage-color } by 1.
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/ispy.png)
+>
+> {: .item-inner-callout }
+> > *I Spy*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Skills*{: .label .skills-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
+> >
+> > Adds +2d6 to *Notice*{: .spirit-color } checks to find treasure.
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/superappeal.png)
+>
+> {: .item-inner-callout }
+> > *Super Appeal*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Skills*{: .label .skills-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
+> >
+> > Adds +1d6 to *Appeal*{: .courage-color } checks.
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/timingtutor.png)
+>
+> {: .item-inner-callout }
+> > *Timing Tutor*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Skills*{: .label .skills-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
+> >
+> > Adds +1d6 to *Stylish Moves*{: .courage-color } checks.
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/chillout.png)
+>
+> {: .item-inner-callout }
+> > *Chill Out*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Skills*{: .label .skills-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 74 Coins
+> >
+> > Adds +2d6 to Initiative checks. You don't suffer First Strikes, even from a *Critical Failure*{: .italic }.
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/emblemmask.png)
+>
+> {: .item-inner-callout }
+> > *Emblem Mask*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Skills*{: .label .skills-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 300 Coins
+> >
+> > You take on a simple disguise.  
+> > Adds +1d6 to *Trickery*{: .spirit-color } checks to maintain your disguise.  
+> > Adds +1d6 to *Persuade*{: .courage-color } checks with people who are influenced by your disguise.
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/peekaboo.png)
+>
+> {: .item-inner-callout }
+> > *Peekaboo*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Skills*{: .label .skills-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 2 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
+> >
+> > Once per turn, you can make a *Notice*{: .spirit-color } check as a free action.  
+> > For each Grade of Success, you can find out how much *HP*{: .heart-color } one enemy has.
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/medicineman.png)
+>
+> {: .item-inner-callout }
+> > *Medicine Man*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Skills*{: .label .skills-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 2 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
+> >
+> > Adds +2d6 to *Heal*{: .heart-color } checks made to use Items.
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/powerrush.png)
+>
+> {: .item-inner-callout }
+> > *Power Rush*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Attack*{: .label .attack-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
+> >
+> > When you have *5 or less HP*{: .heart-color }, you have +2 Attack.
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/megarush.png)
+>
+> {: .item-inner-callout }
+> > *Mega Rush*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Attack*{: .label .attack-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
+> >
+> > When you have just *1 HP*{: .heart-color }, bestows +5 Attack.
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/simplifier.png)
+>
+> {: .item-inner-callout }
+> > *Simplifier*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Attack*{: .label .attack-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
+> >
+> > All Techniques have Simple, but you can't gain *SP*{: .courage-color } from Exceptional Results when using them.
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/unsimplifier.png)
+>
+> {: .item-inner-callout }
+> > *Unsimplifier*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Attack*{: .label .attack-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
+> >
+> > All Techniques have Unwieldy, but they earn *SP*{: .courage-color } from Exceptional Results as if they had one more Grade of Success on each check.
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/icepower.png)
+>
+> {: .item-inner-callout }
+> > *Ice Power*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Attack*{: .label .attack-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 74 Coins
+> >
+> > You ignore Contact traits that deal Fire damage, and have +1 Resist (Fire).  
+> > All of your attacks have Element (Ice).
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/earthpower.png)
+>
+> {: .item-inner-callout }
+> > *Earth Power*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Attack*{: .label .attack-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 74 Coins
+> >
+> > You ignore Contact traits that deal Shock damage, and have +1 Resist (Shock).  
+> > All of your attacks have Element (Earth).
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/firepower.png)
+>
+> {: .item-inner-callout }
+> > *Fire Power*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Attack*{: .label .attack-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 74 Coins
+> >
+> > You ignore Contact traits that deal Ice damage, and have +1 Resist (Ice).  
+> > All of your attacks have Element (Fire).
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/hpdrain.png)
+>
+> {: .item-inner-callout }
+> > *HP Drain*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Attack*{: .label .attack-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
+> >
+> > Bestows -1 Attack, but when a strike you make would deal damage, you recover *1 HP*{: .heart-color }.
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/fpdrain.png)
+>
+> {: .item-inner-callout }
+> > *FP Drain*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Attack*{: .label .attack-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
+> >
+> > Bestows -1 Attack, but when a strike you make would deal damage, you recover *1 FP*{: .spirit-color }.
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/firstattack.png)
+>
+> {: .item-inner-callout }
+> > *First Attack*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Attack*{: .label .attack-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
+> >
+> > During the Surprise Round, enemies with a lower *Max HP*{: .heart-color } than your Level take double damage from your attacks.
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/pupddown.png)
+>
+> {: .item-inner-callout }
+> > *P-Up, D-Down*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Attack*{: .label .attack-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 2 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 150 Coins
+> >
+> > Bestows +1 Attack, but attacks made against you have +1 Attack.
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/jumpman.png)
+>
+> {: .item-inner-callout }
+> > *Jumpman*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Attack*{: .label .attack-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 2 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 150 Coins
+> >
+> > Your Aerial Techniques have +1 Attack.  
+> > You cannot use attacks that don't have Aerial.
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/weaponman.png)
+>
+> {: .item-inner-callout }
+> > *Weaponman*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Attack*{: .label .attack-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 2 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 150 Coins
+> >
+> > Your Tool (Indirect) Techniques have +1 Attack.  
+> > You cannot use attacks that don't have Tool (Indirect).
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/handyman.png)
+>
+> {: .item-inner-callout }
+> > *Handyman*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Attack*{: .label .attack-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 2 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 150 Coins
+> >
+> > Your Techniques that make contact with an enemy and don't have Aerial have +1 Attack.  
+> > You cannot use attacks that don't make contact with an enemy or that have Aerial.
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/marksman.png)
+>
+> {: .item-inner-callout }
+> > *Marksman*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Attack*{: .label .attack-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 2 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 150 Coins
+> >
+> > Your Techniques with either Tool (Ranged) or Ranged have +1 Attack.  
+> > You cannot use attacks that don't have Tool (Ranged) or Ranged.
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/flowersaver.png)
+>
+> {: .item-inner-callout }
+> > *Flower Saver*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Attack*{: .label .attack-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 4 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 250 Coins
+> >
+> > Whenever you would spend *FP*{: .spirit-color }, you spend 1 less than normal. This Badge cannot reduce *FP*{: .spirit-color } cost for any Technique or action below 1.
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/allornothing.png)
+>
+> {: .item-inner-callout }
+> > *All or Nothing*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Attack*{: .label .attack-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 4 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
+> >
+> > Bestows +1 Attack, but all Primary Checks gain Commitment (if applicable) and Unwieldy.
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/bumpattack.png)
+>
+> {: .item-inner-callout }
+> > *Bump Attack*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Attack*{: .label .attack-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 5 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 300 Coins
+> >
+> > Enemies with a lower *Max HP*{: .heart-color } than your Level take double damage from your attacks.
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/powerplus.png)
+>
+> {: .item-inner-callout }
+> > *Power Plus*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Attack*{: .label .attack-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 6 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 400 Coins
+> >
+> > Bestows +1 Attack.
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/laststand.png)
+>
+> {: .item-inner-callout }
+> > *Last Stand*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Defense*{: .label .defense-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
+> >
+> > When you have *5 or less HP*{: .heart-color }, incoming attacks have their damage halved (before you react).
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/closecall.png)
+>
+> {: .item-inner-callout }
+> > *Close Call*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Defense*{: .label .defense-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
+> >
+> > When you have *5 or less HP*{: .heart-color }, you can attempt to *Dodge*{: .spirit-color } before you *Block*{: .heart-color }, and you have +1d6 to *Dodge*{: .spirit-color } checks.
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/damagedodge.png)
+>
+> {: .item-inner-callout }
+> > *Damage Dodge*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Defense*{: .label .defense-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 2 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 150 Coins
+> >
+> > +2d6 to *Guard*{: .heart-color } checks.
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/pdowndup.png)
+>
+> {: .item-inner-callout }
+> > *P-Down, D-Up*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Defense*{: .label .defense-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 2 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 150 Coins
+> >
+> > Bestows -1 Attack and +1 Defense.
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/prettylucky.png)
+>
+> {: .item-inner-callout }
+> > *Pretty Lucky*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Defense*{: .label .defense-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 2 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 150 Coins
+> >
+> > When attacked, you can attempt to *Dodge*{: .spirit-color } before you *Block*{: .heart-color }.
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/luckyday.png)
+>
+> {: .item-inner-callout }
+> > *Lucky Day*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Skills*{: .label .skills-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 7 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 500 Coins
+> >
+> > When attacked, you can attempt to *Dodge*{: .spirit-color } before you *Block*{: .heart-color }.  
+> > +2d6 to *Dodge*{: .spirit-color } checks.
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/spikeshield.png)
+>
+> {: .item-inner-callout }
+> > *Spike Shield*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Defense*{: .label .defense-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 3 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 150 Coins
+> >
+> > Bestows Immunity (Spikes).
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/zaptap.png)
+>
+> {: .item-inner-callout }
+> > *Zap Tap*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Defense*{: .label .defense-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 3 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 200 Coins
+> >
+> > Bestows Contact:  
+> > *The attacker takes 1 Piercing Shock DMG, and you make a **Steady**{: .courage-color } check; the attacker is Dazed (1) for 1 turn for each Grade of Success.*{: .mgl .fs-3 }
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/feelingfine.png)
+>
+> {: .item-inner-callout }
+> > *Feeling Fine*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Defense*{: .label .defense-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 4 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 150 Coins
+> >
+> > Bestows Immune (Negative Status).
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/defendplus.png)
+>
+> {: .item-inner-callout }
+> > *Defend Plus*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Defense*{: .label .defense-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 5 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 300 Coins
+> >
+> > Bestows +1 Defense.
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/returnpostage.png)
+>
+> {: .item-inner-callout }
+> > *Return Postage*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Defense*{: .label .defense-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 7 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 1000 Coins
+> >
+> > Bestows the following Contact Trait:  
+> > *The attacker takes damage equal to half the damage dealt to you.*{: .mgl .fs-3 }
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/multibounce.png)
+>
+> {: .item-inner-callout }
+> > *Multibounce*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Technique*{: .label .technique-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 74 Coins
+> >
+> > For *2 FP*{: .spirit-color }:  
+> > *Multibounce*{: .mgl .fs-3 .header-font }  
+> > *The user jumps on a foe, then attempts to jump on as many foes behind them as possible.*{: .mgl .fs-3 }  
+> > ***Athletics**{: .heart-color } or **Coordination**{: .heart-color }:*{: .mgl .fs-3 }  
+> > ***Nice!**{: .nice-color }: [Power] DMG; hits one target for each Grade of Success.*{: .mgl .fs-3 }
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/weaponthrow.png)
+>
+> {: .item-inner-callout }
+> > *Weapon Throw*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Technique*{: .label .technique-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 74 Coins
+> >
+> > For *1 FP*{: .spirit-color } while wielding a melee weapon:  
+> > *Weapon Throw*{: .mgl .fs-3 .header-font }  
+> > *The user throws their held weapon as an impromptu ranged attack.*{: .mgl .fs-3 }  
+> > ***Aim**{: .heart-color }:*{: .mgl .fs-3 }  
+> > *Auto: [Power] DMG*{: .mgl .fs-3 }  
+> > ***Nice!**{: .nice-color }: [2x Power] DMG*{: .mgl .fs-3 }
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/spinsmash.png)
+>
+> {: .item-inner-callout }
+> > *Spin Smash*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Technique*{: .label .technique-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 74 Coins
+> >
+> > By spending *2 FP*{: .spirit-color }, you can treat a single-target Technique as if it has Launch.  
+> > If it already had Launch, add another instance of Launch.
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/powersmash.png)
+>
+> {: .item-inner-callout }
+> > *Power Smash*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Technique*{: .label .technique-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
+> >
+> > For *2 FP*{: .spirit-color }:  
+> > *Adds +1 Attack to a single-target attack.*{: .mgl .fs-3 }
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/piercingblow.png)
+>
+> {: .item-inner-callout }
+> > *Piercing Blow*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Technique*{: .label .technique-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 74 Coins
+> >
+> > For *2 FP*{: .spirit-color }:  
+> > *Adds Piercing to a single-target attack.*{: .mgl .fs-3 }
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/icesmash.png)
+>
+> {: .item-inner-callout }
+> > *Ice Smash*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Technique*{: .label .technique-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 74 Coins
+> >
+> > By spending *3 FP*{: .spirit-color }, you can treat a single-target Technique as if it has Element (Ice) and Daze x3 – the Secondary Check defaults to *Magic*{: .spirit-color }.
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/shrinkslam.png)
+>
+> {: .item-inner-callout }
+> > *Shrink Slam*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Technique*{: .label .technique-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 74 Coins
+> >
+> > By spending *2 FP*{: .spirit-color }, you can treat a single-target Technique as if it has Weaken (Attack) x3 – the Secondary Check defaults to *Magic*{: .spirit-color }.
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/softslam.png)
+>
+> {: .item-inner-callout }
+> > *Soft Slam*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Technique*{: .label .technique-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 74 Coins
+> >
+> > By spending *2 FP*{: .spirit-color }, you can treat a single-target Technique as if it has Weaken (Defense) x3 – the Secondary Check defaults to *Magic*{: .spirit-color }.
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/sleepyslam.png)
+>
+> {: .item-inner-callout }
+> > *Sleepy Slam*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Technique*{: .label .technique-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 74 Coins
+> >
+> > By spending *2 FP*{: .spirit-color }, you can treat a single-target Technique as if it has Daze x3 – the Secondary Check defaults to *Bully*{: .courage-color } or *Magic*{: .spirit-color }.
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/dizzyattack.png)
+>
+> {: .item-inner-callout }
+> > *Dizzy Attack*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Technique*{: .label .technique-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 74 Coins
+> >
+> > By spending *2 FP*{: .spirit-color }, you can treat a single-target Technique as if it has Disorient x3 – the Secondary Check defaults to *Magic*{: .spirit-color } or *Trickery*{: .spirit-color }.
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/poisontouch.png)
+>
+> {: .item-inner-callout }
+> > *Poison Touch*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Technique*{: .label .technique-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 74 Coins
+> >
+> > By spending *2 FP*{: .spirit-color }, you can treat a single-target Technique as if it has Lingering x3 – the Secondary Check defaults to *Magic*{: .spirit-color }.
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/disarmingslam.png)
+>
+> {: .item-inner-callout }
+> > *Disarming Slam*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Technique*{: .label .technique-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 74 Coins
+> >
+> > By spending *2 FP*{: .spirit-color }, you can treat a single-target Technique as if it has Disarm x3 (Tool) – the Secondary Check defaults to *Bully*{: .courage-color } or *Magic*{: .spirit-color }.
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/headrattle.png)
+>
+> {: .item-inner-callout }
+> > *Head Rattle*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Technique*{: .label .technique-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
+> >
+> > By spending *2 FP*{: .spirit-color }, you can treat a single-target Technique as if it has Confuse x3 – the Secondary Check defaults to *Bully*{: .courage-color } or *Magic*{: .spirit-color }.
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/charge.png)
+>
+> {: .item-inner-callout }
+> > *Charge*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Technique*{: .label .technique-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
+> >
+> > Bestows use of the Charge Technique (*1 FP*{: .spirit-color }).  
+> > *Boosts your Attack by 1 until after your next attack, or until the end of your next turn.*{: .mgl .fs-3 }  
+> > *Repeated uses of this Technique increase the Boost by 1 and extend its duration by one more turn.*{: .mgl .fs-3 }
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/tornadojump.png)
+>
+> {: .item-inner-callout }
+> > *Tornado Jump*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Technique*{: .label .technique-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 2 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
+> >
+> > Bestows the use of the Tornado Jump (*2 FP*{: .spirit-color }) Technique. If you have multiple Tornado Jump Badges, you can use them together by spending *1 FP*{: .spirit-color } for each additional Badge.  
+> > Treat [X] as the number of additional Tornado Jump Badges used.  
+> > *Tornado Jump*{: .mgl .fs-3 .header-font }  
+> > *Stomps on an enemy, then generates a burst of wind around them.*{: .mgl .fs-3 }  
+> > ***Athletics**{: .heart-color }:*{: .mgl .fs-3 }  
+> > ***Nice!**{: .nice-color }: [Power] DMG*{: .mgl .fs-3 }  
+> > ***Good!**{: .good-color }: [Power] DMG, [XX] Piercing Air DMG*{: .mgl .fs-3 }  
+> > *The extra Air damage is Indirect, and affects all other airborne enemies in the group (but not the first target).*{:.mgl .fs-3 }
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/quakeslam.png)
+>
+> {: .item-inner-callout }
+> > *Quake Slam*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Technique*{: .label .technique-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 2 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
+> >
+> > Bestows the use of the Quake Slam (*3 FP*{: .spirit-color }) Technique. If you have multiple Quake Slam Badges, you can use them together by spending *1 FP*{: .spirit-color } for each additional Badge.  
+> > Treat [X] as the number of additional Quake Slam Badges used.  
+> > *Quake Slam*{: .mgl .fs-3 .header-font }  
+> > *Pounds the ground to produce a localised tremor, affecting everyone in target group in contact with the ground, wall or ceiling.*{: .mgl .fs-3 }  
+> > ***Athletics**{: .heart-color }:*{: .mgl .fs-3 }  
+> > ***Good!**{: .good-color }: [(2x Power) + (2 x [X])] Piercing Earth Quake DMG*{: .mgl .fs-3 }  
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/doubledip.png)
+>
+> {: .item-inner-callout }
+> > *Double Dip*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Technique*{: .label .technique-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 3 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
+> >
+> > Bestows the use of the Double Dip (*4 FP*{: .spirit-color }) Technique. If you have multiple Double Dip Badges, you can use them together by spending *2 FP*{: .spirit-color } for each additional Badge.  
+> > Treat [X] as 1 + the number of additional Quake Slam Badges used.  
+> > *Double Dip*{: .mgl .fs-3 .header-font }  
+> > *Allows you to act as if Hustled at Status Level [X] this turn, but all your Hustle actions must be to use consumable Items.*{: .mgl .fs-3 }  
+> > *You suffer no penalty on those actions for your Hustled Status.*{: .mgl .fs-3 }  
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/firedrive.png)
+>
+> {: .item-inner-callout }
+> > *Fire Drive*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Technique*{: .label .technique-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 3 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
+> >
+> > Bestows the use of the Fire Drive (*5 FP*{: .spirit-color }) Technique. If you have multiple Fire Drive Badges, you can use them together by spending *2 FP*{: .spirit-color } for each additional Badge.  
+> > Treat [X] as the number of additional Quake Slam Badges used.  
+> > *Fire Drive*{: .mgl .fs-3 .header-font }  
+> > *Flings a fireball at the target at range, then blazes a path past them to affect more grounded targets.*{: .mgl .fs-3 }  
+> > ***Aim**{: .heart-color } or **Magic**{: .spirit-color }:*{: .mgl .fs-3 }  
+> > ***Good!**{: .good-color }: [(2x Power) + [XX]] Piercing Fire DMG*{: .mgl .fs-3 }  
+> > *Repeats on as many grounded targets as possible behind the target, dealing -1 damage each time.*{:.mgl .fs-3 }  
+> > ***Bully**{: .courage-color } or **Magic**{: .spirit-color }:*{: .mgl .fs-3 }  
+> > ***Nice!**{: .nice-color }: Lingering (1) burn for 3 turns*{: .mgl .fs-3 }  
+> > ***Good!**{: .good-color }: Lingering (2) burn for 3 turns*{: .mgl .fs-3 }  
+> > ***Great!**{: .great-color }: Lingering (3) burn for 3 turns*{: .mgl .fs-3 }  
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/powerbounce.png)
+>
+> {: .item-inner-callout }
+> > *Power Bounce*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Technique*{: .label .technique-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 3 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
+> >
+> > By spending *3 FP*{: .spirit-color }, you can treat a single-target Technique as if it has Repeat.
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/refund.png)
+>
+> {: .item-inner-callout }
+> > *Refund*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Boon*{: .label .boon-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
+> >
+> > You receive ¼ (rounded down, minimum 1) of an Item or Power-Up's value in Coins when you consume it to use on yourself or another target.  
+> > If you would keep the Item after use, you don't receive Coins.
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/happyheart.png)
+>
+> {: .item-inner-callout }
+> > *Happy Heart*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Boon*{: .label .boon-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 2 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 150 Coins
+> >
+> > At the start of your turn, roll 1d6. On a result of 4 or more, restore *1 HP*{: .heart-color }.
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/happyflower.png)
+>
+> {: .item-inner-callout }
+> > *Happy Flower*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Boon*{: .label .boon-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 2 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 150 Coins
+> >
+> > At the start of your turn, roll 1d6. On a result of 4 or more, restore *1 FP*{: .spirit-color }.
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/pityflower.png)
+>
+> {: .item-inner-callout }
+> > *Pity Flower*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Boon*{: .label .boon-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 3 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 200 Coins
+> >
+> > When you take damage, make a *Steady*{: .courage-color } check.  
+> > You restore *1 FP*{: .spirit-color } for each Grade of Success. You can't restore more *FP*{: .spirit-color } than the damage you take.
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/heartfinder.png)
+>
+> {: .item-inner-callout }
+> > *Heart Finder*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Boon*{: .label .boon-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 3 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
+> >
+> > Restores *1d6 HP*{: .heart-color } after victory.
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/flowerfinder.png)
+>
+> {: .item-inner-callout }
+> > *Flower Finder*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Boon*{: .label .boon-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 3 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
+> >
+> > Restores *1d6 FP*{: .spirit-color } after victory.
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/itemhog.png)
+>
+> {: .item-inner-callout }
+> > *Item Hog*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Boon*{: .label .boon-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 3 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
+> >
+> > After victory, make a *Notice*{: .spirit-color } check.  
+> > ***Great!**{: .great-color }: You may find an Item that belonged to an enemy, as appropriate.*{: .mgl .fs-3 }
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/luckystart.png)
+>
+> {: .item-inner-callout }
+> > *Lucky Start*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Boon*{: .label .boon-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 4 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
+> >
+> > At the start of battle, roll 1d6, and receive the appropriate benefit for 3 turns.  
+> > 1. Restore *2 HP*{: .heart-color } at the start of your turn.
+> > 2. Restore *2 FP*{: .spirit-color } at the start of your turn.
+> > 3. Contact  
+> > *The attacker takes 1 Piercing Shock DMG, and you make a **Steady**{: .courage-color } check; the attacker is Dazed (1) for 1 turn for each Grade of Success.*{: .mgl .fs-3 }
+> > 4. +1 Attack.
+> > 5. +1 Defense.
+> > 6. When attacked, you can attempt to *Dodge*{: .spirit-color } before you *Block*{: .heart-color }.
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/quickchange.png)
+>
+> {: .item-inner-callout }
+> > *Quick Change*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Boon*{: .label .boon-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 4 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 500 Coins
+> >
+> > Allows you to Swap with an ally as a free action.  
+> > Once per round, after an enemy group attacks, you can make a *Coordination*{: .heart-color } or *Trickery*{: .spirit-color } check – this counts as a *Dodge*{: .spirit-color } check.  
+> > ***Great!**{: .great-color }: You trade places with an ally; attacks aimed at them instead affect you, and attacks aimed at you instead affect them. You can both **Block**{: .heart-color } and **Dodge**{: .spirit-color } as normal.*{: .mgl .fs-3 }
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/moneymoney.png)
+>
+> {: .item-inner-callout }
+> > *Money Money*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Boon*{: .label .boon-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 5 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 350 Coins
+> >
+> > After victory, make a *Notice*{: .spirit-color } check.  
+> > You may find more coins that belonged to an enemy, as appropriate.  
+> > *(Roughly 1d6 per Grade of Success)*{ .fs-3 }
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/berserker.png)
+>
+> {: .item-inner-callout }
+> > *Berserker*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Boon*{: .label .boon-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 4 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
+> >
+> > During combat, you have +2 Attack and Immune (Negative Status), but can't spend *FP*{: .spirit-color } or *SP*{: .courage-color } (or equivalent, in the case of *Alternative*{: .positive-color } Techniques).  
+> > For the duration, you are Confused (3), as well as being Provoked (6) by the nearest enemy in range.
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/doublepain.png)
+>
+> {: .item-inner-callout }
+> > *Double Pain*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Negative*{: .label .negative-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 0 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 30 Coins
+> >
+> > Whenever you would take damage from an attack or hazard, you take twice as much. This effect applies after your Defense, *Blocking*{: .heart-color } and other means of reducing the damage.
+
+{: .item-callout .item-left }
+> ![](assets/images/badges/slowgo.png)
+>
+> {: .item-inner-callout }
+> > *Slow Go*{: .fs-6 .header-font }  
+> > *Badge*{: .label .item .header-font }*Negative*{: .label .negative-badge .header-font }  
+> > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 0 BP
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 10 Coins
+> >
+> > *Athletics*{: .heart-color } checks relating to running and similar movement suffer a -3d6 penalty, as if Weakened (3).
+
 **Credits:**
 
 Boo Mushroom Sprite by [LadyLuck](https://ladyluck.itch.io/).  
