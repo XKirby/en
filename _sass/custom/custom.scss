@@ -122,6 +122,11 @@ blockquote.item-inner-callout {
   display: inline-block;
 }
 
+.mgl-big {
+  margin-left: 4em;
+  display: inline-block;
+}
+
 @media screen and (min-width: 480px) {
   .float-right-desktop {
     float: right;
