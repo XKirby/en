@@ -1901,7 +1901,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > >
 > > {: .specie-inner-callout }  
 > > > *Weapon Strike*{: .header-font } (**0 FP**{: .spirit-color })  
-> > > Attacks with a hand-held weapon.
+> > > Attacks with a hand-held weapon.  
 > > > *Coordination*{: .heart-color }:  
 > > > Auto: 1 DMG  
 > > > *Nice!*{: .nice-color }: 2 DMG  
@@ -1942,7 +1942,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > > Weakness (Air)  
 > > *You must make a **Steady**{: .courage-color } check versus Disorientation (1), lasting a number of turns equal to the damage taken (minimum 1 turn).*{: .mgl .fs-3 }  
 > > Weakness (Crushing)  
-> > *You take +2 damage and fall to the ground, unable to fly until you get some rest.{: .mgl .fs-3 }  
+> > *You take +2 damage and fall to the ground, unable to fly until you get some rest.*{: .mgl .fs-3 }  
 > > *This leaves you Dazed (1) for a number of turns equal to the damage dealt.*{: .mgl .fs-3 }  
 > > Handless
 >
@@ -2097,7 +2097,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 {: .specie-callout }
 > ## Koopa Bro
 > 
-> ![](assets/images/icons/tipguy.png)
+> ![](assets/images/species/koopa_bro.png)
 > {: .float-right-desktop }
 > More confrontational than the average Koopa, these Bros are known for their combat prowess, bravery and camaraderie. Most Bro clans stick hard to a traditional weapon, and are fierce combatants.
 >
@@ -2132,7 +2132,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > >
 > > {: .specie-inner-callout }  
 > > > *Hammer Toss*{: .header-font } (**0 FP**{: .spirit-color })  
-> > > Throws a hammer at range.
+> > > Throws a hammer at range.  
 > > > *Aim (+ Throw)*{: .heart-color }:  
 > > > Auto: 1 DMG  
 > > > *Nice!*{: .nice-color }: 2 DMG  
@@ -2141,7 +2141,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > >
 > > {: .specie-inner-callout }  
 > > > *Psyche Up*{: .header-font } (**3 FP**{: .spirit-color })  
-> > > Pump the target up for 4 turns.
+> > > Pump the target up for 4 turns.  
 > > > *Cheer (+ Boosts)*{: .courage-color }:  
 > > > *Nice!*{: .nice-color }: +1 Attack for 4 turns  
 > > > *Good!*{: .good-color }: +2 Attack for 4 turns  
@@ -2252,7 +2252,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > >
 > > {: .specie-inner-callout }  
 > > > *Spiny Toss*{: .header-font } (**0 FP**{: .spirit-color })  
-> > > Tosses a Spiny Egg at the foe.
+> > > Tosses a Spiny Egg at the foe.  
 > > > *Aim (+ Throw)*{: .heart-color }:  
 > > > Auto: 1 DMG  
 > > > *Nice!*{: .nice-color }: 2 DMG  
@@ -2261,7 +2261,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > >
 > > {: .specie-inner-callout }  
 > > > *Cloud Nine*{: .header-font } (**3 FP**{: .spirit-color })  
-> > > Hides the target away in the user's cloud, making it easier for them to *Dodge*{: .spirit-color } for 4 turns.
+> > > Hides the target away in the user's cloud, making it easier for them to *Dodge*{: .spirit-color } for 4 turns.  
 > > > *Cheer*{: .courage-color }:  
 > > > *Nice!*{: .nice-color }: +1d6 to *Dodge*{: .spirit-color } for 4 turns  
 > > > *Good!*{: .good-color }: +2d6 to *Dodge*{: .spirit-color } for 4 turns  
