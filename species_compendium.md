@@ -1808,7 +1808,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 >
 
 {: .specie-callout }
-> ## Gulpit (WIP)
+> ## Gulpit
 >
 > ![](assets/images/species/gulpit.png)
 > {: .float-right-desktop }
