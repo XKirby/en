@@ -523,11 +523,12 @@ Each *Steady*{: .courage-color } check made requires a higher Grade of Success t
 > > *Power-Up*{: .label .power-up .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
 > >
-> > Bestows the power to generate fire.When wilted, the petals can be scattered to produce a similar effect to a Fire Burst.  
+> > Bestows the power to generate fire.  
+> > When wilted, the petals can be scattered to produce a similar effect to a Fire Burst.  
 > > For *5 FP*{: .spirit-color }:  
 > > *Adds +1 Attack, Lingering x2 and Element (Fire) to an attack.*{: .mgl .fs-3 }  
-> > For *5 FP*{: .spirit-color }:
-> > *Fireball* {: .mgl .fs-3 .header-font }  
+> > For *5 FP*{: .spirit-color }:  
+> > *Fireball*{: .mgl .fs-3 .header-font }  
 > > *Launches a volley of fireballs at a single enemy.*{: .mgl .fs-3 }  
 > > ***Aim**{: .heart-color } or **Magic**{: .spirit-color }:*{: .mgl .fs-3 }  
 > > *Deals 1 Piercing Fire DMG to the target, repeating with another strike for each Grade of Success, hitting up to [2 x (Power + 1)] times.*{: .mgl .fs-3 }  
@@ -539,6 +540,61 @@ Each *Steady*{: .courage-color } check made requires a higher Grade of Success t
 > > ***Great!**{: .great-color }: Lingering (3) for 3 turns*{: .mgl .fs-3 }  
 > > Adds:  
 > > *+1 Resist (Fire)*{: .mgl .fs-3 }  
-> > Removes:
+> > Removes:  
 > > *Immunities and Resistances to Ice and Water*{: .mgl .fs-3 }
+
+{: .item-callout .item-left }
+> ![](assets/images/items/iceflower.png)
+>
+> {: .item-inner-callout }
+> > *Ice Flower*{: .fs-6 .header-font }  
+> > *Power-Up*{: .label .power-up .header-font }  
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
+> >
+> > Bestows the power to generate ice.  
+> > When wilted, the petals can be scattered to produce a similar effect to an Ice Storm.  
+> > For *5 FP*{: .spirit-color }:  
+> > *Adds +1 Attack, Daze x2 and Element (Ice) to an attack.*{: .mgl .fs-3 }  
+> > For *5 FP*{: .spirit-color }:  
+> > *Iceball*{: .mgl .fs-3 .header-font }  
+> > *Launches a barrage of ice at a single enemy.*{: .mgl .fs-3 }  
+> > ***Aim**{: .heart-color } or **Magic**{: .spirit-color }:*{: .mgl .fs-3 }  
+> > *Deals 1 Piercing Ice DMG to the target, repeating with another strike for each Grade of Success, hitting up to [2 x (Power + 1)] times.*{: .mgl .fs-3 }  
+> > *Excess damage spills over to new targets.*{: .mgl .fs-3 }
+> > *Each target may be frozen in place.*{: .mgl .fs-3 }  
+> > ***Bully**{: .courage-color } or **Magic**{: .spirit-color }:*{: .mgl .fs-3 }  
+> > ***Nice!**{: .nice-color }: Daze (1) for 3 turns*{: .mgl .fs-3 }  
+> > ***Good!**{: .good-color }: Daze (2) for 3 turns*{: .mgl .fs-3 }  
+> > ***Great!**{: .great-color }: Daze (3) for 3 turns*{: .mgl .fs-3 }  
+> > Adds:  
+> > *+1 Resist (Ice)*{: .mgl .fs-3 }  
+> > Removes:  
+> > *Immunities and Resistances to Fire*{: .mgl .fs-3 }
+
+{: .item-callout .item-left }
+> ![](assets/images/items/bubbleflower.png)
+>
+> {: .item-inner-callout }
+> > *Bubble Flower*{: .fs-6 .header-font }  
+> > *Power-Up*{: .label .power-up .header-font }  
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
+> >
+> > Bestows the power to generate bubbles of water.  
+> > When wilted, the petals can be scattered to produce a similar effect to a Bubble Wave.  
+> > For *5 FP*{: .spirit-color }:  
+> > *Adds +1 Attack, Indirect and Element (Water) to an attack.*{: .mgl .fs-3 }  
+> > For *5 FP*{: .spirit-color }:  
+> > *Bubble Blower*{: .mgl .fs-3 .header-font }  
+> > *Launches a cloud of bubbles at a foe at range, which breeze past them to strike enemies behind them. Each new target causes the cloud to grow weaker, dealing 1 less damage (to a minimum of 1).*{: .mgl .fs-3 }  
+> > *Each target may be encased in bubbles.*{: .mgl .fs-3 }  
+> > ***Aim**{: .heart-color } or **Magic**{: .spirit-color }:*{: .mgl .fs-3 }  
+> > ***Good!**{: .good-color }: [2 x (Power + 1)] Piercing Water DMG*{: .mgl .fs-3 }  
+> > ***Bully**{: .courage-color } or **Magic**{: .spirit-color }:*{: .mgl .fs-3 }  
+> > ***Nice!**{: .nice-color }: Daze (1) for 3 turns*{: .mgl .fs-3 }  
+> > ***Good!**{: .good-color }: Daze (2) for 3 turns*{: .mgl .fs-3 }  
+> > ***Great!**{: .great-color }: Daze (3) for 3 turns*{: .mgl .fs-3 }  
+> > Adds:  
+> > *+1 Resist (Water)*{: .mgl .fs-3 }  
+> > Removes:  
+> > *Immunities and Resistances to Shock*{: .mgl .fs-3 }
 
