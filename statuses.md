@@ -29,7 +29,7 @@ And if a Status is mentioned without specifying its Level, assume it's Level 1.
 
 {: .content-callout }
 > ![](assets/images/status/boosted.png)
-{: .float-right }
+> {: .float-right }
 > ## Boosted
 > 
 > Your abilities are Boosted, increasing them by the Status Level for the duration of this status.  
@@ -39,7 +39,7 @@ And if a Status is mentioned without specifying its Level, assume it's Level 1.
 
 {: .content-callout }
 > ![](assets/images/status/charmed.png)
-{: .float-right }
+> {: .float-right }
 > ## Charmed 
 > 
 > You're easier to convince, allowing people to manipulate you to do things against your best interests.  
@@ -48,7 +48,7 @@ And if a Status is mentioned without specifying its Level, assume it's Level 1.
 
 {: .content-callout }
 > ![](assets/images/status/confused.png)
-{: .float-right }
+> {: .float-right }
 > ## Confused
 > 
 > Your senses are addled, causing you to act irrationally. At the start of your turn roll 1d6; if the result is greater than the Status Level, you act as normal.  
@@ -56,7 +56,7 @@ And if a Status is mentioned without specifying its Level, assume it's Level 1.
 
 {: .content-callout }
 > ![](assets/images/status/dazed.png)
-{: .float-right }
+> {: .float-right }
 > ## Dazed
 > 
 > You're temporarily unable to act, though not completely powerless – you may be asleep, staggered, tied up or even frozen!  
@@ -66,7 +66,7 @@ And if a Status is mentioned without specifying its Level, assume it's Level 1.
 
 {: .content-callout }
 > ![](assets/images/status/disarmed.png)
-{: .float-right }
+> {: .float-right }
 > ## Disarmed
 > 
 > Your abilities have been Disarmed in some way, such as by mental befuddlement or physically stealing your equipment, preventing you from using a specific kind of attack or Trait (e.g. jump attacks, hammer attacks, group-target attacks).  
@@ -75,7 +75,7 @@ And if a Status is mentioned without specifying its Level, assume it's Level 1.
 
 {: .content-callout }
 > ![](assets/images/status/disoriented.png)
-{: .float-right }
+> {: .float-right }
 > ## Disoriented 
 > 
 > When making a check that requires the use of your eyes, or other senses as appropriate, you suffer a -1d6 penalty per Status Level.  
@@ -83,14 +83,14 @@ And if a Status is mentioned without specifying its Level, assume it's Level 1.
 
 {: .content-callout }
 > ![](assets/images/status/hustled.png)
-{: .float-right }
+> {: .float-right }
 > ## Hustled
 >
 > Whenever you could take an action on your turn, you can take up to 1 additional action for each Status Level; however, each Hustled action you take requires 1 more Grade of Success for each action taken before it. Your reactions and free actions suffer no penalty, as usual.
 
 {: .content-callout }
 > ![](assets/images/status/lingering.png)
-{: .float-right }
+> {: .float-right }
 > ## Lingering
 >
 > You suffer from a continuous damaging effect, such as a persistent burn or a poison.  
@@ -98,7 +98,7 @@ And if a Status is mentioned without specifying its Level, assume it's Level 1.
 
 {: .content-callout }
 > ![](assets/images/status/provoked.png)
-{: .float-right }
+> {: .float-right }
 > ## Provoked
 > 
 > You're berserk, and your anger is directed towards one target in particular.  
@@ -110,7 +110,7 @@ And if a Status is mentioned without specifying its Level, assume it's Level 1.
 
 {: .content-callout }
 > ![](assets/images/status/secure.png)
-{: .float-right }
+> {: .float-right }
 > ## Secure
 > 
 > You've turned invincible! You're completely immune to attacks and virtually all other Techniques; they either glance off harmlessly or fail to even touch you.  
@@ -121,7 +121,7 @@ And if a Status is mentioned without specifying its Level, assume it's Level 1.
 
 {: .content-callout }
 > ![](assets/images/status/stunned.png)
-{: .float-right }
+> {: .float-right }
 > ## Stunned
 >
 > You've been staggered, and though you can try to resist, you may be unable to act or fight back! You could be paralysed or frozen in time.  
@@ -129,7 +129,7 @@ And if a Status is mentioned without specifying its Level, assume it's Level 1.
 
 {: .content-callout }
 > ![](assets/images/status/tutored.png)
-{: .float-right }
+> {: .float-right }
 > ## Tutored
 > 
 > You've learned how to make use of new Technique Traits – or maybe you can't get them out of your head.  
@@ -140,7 +140,7 @@ And if a Status is mentioned without specifying its Level, assume it's Level 1.
 
 {: .content-callout }
 > ![](assets/images/status/weakened.png)
-{: .float-right }
+> {: .float-right }
 > ## Weakened
 > 
 > Your abilities are Weakened, reducing them by the Status Level for the duration of this status. Stats and Defenses can be reduced to 0, though Attack and Skills can be reduced even further to give them negative values!  
