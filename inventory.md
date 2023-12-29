@@ -932,3 +932,82 @@ Each *Steady*{: .courage-color } check made requires a higher Grade of Success t
 Gear are specialised pieces of equipment that provide the user with new Techniques and other significant advantages, both in the field and in combat.  
 If players request personalised Gear, [*Craft*{: .spirit-color }](TODO:LINK) it themselves or (in the case of Basic Gear) begin play with a Tool Technique, they can even design their own!
 
+{: .item-callout .item-left }
+> ![](assets/images/gear/basicgear.png)
+>
+> {: .item-inner-callout }
+> > *Basic Gear*{: .fs-6 .header-font }  
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • Costs 30 Coins
+> >
+> > - Doesn't provide bonuses to stats or checks.  
+> > - If the Gear was generated through a Tool Technique in character creation, players can begin play with it without spending Coins, and don't design another Technique for the Gear; unfamiliar users only have access to a basic version of that Technique, using the below rules at the GM's discretion.  
+> > - Otherwise, this Gear provides the user with a new Technique.  
+> > This Technique must cost *0 FP*{: .spirit-color }, and can include one Trait as a Tech Default, based on the Gear's primary use (e.g. Tool for weapons, or Aerial for boots).  
+> > Regardless of the user's level, only 1 Trait can be used to reduce the Technique's *FP cost*{: .spirit-color }.
+> > - Personal Traits can be added for a cost of 10 Coins each, but checks using those Traits (e.g. Fly) can only score up to a Nice result, and their numerical values (e.g. Resist, *HP*{: .heart-color } healed with Immune, Contact damage) are limited to 1.
+
+{: .item-callout .item-left }
+> ![](assets/images/gear/supergear.png)
+>
+> {: .item-inner-callout }
+> > *Super Gear*{: .fs-6 .header-font }  
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • Costs 400 Coins
+> >
+> > - Grants either +1 Power (when wielded as a Weapon), +1 Defense (when carried as a Shield or worn as Armour), or +1 to a Stat.
+> > - Adds +1d6 to appropriate checks.
+> > - Grants the user a new Technique using the Gear.  
+> > This Technique can include one Trait as a Tech Default, based on the Gear's primary use (e.g. Tool for weapons, or Aerial for boots).  
+> > Regardless of the user's level, only 2 Traits can be used to reduce the Technique's *FP cost*{: .spirit-color }.
+- Personal Traits can be added for a cost of 25 Coins each, with their numerical values beginning at 1. Checks using those Traits can score up to a *Great*{: .great-color } result, but no higher.  
+> > Each numerical effect of a Trait can be enhanced to 2 for another 25 Coins, but no further.
+
+{: .item-callout .item-left }
+> ![](assets/images/gear/ultragear.png)
+>
+> {: .item-inner-callout }
+> > *Ultra Gear*{: .fs-6 .header-font }  
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • Costs 800 Coins
+> >
+> > - Grants either +2 Power (when wielded as a Weapon), +2 Defense (when carried as a Shield or worn as Armour), or +2 to a Stat.
+> > - Adds +2d6 to appropriate checks.
+> > - Grants the user txo new Techniques using the Gear.  
+> > These Techniques can include one Trait as a Tech Default, based on the Gear's primary use (e.g. Tool for weapons, or Aerial for boots).  
+> > Regardless of the user's level, only 4 Traits can be used to reduce the Technique's *FP cost*{: .spirit-color }.
+- Personal Traits can be added for a further 50 Coins each, with their numerical values values (e.g. Resist, HP healed with Immune, Contact damage) beginning at 1.  
+> > Each numerical effect of a Trait can be increased, 1 point at a time, for another 50 Coins.
+
+The following pieces of Gear are just a few examples of what can be found in the world, either following these rules or as unique examples.
+
+{: .item-callout .item-left }
+> ![](assets/images/gear/basicboots.png)
+>
+> {: .item-inner-callout }
+> > *Basic Boots*{: .fs-6 .header-font }  
+> > *Gear*{: .label .gear .header-font }  
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 30 Coins
+> >
+> > An ordinary pair of jumping shoes.  
+> > For *0 FP*{: .spirit-color }:  
+> > *Jump*{: .mgl .fs-3 .header-font }  
+> > *The user leaps onto the foe's head, attacking with a double-bounce.*{: .mgl .fs-3 }  
+> > ***Athletics**{: .heart-color} or **Coordination**{: .heart-color }:*{: .mgl .fs-3 }  
+> > *Auto: [Power] DMG*{: .mgl .fs-3 }  
+> > ***Nice!**{: .nice-color }: [Power] DMG x2*{: .mgl .fs-3 }
+
+{: .item-callout .item-left }
+> ![](assets/images/gear/basichammer.png)
+>
+> {: .item-inner-callout }
+> > *Basic Hammer*{: .fs-6 .header-font }  
+> > *Gear*{: .label .gear .header-font }  
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 30 Coins
+> >
+> > An ordinary tool for busting blocks.  
+> > For *0 FP*{: .spirit-color }:  
+> > *Hammer Whack*{: .mgl .fs-3 .header-font }  
+> > *The user smacks the foe with a straightforward hammer attack.*{: .mgl .fs-3 }  
+> > ***Coordination**{: .heart-color }:*{: .mgl .fs-3 }  
+> > *Auto: [Power] DMG*{: .mgl .fs-3 }  
+> > ***Nice!**{: .nice-color }: [2x Power] DMG*{: .mgl .fs-3 }
+
+WIP
