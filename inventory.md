@@ -190,7 +190,7 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 >
 > {: .item-inner-callout }
 > > *Reflect Cape*{: .fs-6 .header-font }  
-> > *Item*{: .label .item .header-font } *Attack*{: .label .attack .header-font } *Booster*{: .label .booster .header-font } 
+> > *Item*{: .label .item .header-font } *Attack*{: .label .attack .header-font } *Booster*{: .label .booster .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 10 Coins
 > >
 > > Deals 2 Piercing damage to a target in melee, then equips the user with a cape; until the end of the round, they receive +1d6 to *Guard*{: .heart-color } checks against ranged attacks, as if Boosted.
@@ -200,7 +200,7 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 >
 > {: .item-inner-callout }
 > > *Fire Burst*{: .fs-6 .header-font }  
-> > *Item*{: .label .item .header-font } *Attack*{: .label .attack .header-font }
+> > *Item*{: .label .item .header-font } *Attack*{: .label .attack .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 10 Coins
 > >
 > > Deals 3 Piercing Fire damage to all enemies in target group and leaves a Lingering (1) burn for 3 turns.
@@ -210,7 +210,7 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 >
 > {: .item-inner-callout }
 > > *Ice Storm*{: .fs-6 .header-font }  
-> > *Item*{: .label .item .header-font } *Attack*{: .label .attack .header-font }
+> > *Item*{: .label .item .header-font } *Attack*{: .label .attack .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 15 Coins
 > >
 > > Deals 3 Piercing Ice damage to all enemies in target group – targets are frozen, Dazing (1) them for 1 turn.
@@ -220,7 +220,7 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 >
 > {: .item-inner-callout }
 > > *Bubble Wave*{: .fs-6 .header-font }  
-> > *Item*{: .label .item .header-font } *Attack*{: .label .attack .header-font }
+> > *Item*{: .label .item .header-font } *Attack*{: .label .attack .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 15 Coins
 > >
 > > Deals 3 Piercing Water damage to all enemies in target group – targets are encased in bubbles, Dazing (1) them for 1 turn.
@@ -230,7 +230,7 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 >
 > {: .item-inner-callout }
 > > *HP Drain*{: .fs-6 .header-font }  
-> > *Item*{: .label .item .header-font } *Attack*{: .label .attack .header-font }
+> > *Item*{: .label .item .header-font } *Attack*{: .label .attack .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 10 Coins
 > >
 > > Deals 5 Piercing Shadow damage to target, then restores the damage dealt as *HP*{: .heart-color } for the user.
@@ -240,7 +240,7 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 >
 > {: .item-inner-callout }
 > > *Thunder Bolt*{: .fs-6 .header-font }  
-> > *Item*{: .label .item .header-font } *Attack*{: .label .attack .header-font }
+> > *Item*{: .label .item .header-font } *Attack*{: .label .attack .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 10 Coins
 > >
 > > Deals 5 Piercing Shock damage to target.
@@ -250,7 +250,7 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 >
 > {: .item-inner-callout }
 > > *Thunder Rage*{: .fs-6 .header-font }  
-> > *Item*{: .label .item .header-font } *Attack*{: .label .attack .header-font }
+> > *Item*{: .label .item .header-font } *Attack*{: .label .attack .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 20 Coins
 > >
 > > Deals 5 Piercing Shock damage to all enemies outside the user's group.
@@ -260,7 +260,7 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 >
 > {: .item-inner-callout }
 > > *Earth Quake*{: .fs-6 .header-font }  
-> > *Item*{: .label .item .header-font } *Attack*{: .label .attack .header-font }
+> > *Item*{: .label .item .header-font } *Attack*{: .label .attack .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 15 Coins
 > >
 > > Deals 5 Piercing Earth/Quake damage to all enemies outside the user's group in contact with a solid surface.
@@ -270,7 +270,7 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 >
 > {: .item-inner-callout }
 > > *Shooting Star*{: .fs-6 .header-font }  
-> > *Item*{: .label .item .header-font } *Attack*{: .label .attack .header-font }
+> > *Item*{: .label .item .header-font } *Attack*{: .label .attack .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 30 Coins
 > >
 > > Deals 6 Piercing Star damage to all enemies outside the user's group.
@@ -280,7 +280,7 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 >
 > {: .item-inner-callout }
 > > *Fright Mask*{: .fs-6 .header-font }  
-> > *Item*{: .label .item .header-font } *Hazard*{: .label .hazard .header-font }
+> > *Item*{: .label .item .header-font } *Hazard*{: .label .hazard .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 5 Coins
 > >
 > > All enemies in target group are terrified, either fleeing or leaving them Stunned (3) for 3 turns (their choice).
@@ -290,7 +290,7 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 >
 > {: .item-inner-callout }
 > > *Sleepy Sheep*{: .fs-6 .header-font }  
-> > *Item*{: .label .item .header-font } *Hazard*{: .label .hazard .header-font }
+> > *Item*{: .label .item .header-font } *Hazard*{: .label .hazard .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 8 Coins
 > >
 > > All enemies in target group are put to sleep, Dazing (1) them for 3 turns.
@@ -300,7 +300,7 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 >
 > {: .item-inner-callout }
 > > *Mini Mr. Mini*{: .fs-6 .header-font }  
-> > *Item*{: .label .item .header-font } *Hazard*{: .label .hazard .header-font }
+> > *Item*{: .label .item .header-font } *Hazard*{: .label .hazard .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 8 Coins
 > >
 > > All enemies in target group are shrunken, Weakening (1) Attack for 3 turns.
@@ -310,7 +310,7 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 >
 > {: .item-inner-callout }
 > > *Mr. Softener*{: .fs-6 .header-font }  
-> > *Item*{: .label .item .header-font } *Hazard*{: .label .hazard .header-font }
+> > *Item*{: .label .item .header-font } *Hazard*{: .label .hazard .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 8 Coins
 > >
 > > All enemies in target group are softened up, Weakening (1) Defense for 3 turns.
@@ -320,7 +320,7 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 >
 > {: .item-inner-callout }
 > > *Dizzy Dial*{: .fs-6 .header-font }  
-> > *Item*{: .label .item .header-font } *Hazard*{: .label .hazard .header-font }
+> > *Item*{: .label .item .header-font } *Hazard*{: .label .hazard .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 12 Coins
 > >
 > > All enemies in target group are dizzied, Disorienting (1) them for 3 turns.
@@ -330,7 +330,7 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 >
 > {: .item-inner-callout }
 > > *Stopwatch*{: .fs-6 .header-font }  
-> > *Item*{: .label .item .header-font } *Hazard*{: .label .hazard .header-font }
+> > *Item*{: .label .item .header-font } *Hazard*{: .label .hazard .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 25 Coins
 > >
 > > All enemies in target group are partially frozen in time, leaving them Stunned (3) for 3 turns.
@@ -340,7 +340,7 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 >
 > {: .item-inner-callout }
 > > *Ruin Powder*{: .fs-6 .header-font }  
-> > *Item*{: .label .item .header-font } *Hazard*{: .label .hazard .header-font }
+> > *Item*{: .label .item .header-font } *Hazard*{: .label .hazard .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 15 Coins
 > >
 > > All enemies in target group have their senses addled, Confusing (1) them for 3 turns.
@@ -350,7 +350,7 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 >
 > {: .item-inner-callout }
 > > *Power Punch*{: .fs-6 .header-font }  
-> > *Item*{: .label .item .header-font } *Booster*{: .label .booster .header-font }
+> > *Item*{: .label .item .header-font } *Booster*{: .label .booster .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 15 Coins
 > >
 > > Enlarges a willing target, Boosting (1) Attack for 3 turns.
@@ -360,7 +360,7 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 >
 > {: .item-inner-callout }
 > > *Courage Shell*{: .fs-6 .header-font }  
-> > *Item*{: .label .item .header-font } *Booster*{: .label .booster .header-font }
+> > *Item*{: .label .item .header-font } *Booster*{: .label .booster .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 5 Coins
 > >
 > > Toughens a willing target's body, Boosting (1) Defense for 3 turns.
@@ -370,7 +370,7 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 >
 > {: .item-inner-callout }
 > > *Volt Shroom*{: .fs-6 .header-font }  
-> > *Item*{: .label .item .header-font } *Booster*{: .label .booster .header-font }
+> > *Item*{: .label .item .header-font } *Booster*{: .label .booster .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 10 Coins
 > >
 > > Electrifies a willing target, bestowing the following Contact trait for 3 turns:  
@@ -382,7 +382,7 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 >
 > {: .item-inner-callout }
 > > *Spite Pouch*{: .fs-6 .header-font }  
-> > *Item*{: .label .item .header-font } *Booster*{: .label .booster .header-font }
+> > *Item*{: .label .item .header-font } *Booster*{: .label .booster .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 10 Coins
 > >
 > > Protects a willing target with a vengeful curse, bestowing the following Contact trait for 3 turns:  
@@ -394,7 +394,7 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 >
 > {: .item-inner-callout }
 > > *Repel Cape*{: .fs-6 .header-font }  
-> > *Item*{: .label .item .header-font } *Booster*{: .label .booster .header-font }
+> > *Item*{: .label .item .header-font } *Booster*{: .label .booster .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 15 Coins
 > >
 > > Makes a willing target dodgier; for the next 3 turns, their *Dodge*{: .spirit-color } checks are Boosted (1).  
@@ -405,7 +405,7 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 >
 > {: .item-inner-callout }
 > > *Boo's Sheet*{: .fs-6 .header-font }  
-> > *Item*{: .label .item .header-font } *Booster*{: .label .booster .header-font }
+> > *Item*{: .label .item .header-font } *Booster*{: .label .booster .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 25 Coins
 > >
 > > Turns a willing target invisible like a Boo for 1 turn, making them invisible, intangible and bestowing the following Weakness:  
@@ -418,7 +418,7 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 >
 > {: .item-inner-callout }
 > > *Stone Cap*{: .fs-6 .header-font }  
-> > *Item*{: .label .item .header-font } *Booster*{: .label .booster .header-font }
+> > *Item*{: .label .item .header-font } *Booster*{: .label .booster .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 30 Coins
 > >
 > > Turns a willing target into a solid stone statue for 3 turns, preventing them from taking any action, but making them immune to all attacks, hazards, Statuses and similar effects.  
@@ -434,7 +434,7 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 >
 > {: .item-inner-callout }
 > > *Carry Cloud*{: .fs-6 .header-font }  
-> > *Item*{: .label .item .header-font } *Booster*{: .label .booster .header-font }
+> > *Item*{: .label .item .header-font } *Booster*{: .label .booster .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 30 Coins
 > >
 > > Gives a willing target a cloud to ride in for 3 turns, bestowing the Hover and Fly Traits; checks made to Fly with the cloud can use either *Coordination*{: .heart-color } or *Magic*{: .spirit-color } instead of *Athletics*{: .heart-color }.  
@@ -445,7 +445,7 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 >
 > {: .item-inner-callout }
 > > *Mystery Box*{: .fs-6 .header-font }  
-> > *Item*{: .label .item .header-font } *Quirk*{: .label .quirk .header-font }
+> > *Item*{: .label .item .header-font } *Quirk*{: .label .quirk .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 3 Coins
 > >
 > > When used, roll 2d6 to determine this Item's effect.  
@@ -469,7 +469,7 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 >
 > {: .item-inner-callout }
 > > *Point Swap*{: .fs-6 .header-font }  
-> > *Item*{: .label .item .header-font } *Quirk*{: .label .quirk .header-font }
+> > *Item*{: .label .item .header-font } *Quirk*{: .label .quirk .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 5 Coins
 > >
 > > Swaps any target's current *HP*{: .heart-color } and *FP*{: .spirit-color } totals, without exceeding their maximum values.  
@@ -480,7 +480,7 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 >
 > {: .item-inner-callout }
 > > *Poison Shroom*{: .fs-6 .header-font }  
-> > *Item*{: .label .item .header-font } *Quirk*{: .label .quirk .header-font }
+> > *Item*{: .label .item .header-font } *Quirk*{: .label .quirk .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
 > >
 > > When fed to a willing target, they roll 1d6:
@@ -514,3 +514,31 @@ Each *Steady*{: .courage-color } check made requires a higher Grade of Success t
 
 ![](assets/images/scenes/21.png)
 {: .center-img }
+
+{: .item-callout .item-left }
+> ![](assets/images/items/fireflower.png)
+>
+> {: .item-inner-callout }
+> > *Fire Flower*{: .fs-6 .header-font }  
+> > *Power-Up*{: .label .power-up .header-font }  
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
+> >
+> > Bestows the power to generate fire.When wilted, the petals can be scattered to produce a similar effect to a Fire Burst.  
+> > For *5 FP*{: .spirit-color }:  
+> > *Adds +1 Attack, Lingering x2 and Element (Fire) to an attack.*{: .mgl .fs-3 }  
+> > For *5 FP*{: .spirit-color }:
+> > *Fireball* {: .mgl .fs-3 .header-font }  
+> > *Launches a volley of fireballs at a single enemy.*{: .mgl .fs-3 }  
+> > ***Aim**{: .heart-color } or **Magic**{: .spirit-color }:*{: .mgl .fs-3 }  
+> > *Deals 1 Piercing Fire DMG to the target, repeating with another strike for each Grade of Success, hitting up to [2 x (Power + 1)] times.*{: .mgl .fs-3 }  
+> > *Excess damage spills over to new targets.*{: .mgl .fs-3 }
+> > *Each target may be burnt.*{: .mgl .fs-3 }  
+> > ***Bully**{: .courage-color } or **Magic**{: .spirit-color }:*{: .mgl .fs-3 }  
+> > ***Nice!**{: .nice-color }: Lingering (1) for 3 turns*{: .mgl .fs-3 }  
+> > ***Good!**{: .good-color }: Lingering (2) for 3 turns*{: .mgl .fs-3 }  
+> > ***Great!**{: .great-color }: Lingering (3) for 3 turns*{: .mgl .fs-3 }  
+> > Adds:  
+> > *+1 Resist (Fire)*{: .mgl .fs-3 }  
+> > Removes:
+> > *Immunities and Resistances to Ice and Water*{: .mgl .fs-3 }
+
