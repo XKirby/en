@@ -983,7 +983,7 @@ The following pieces of Gear are just a few examples of what can be found in the
 >
 > {: .item-inner-callout }
 > > *Basic Boots*{: .fs-6 .header-font }  
-> > *Gear*{: .label .gear .header-font }  
+> > *Gear*{: .label .gear .header-font } *Basic*{: .label .gear .header-font } *Boots*{: .label .item .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 30 Coins
 > >
 > > An ordinary pair of jumping shoes.  
@@ -999,7 +999,7 @@ The following pieces of Gear are just a few examples of what can be found in the
 >
 > {: .item-inner-callout }
 > > *Basic Hammer*{: .fs-6 .header-font }  
-> > *Gear*{: .label .gear .header-font }  
+> > *Gear*{: .label .gear .header-font } *Basic*{: .label .gear .header-font } *Weapon*{: .label .item .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 30 Coins
 > >
 > > An ordinary tool for busting blocks.  
@@ -1010,4 +1010,186 @@ The following pieces of Gear are just a few examples of what can be found in the
 > > *Auto: [Power] DMG*{: .mgl .fs-3 }  
 > > ***Nice!**{: .nice-color }: [2x Power] DMG*{: .mgl .fs-3 }
 
-WIP
+{: .item-callout .item-left }
+> ![](assets/images/gear/spinyhat.png)
+>
+> {: .item-inner-callout }
+> > *Spiny Hat*{: .fs-6 .header-font }  
+> > *Gear*{: .label .gear .header-font } *Basic*{: .label .gear .header-font } *Headgear*{: .label .item .header-font }  
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
+> >
+> > A skullcap with one or more sharp spikes, intended to ward off attacks from above.  
+> > In a pinch, it can be used to attack.  
+> > Adds:  
+> > *Immune (Aerial)*{: .mgl .fs-3 }  
+> > *This Immunity is negated if the attacker has Immune (Spikes).*{: .mgl-big .fs-3 }  
+> > *Contact*{: .mgl .fs-3 }  
+> > *The attacker takes 1 Piercing DMG, and you make a **Steady**{: .courage-color } check; with a Nice result, the attacker is Dazed for 1 turn.*{: .mgl-big .fs-3 }
+> > For *0 FP*{: .spirit-color }:  
+> > *Pointed Headbonk*{: .mgl .fs-3 .header-font }  
+> > *The user leaps onto the foe's head, skewering them with their own spiky head.*{: .mgl .fs-3 }  
+> > ***Athletics**{: .heart-color } or **Coordination**{: .heart-color }:*{: .mgl .fs-3 }  
+> > ***Nice!**{: .nice-color }: [Power + 1] DMG*{: .mgl .fs-3 }  
+> > ***Good!**{: .good-color }: [2x (Power + 1)] DMG*{: .mgl .fs-3 }
+
+{: .item-callout .item-left }
+> ![](assets/images/gear/spinyspear.png)
+>
+> {: .item-inner-callout }
+> > *Spiny Spear*{: .fs-6 .header-font }  
+> > *Gear*{: .label .gear .header-font } *Basic*{: .label .gear .header-font } *Weapon*{: .label .item .header-font }  
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
+> >
+> > A stick with a pointed spike attached at the end. While it's intended as a weapon, just carrying it around helps protect against jump attacks.  
+> > Adds:  
+> > *Immune (Aerial)*{: .mgl .fs-3 }  
+> > *This Immunity is negated if the attacker has Immune (Spikes).*{: .mgl-big .fs-3 }  
+> > *Contact*{: .mgl .fs-3 }  
+> > *The attacker takes 1 Piercing DMG, and you make a **Steady**{: .courage-color } check; with a Nice result, the attacker is Dazed for 1 turn.*{: .mgl-big .fs-3 }
+> > For *0 FP*{: .spirit-color }:  
+> > *Spear Strike*{: .mgl .fs-3 .header-font }  
+> > *The user stabs from afar with their spear. This attack has reach, allowing it to hit airborne enemies.*{: .mgl .fs-3 }  
+> > *It can strike through the initial target to hit one more target behind them, but this attack deals -1 damage.*{: .mgl .fs-3 }  
+> > ***Coordination**{: .heart-color }:*{: .mgl .fs-3 }  
+> > ***Nice!**{: .nice-color }: [Power] DMG / [Power - 1] DMG*{: .mgl .fs-3 }  
+> > ***Good!**{: .good-color }: [2x Power] DMG / [(2x Power) - 1] DMG*{: .mgl .fs-3 }
+
+{: .item-callout .item-left }
+> ![](assets/images/gear/superboots.png)
+>
+> {: .item-inner-callout }
+> > *Super Boots*{: .fs-6 .header-font }  
+> > *Gear*{: .label .gear .header-font } *Super*{: .label .super-gear .header-font } *Boots*{: .label .item .header-font }  
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 400 Coins
+> >
+> > Sturdy leather boots. Comfy, but reliable.  
+> > Grants +1d6 to appropriate checks (e.g. *Athletics*{: .heart-color }), and +1 Power when wielded, such as in Spin Jump.  
+> > For *2 FP*{: .spirit-color }:  
+> > *Spin Jump*{: .mgl .fs-3 .header-font }  
+> > *The user jumps on the foe, then slams them with a forceful ground-pound.*{: .mgl .fs-3 }  
+> > ***Athletics**{: .heart-color} or **Coordination**{: .heart-color }:*{: .mgl .fs-3 }  
+> > *Auto: [Power] DMG*{: .mgl .fs-3 }  
+> > ***Nice!**{: .nice-color }: [Power] DMG, [2 + Power] DMG*{: .mgl .fs-3 }
+
+{: .item-callout .item-left }
+> ![](assets/images/gear/superhammer.png)
+>
+> {: .item-inner-callout }
+> > *Super Hammer*{: .fs-6 .header-font }  
+> > *Gear*{: .label .gear .header-font } *Super*{: .label .super-gear .header-font } *Weapon*{: .label .item .header-font }  
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 400 Coins
+> >
+> > A heavy iron hammer. Solid and reliable.  
+> > Grants +1d6 to appropriate checks (e.g. *Coordination*{: .heart-color }) using this hammer, and +1 Power when wielded, such as in Spin Hammer.  
+> > For *2 FP*{: .spirit-color }:  
+> > *Spin Hammer*{: .mgl .fs-3 .header-font }  
+> > *The user spins in place with their hammer, smacking targets into foes behind them.*{: .mgl .fs-3 }  
+> > ***Coordination**{: .heart-color }:*{: .mgl .fs-3 }  
+> > *Auto: [Power] DMG*{: .mgl .fs-3 }  
+> > ***Nice!**{: .nice-color }: [2x Power] DMG*{: .mgl .fs-3 }  
+> > ***Athletics**{: .heart-color } or **Bully**{: .courage-color }:*{: .mgl .fs-3 }
+> > For each Grade of Success, launch the target into one additional target behind them, dealing [Power] DMG to each new target.
+
+{: .item-callout .item-left }
+> ![](assets/images/gear/ultraboots.png)
+>
+> {: .item-inner-callout }
+> > *Ultra Boots*{: .fs-6 .header-font }  
+> > *Gear*{: .label .gear .header-font } *Ultra*{: .label .ultra-gear .header-font } *Boots*{: .label .item .header-font }  
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 800 Coins
+> >
+> > Aerodynamic jumping shoes. Built for maximum mobility as well as comfort.  
+> > Grants +2d6 to appropriate checks (e.g. *Athletics*{: .heart-color }), and +2 Power when wielded, such as in Spin Jump and Spring Jump.  
+> > For *2 FP*{: .spirit-color }:  
+> > *Spin Jump*{: .mgl .fs-3 .header-font }  
+> > *The user jumps on the foe, then slams them with a forceful ground-pound.*{: .mgl .fs-3 }  
+> > ***Athletics**{: .heart-color} or **Coordination**{: .heart-color }:*{: .mgl .fs-3 }  
+> > *Auto: [Power] DMG*{: .mgl .fs-3 }  
+> > ***Nice!**{: .nice-color }: [Power] DMG, [2 + Power] DMG*{: .mgl .fs-3 }  
+> > For *4 FP*{: .spirit-color }:  
+> > *Spring Jump*{: .mgl .fs-3 .header-font }  
+> > *The user leaps high into the air, then slams back down onto the foe with a single decisive strike.*{: .mgl .fs-3 }  
+> > ***Athletics**{: .heart-color} or **Coordination**{: .heart-color }:*{: .mgl .fs-3 }  
+> > ***Nice!**{: .nice-color }: [3 + Power] DMG*{: .mgl .fs-3 }  
+> > ***Good!**{: .good-color }: [2x (3 + Power)] DMG*{: .mgl .fs-3 }  
+
+{: .item-callout .item-left }
+> ![](assets/images/gear/ultrahammer.png)
+>
+> {: .item-inner-callout }
+> > *Ultra Hammer*{: .fs-6 .header-font }  
+> > *Gear*{: .label .gear .header-font } *Ultra*{: .label .ultra-gear .header-font } *Weapon*{: .label .item .header-font }  
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 800 Coins
+> >
+> > A solid steel hammer. Extremely heavy and nigh-unbreakable.  
+> > Grants +2d6 to appropriate checks (e.g. *Coordination*{: .heart-color }) using this hammer, and +2 Power when wielded, such as in Spin Hammer and Ultra Whack.  
+> > For *2 FP*{: .spirit-color }:  
+> > *Spin Hammer*{: .mgl .fs-3 .header-font }  
+> > *The user spins in place with their hammer, smacking targets into foes behind them..*{: .mgl .fs-3 }  
+> > ***Coordination**{: .heart-color }:*{: .mgl .fs-3 }  
+> > *Auto: [Power] DMG*{: .mgl .fs-3 }  
+> > ***Nice!**{: .nice-color }: [2x Power] DMG*{: .mgl .fs-3 }  
+> > ***Athletics**{: .heart-color } or **Bully**{: .courage-color }:*{: .mgl .fs-3 }
+> > For each Grade of Success, launch the target into one additional target behind them, dealing [Power] DMG to each new target.  
+> > For *4 FP*{: .spirit-color }:  
+> > *Ultra Whack*{: .mgl .fs-3 .header-font }  
+> > *The user builds up as much power as they can, then brings the hammer down on an enemy.*{: .mgl .fs-3 }  
+> > ***Coordination**{: .heart-color }:*{: .mgl .fs-3 }  
+> > ***Nice!**{: .nice-color }: [Power + 3] DMG*{: .mgl .fs-3 }  
+> > ***Good!**{: .good-color }: [2x (Power + 3)] DMG*{: .mgl .fs-3 }
+
+{: .item-callout .item-left }
+> ![](assets/images/gear/legendarycookbook.png)
+>
+> {: .item-inner-callout }
+> > *Legendary Cookbook*{: .fs-6 .header-font }  
+> > *Gear*{: .label .gear .header-font } *Unique*{: .label .unique-gear .header-font } *Book*{: .label .item .header-font }  
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 500 Coins
+> >
+> > A master chef's cookbook. Their legendary instruction can help any chef master the art of combining ingredients.  
+> > It has no Techniques, but when the holder consults this book while cooking, they can make *Crafts*{: .spirit-color } checks with *+2 Spirit*{: .spirit-color }.  
+> > Checks made to combine two ingredients are especially effective, receiving +2d6.
+
+{: .item-callout .item-left }
+> ![](assets/images/gear/strangesack.png)
+>
+> {: .item-inner-callout }
+> > *Strange Sack*{: .fs-6 .header-font }  
+> > *Gear*{: .label .gear .header-font } *Unique*{: .label .unique-gear .header-font } *Container*{: .label .item .header-font }  
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 500 Coins
+> >
+> > An exceptionally roomy pack, equivalent in value and rarity to Ultra Gear.  
+> > It has no Techniques, but provides an additional 10 Inventory slots for the holder to use, without occupying an Inventory slot itself.  
+> > Items are still relatively easy to locate, even when the sack is full, as they seem to rise up to the top whenever they're needed.
+
+![](assets/images/scenes/23.png)
+{: .center-img }
+
+{: .tip-callout }
+> *Gear is rare and expensive, but well worth the effort to track down. A good piece of Gear can either supplement your existing skillset or make you more reliable in different fields, giving you more options to work with.* ![](assets/images/icons/tipguy.png)
+> {: .icon-right }
+
+{: .item-callout .item-left }
+> ![](assets/images/gear/ultrahammer.png)
+>
+> {: .item-inner-callout }
+> > *Max Hammer*{: .fs-6 .header-font }  
+> > *Gear*{: .label .gear .header-font } *Max*{: .label .max-gear .header-font } *Weapon*{: .label .item .header-font }  
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 8454545 Coins
+> >
+> > A solid steel hammer. Extremely heavy and nigh-unbreakable.  
+> > Grants +2d6 to appropriate checks (e.g. *Coordination*{: .heart-color }) using this hammer, and +2 Power when wielded, such as in Spin Hammer and Ultra Whack.  
+> > For *2 FP*{: .spirit-color }:  
+> > *Spin Hammer*{: .mgl .fs-3 .header-font }  
+> > *The user spins in place with their hammer, smacking targets into foes behind them..*{: .mgl .fs-3 }  
+> > ***Coordination**{: .heart-color }:*{: .mgl .fs-3 }  
+> > *Auto: [Power] DMG*{: .mgl .fs-3 }  
+> > ***Nice!**{: .nice-color }: [2x Power] DMG*{: .mgl .fs-3 }  
+> > ***Athletics**{: .heart-color } or **Bully**{: .courage-color }:*{: .mgl .fs-3 }
+> > For each Grade of Success, launch the target into one additional target behind them, dealing [Power] DMG to each new target.  
+> > For *4 FP*{: .spirit-color }:  
+> > *Ultra Whack*{: .mgl .fs-3 .header-font }  
+> > *The user builds up as much power as they can, then brings the hammer down on an enemy.*{: .mgl .fs-3 }  
+> > ***Coordination**{: .heart-color }:*{: .mgl .fs-3 }  
+> > ***Nice!**{: .nice-color }: [Power + 3] DMG*{: .mgl .fs-3 }  
+> > ***Good!**{: .good-color }: [2x (Power + 3)] DMG*{: .mgl .fs-3 }
