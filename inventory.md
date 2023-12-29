@@ -532,7 +532,7 @@ Each *Steady*{: .courage-color } check made requires a higher Grade of Success t
 > > *Launches a volley of fireballs at a single enemy.*{: .mgl .fs-3 }  
 > > ***Aim**{: .heart-color } or **Magic**{: .spirit-color }:*{: .mgl .fs-3 }  
 > > *Deals 1 Piercing Fire DMG to the target, repeating with another strike for each Grade of Success, hitting up to [2 x (Power + 1)] times.*{: .mgl .fs-3 }  
-> > *Excess damage spills over to new targets.*{: .mgl .fs-3 }
+> > *Excess damage spills over to new targets.*{: .mgl .fs-3 }  
 > > *Each target may be burnt.*{: .mgl .fs-3 }  
 > > ***Bully**{: .courage-color } or **Magic**{: .spirit-color }:*{: .mgl .fs-3 }  
 > > ***Nice!**{: .nice-color }: Lingering (1) for 3 turns*{: .mgl .fs-3 }  
@@ -597,4 +597,338 @@ Each *Steady*{: .courage-color } check made requires a higher Grade of Success t
 > > *+1 Resist (Water)*{: .mgl .fs-3 }  
 > > Removes:  
 > > *Immunities and Resistances to Shock*{: .mgl .fs-3 }
+
+{: .item-callout .item-left }
+> ![](assets/images/items/goldflower.png)
+>
+> {: .item-inner-callout }
+> > *Gold Flower*{: .fs-6 .header-font }  
+> > *Power-Up*{: .label .power-up .header-font }  
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
+> >
+> > Bestows the power to generate radiant orbs of golden light.  
+> > Even when wilted, the petals can be scattered to produce a burst of light, producing a similar effect to a Dizzy Dial – which also causes (roughly) 1d6 Coins to be scattered around.  
+> > For *5 FP*{: .spirit-color }:  
+> > *Adds +1 Attack, Burst and Element (Light) to an attack.*{: .mgl .fs-3 }  
+> > For *5 FP*{: .spirit-color }:  
+> > *Gold Burst*{: .mgl .fs-3 .header-font }  
+> > *Hurls an orb of golden light at the enemy, which explodes to strike a target in front of and behind them; the additional targets take 1 less damage (to a minimum of 1).*{: .mgl .fs-3 }  
+> > *Each target may blinded by the light.*{: .mgl .fs-3 }  
+> > ***Aim**{: .heart-color } or **Magic**{: .spirit-color }:*{: .mgl .fs-3 }  
+> > ***Good!**{: .good-color }: [2 x (Power + 1)] Piercing Light DMG*{: .mgl .fs-3 }  
+> > ***Bully**{: .courage-color } or **Magic**{: .spirit-color }:*{: .mgl .fs-3 }  
+> > ***Nice!**{: .nice-color }: Disorient (1) for 3 turns*{: .mgl .fs-3 }  
+> > ***Good!**{: .good-color }: Disorient (2) for 3 turns*{: .mgl .fs-3 }  
+> > ***Great!**{: .great-color }: Disorient (3) for 3 turns*{: .mgl .fs-3 }  
+> > Adds:  
+> > *Immune (Light)*{: .mgl .fs-3 }  
+> > Removes:  
+> > *Immunities and Resistances to Shadow*{: .mgl .fs-3 }  
+> > Coins scatter around the battlefield when successfully attacking with a Gold Flower, leaving (roughly) 1d6 Coins for each attack made.
+
+{: .item-callout .item-left }
+> ![](assets/images/items/cloudflower.png)
+>
+> {: .item-inner-callout }
+> > *Cloud Flower*{: .fs-6 .header-font }  
+> > *Power-Up*{: .label .power-up .header-font }  
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
+> >
+> > Surrounds the target with a fluffy coat of clouds, allowing them to sculpt similar clouds from thin air.  
+> > When wilted, the head of the flower can expand to function similarly to a Carry Cloud.  
+> > For *5 FP*{: .spirit-color }:  
+> > *Adds +1 Attack, Indirect and Element (Air) to an attack.*{: .mgl .fs-3 }  
+> > For *5 FP*{: .spirit-color }:  
+> > *Cloud Blast*{: .mgl .fs-3 .header-font }  
+> > *Conjures a thick wall of clouds and blasts it at the target indirectly, which then breeze past to strike enemies behind them. The size of the cloud allows it to hit enemies regardless of their elevation.*{: .mgl .fs-3 }  
+> > *Each new target causes the clouds to thin out, dealing 1 less damage (to a minimum of 1).*{: .mgl .fs-3 }  
+> > *Each target may be entangled in clouds, making it harder for them to fight back.*{: .mgl .fs-3 }  
+> > ***Crafts**{: .spirit-color } or **Magic**{: .spirit-color }:*{: .mgl .fs-3 }  
+> > ***Good!**{: .good-color }: [2 x (Power + 1)] Air DMG*{: .mgl .fs-3 }  
+> > ***Bully**{: .courage-color } or **Magic**{: .spirit-color }:*{: .mgl .fs-3 }  
+> > ***Nice!**{: .nice-color }: -1 Attack for 3 turns*{: .mgl .fs-3 }  
+> > ***Good!**{: .good-color }: -2 Attack for 3 turns*{: .mgl .fs-3 }  
+> > ***Great!**{: .great-color }: -3 Attack for 3 turns*{: .mgl .fs-3 }  
+> > Adds:  
+> > *+1 Resist (Air)*{: .mgl .fs-3 }  
+> > *Elevation*{: .mgl .fs-3 }  
+> > *Spend *2 FP*{: .spirit-color } for each use. Elevation can be provided for yourself or for another willing character, and lasts as long as your Power-Up state.*{: .mgl-big .fs-3 }  
+> > *When used on yourself, you can use **Athletics**{: .heart-color }, **Crafts**{: .spirit-color } or **Magic**{: .spirit-color }.*{: .mgl-big .fs-3 }  
+> > *When used on other characters, either they use **Athletics**{: .heart-color }, or you use **Crafts**{: .spirit-color } or **Magic**{: .spirit-color }.*{: .mgl-big .fs-3 }  
+> > Removes:  
+> > *Immunities and Resistances to Water*{: .mgl .fs-3 }
+
+{: .item-callout .item-left }
+> ![](assets/images/items/ampshroom.png)
+>
+> {: .item-inner-callout }
+> > *Amp Shroom*{: .fs-6 .header-font }  
+> > *Power-Up*{: .label .power-up .header-font }  
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
+> >
+> > Bestows the power to generate electricity.  
+> > When wilted, can be eaten to produce a similar effect to a Volt Shroom.  
+> > For *5 FP*{: .spirit-color }:  
+> > *Adds +1 Attack, Piercing and Element (Shock) to an attack.*{: .mgl .fs-3 }  
+> > For *5 FP*{: .spirit-color }:  
+> > *Lightning Bolt*{: .mgl .fs-3 .header-font }  
+> > *Launches a blast of electricity at the enemy, arcing from them to strike enemies behind them.*{: .mgl .fs-3 }  
+> > *Each new target causes the bolt to lose some charge, dealing 1 less damage (to a minimum of 1).*{: .mgl .fs-3 }  
+> > *Each target may be temporarily paralysed by the shock.*{: .mgl .fs-3 }  
+> > ***Aim**{: .heart-color } or **Magic**{: .spirit-color }:*{: .mgl .fs-3 }  
+> > ***Good!**{: .good-color }: [2 x (Power + 1)] Piercing Shock DMG*{: .mgl .fs-3 }  
+> > ***Bully**{: .courage-color } or **Magic**{: .spirit-color }:*{: .mgl .fs-3 }  
+> > ***Nice!**{: .nice-color }: Stun (1) for 3 turns*{: .mgl .fs-3 }  
+> > ***Good!**{: .good-color }: Stun (2) for 3 turns*{: .mgl .fs-3 }  
+> > ***Great!**{: .great-color }: Stun (3) for 3 turns*{: .mgl .fs-3 }  
+> > Adds:  
+> > *+1 Resist (Shock)*{: .mgl .fs-3 }  
+> > Removes:  
+> > *Immunities and Resistances to Earth*{: .mgl .fs-3 }
+
+{: .item-callout .item-left }
+> ![](assets/images/items/boomushroom.png)
+>
+> {: .item-inner-callout }
+> > *Boo Mushroom*{: .fs-6 .header-font }  
+> > *Power-Up*{: .label .power-up .header-font }  
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
+> >
+> > Turns the user ghostly and pale; they may even take on an uncanny resemblance to a Boo!  
+> > When wilted, can be eaten to produce a similar effect to a Boo's Sheet.  
+> > For *5 FP*{: .spirit-color }:  
+> > *Adds +1 Attack, Fear x2 and Element (Shadow) to an attack.*{: .mgl .fs-3 }  
+> > For *2 FP*{: .spirit-color }:  
+> > *Outta Sight*{: .mgl .fs-3 .header-font }  
+> > *Turns the user and a willing ally invisible and intangible*{: .mgl .fs-3 }  
+> > ***Magic**{: .spirit-color } or **Trickery**{: .spirit-color }:*{: .mgl .fs-3 }  
+> > ***Nice!**{: .nice-color }: Become Secure for 1 turn*{: .mgl .fs-3 }  
+> > Adds:  
+> > *Immune (Fear, Shadow)*{: .mgl .fs-3 }  
+> > *Weakness (Sudden Light)*{: .mgl .fs-3 }  
+> > *This weakness overrules any existing immunity or resistance.*{: .mgl-big .fs-3 }  
+> > *You are stunned by the light, Dazing (1) you for a turn for each point of damage taken (minimum 1 turn).*{: .mgl-big .fs-3 }  
+> > *Hover*{: .mgl .fs-3 }
+> > *Intangibilit*{: .mgl .fs-3 }
+> > *Invisibility*{: .mgl .fs-3 }
+
+{: .item-callout .item-left }
+> ![](assets/images/items/rottenmushroom.png)
+>
+> {: .item-inner-callout }
+> > *Rotten Mushroom*{: .fs-6 .header-font }  
+> > *Power-Up*{: .label .power-up .header-font }  
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
+> >
+> > Floods the user's body with poison; if they're not immune to poison or similar statuses, they have to make a *Steady*{: .courage-color } check to resist a Lingering (1) poison lasting 3 turns; if they can't prevent the poison outright, their current *HP*{: .heart-color } is halved, and the Power-Up fails.  
+> > When wilted, can be eaten (by the brave and the foolish) for an effect similar to a Poison Shroom.  
+> > For *5 FP*{: .spirit-color }:  
+> > *Adds +1 Attack, Lingering x2 and Element (Poison) to an attack.*{: .mgl .fs-3 }  
+> > For *5 FP*{: .spirit-color }:  
+> > *Touch of Death*{: .mgl .fs-3 .header-font }  
+> > *A simple touch carrying a potent poison.*{: .mgl .fs-3 }  
+> > ***Coordination**{: .heart-color }:*{: .mgl .fs-3 }  
+> > ***Good!**{: .good-color }: [2 x (Power + 1)] Piercing Poison DMG*{: .mgl .fs-3 }  
+> > ***Bully**{: .courage-color } or **Magic**{: .spirit-color }:*{: .mgl .fs-3 }  
+> > ***Nice!**{: .nice-color }: Lingering (1) for 3 turns*{: .mgl .fs-3 }  
+> > ***Good!**{: .good-color }: Lingering (2) for 3 turns*{: .mgl .fs-3 }  
+> > ***Great!**{: .great-color }: Lingering (3) for 3 turns*{: .mgl .fs-3 }  
+> > Adds:  
+> > *Immune (Poison)*{: .mgl .fs-3 }  
+> > Removes:  
+> > *Immunities and Resistances to Fire and Water*{: .mgl .fs-3 }
+
+{: .item-callout .item-left }
+> ![](assets/images/items/superleaf.png)
+>
+> {: .item-inner-callout }
+> > *Super Leaf*{: .fs-6 .header-font }  
+> > *Power-Up*{: .label .power-up .header-font }  
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
+> >
+> > Gives the target a magic raccoon-like tail and ears, and some of the qualities of a Tanooki creature.  
+> > When the magic fades, the leaf can be wielded for an effect similar to a Reflect Cape.  
+> > For *0 FP*{: .spirit-color }:  
+> > *Tail Smack*{: .mgl .fs-3 .header-font }  
+> > *A hefty spinning smack of the tail, hitting the target indirectly.*{: .mgl .fs-3 }  
+> > ***Coordination**{: .heart-color }:*{: .mgl .fs-3 }  
+> > *Auto: [Power] DMG*{: .mgl .fs-3 }  
+> > ***Nice!**{: .nice-color }: [2 x Power] DMG*{: .mgl .fs-3 }  
+> > For *2 FP*{: .spirit-color }:  
+> > *Adds Aerial and/or Indirect to an attack.*{: .mgl .fs-3 }  
+> > Adds:  
+> > *Fly*{: .mgl .fs-3 }  
+> > *Latent (Stone Cap)*{: .mgl .fs-3 }  
+> > *For **5 FP**{: .spirit-color }: Activate the effect of a Stone Cap, targeting yourself.*{: .mgl-big .fs-3 }  
+> > Grants the user +1d6 to checks where their tail and ears provides them a clear advantage, such as *Notice*{: .spirit-color } checks to listen, or *Steady*{: .courage-color } checks to balance.
+
+{: .item-callout .item-left }
+> ![](assets/images/items/capefeather.png)
+>
+> {: .item-inner-callout }
+> > *Cape Feather*{: .fs-6 .header-font }  
+> > *Power-Up*{: .label .power-up .header-font }  
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
+> >
+> > Gives the target a magic cape.  
+> > When the magic fades, the feather can be wielded for an effect similar to a Reflect Cape.  
+> > For *0 FP*{: .spirit-color }:  
+> > *Cape Spin*{: .mgl .fs-3 .header-font }  
+> > *A quick spinning smack with the cape, hitting the target indirectly.*{: .mgl .fs-3 }  
+> > ***Coordination**{: .heart-color }:*{: .mgl .fs-3 }  
+> > *Auto: [Power] DMG*{: .mgl .fs-3 }  
+> > ***Nice!**{: .nice-color }: [Power] DMG x2*{: .mgl .fs-3 }  
+> > For *2 FP*{: .spirit-color }:  
+> > *Adds Aerial and/or Indirect to an attack.*{: .mgl .fs-3 }  
+> > For *5 FP*{: .spirit-color }:  
+> > *Plunging Tremor*{: .mgl .fs-3 .header-font }  
+> > *The user slams into the earth from above, causing a mighty tremor – affecting all enemies outside the user's group in contact with the floor, wall or ceiling.*{: .mgl .fs-3 }  
+> > *The user must be airborne before attacking, and becomes grounded afterwards.*{: .mgl .fs-3 }  
+> > ***Athletics**{: .heart-color }:*{: .mgl .fs-3 }  
+> > ***Good!**{: .good-color }: : [2 x [Power + 1]] Piercing Earth Quake DMG*{: .mgl .fs-3 }  
+> > Adds:  
+> > *Fly*{: .mgl .fs-3 }  
+> > Grants the user +1d6 to checks where their cape provides a clear advantage, such as *Athletics*{: .heart-color } checks to fly with a running start, or *Guard*{: .heart-color } checks to deflect projectiles.
+
+{: .item-callout .item-left }
+> ![](assets/images/items/boomerangflower.png)
+>
+> {: .item-inner-callout }
+> > *Boomerang Flower*{: .fs-6 .header-font }  
+> > *Power-Up*{: .label .power-up .header-font }  
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
+> >
+> > Gives the target the ability to generate boomerangs from thin air.  
+> > When wilted, the head of the flower can be thrown similarly to a Dusty Boomerang.  
+> > For *0 FP*{: .spirit-color }:  
+> > *Boomer-Whack*{: .mgl .fs-3 .header-font }  
+> > *A quick smack with a held boomerang, hitting the target indirectly.*{: .mgl .fs-3 }  
+> > ***Coordination**{: .heart-color }:*{: .mgl .fs-3 }  
+> > *Auto: [Power] DMG*{: .mgl .fs-3 }  
+> > ***Nice!**{: .nice-color }: [2x Power] DMG*{: .mgl .fs-3 }  
+> > For *5 FP*{: .spirit-color }:  
+> > *Boomerang*{: .mgl .fs-3 .header-font }  
+> > *A hefty spinning boomerang smack from afar.*{: .mgl .fs-3 }  
+> > *Hits all targets in a straight line, twice.*{: .mgl .fs-3 }  
+> > ***Aim**{: .heart-color }:*{: .mgl .fs-3 }  
+> > ***Good!**{: .good-color }: : [Power + 1] DMG x2*{: .mgl .fs-3 }  
+> > Adds:  
+> > *Fly*{: .mgl .fs-3 }  
+> > Grants the user +1d6 to checks where their cape provides a clear advantage, such as *Athletics*{: .heart-color } checks to fly with a running start, or *Guard*{: .heart-color } checks to deflect projectiles.
+
+{: .item-callout .item-left }
+> ![](assets/images/items/superbell.png)
+>
+> {: .item-inner-callout }
+> > *Super Bell*{: .fs-6 .header-font }  
+> > *Power-Up*{: .label .power-up .header-font }  
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
+> >
+> > Gives the target a fluffy outer coat, making them look and behave more cat-like.  
+> > When the magic fades, the bell can be rung loudly, producing a similar effect to a Dizzy Dial, but based on sound.  
+> > For *2 FP*{: .spirit-color }:  
+> > *Adds Aerial, Piercing or Indirect to an unarmed melee attack.*{: .mgl .fs-3 }  
+> > For *0 FP*{: .spirit-color }:  
+> > *Cat Claws*{: .mgl .fs-3 .header-font }  
+> > *A rapid duo of claw swipes, striking indirectly with the suit's sharp claws at the foe's weak point.*{: .mgl .fs-3 }  
+> > ***Coordination**{: .heart-color }:*{: .mgl .fs-3 }  
+> > *Auto: [Power] Piercing DMG*{: .mgl .fs-3 }  
+> > ***Nice!**{: .nice-color }: [Power] Piercing DMG x2*{: .mgl .fs-3 }  
+> > Grants the user +1d6 to checks where their cat-like nature provides a clear advantage, such as *Athletics*{: .heart-color } when jumping and climbing, or *Steady*{: .courage-color } when balancing.
+
+{: .item-callout .item-left }
+> ![](assets/images/items/rockmushroom.png)
+>
+> {: .item-inner-callout }
+> > *Rock Mushroom*{: .fs-6 .header-font }  
+> > *Power-Up*{: .label .power-up .header-font }  
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
+> >
+> > Coats the target in a light-weight rocky shell and allows them to bend the earth to their will.  
+> > When wilted, the mushroom can be thrown to the ground for a similar effect to a POW Block.  
+> > For *5 FP*{: .spirit-color }:  
+> > *Adds +1 Attack, Indirect and Element (Earth) to an attack.*{: .mgl .fs-3 }  
+> > For *5 FP*{: .spirit-color }:  
+> > *Rolling Rock*{: .mgl .fs-3 .header-font }  
+> > *Forms a boulder around the user, then bowls through enemies – hitting indirectly. The user can bowl over the target to strike targets behind them. Each new target slows them down, dealing 1 less damage (to a minimum of 1).*{: .mgl .fs-3 }  
+> > *The sheer force of the blow can leave each target reeling.*{: .mgl .fs-3 }  
+> > ***Athletics**{: .heart-color }:*{: .mgl .fs-3 }  
+> > ***Good!**{: .good-color }: [2 x (Power + 1)] Earth DMG*{: .mgl .fs-3 }  
+> > ***Athletics**{: .heart-color } or **Bully**{: .courage-color }:*{: .mgl .fs-3 }  
+> > ***Nice!**{: .nice-color }: Disorient (1) for 3 turns*{: .mgl .fs-3 }  
+> > ***Good!**{: .good-color }: Disorient (2) for 3 turns*{: .mgl .fs-3 }  
+> > ***Great!**{: .great-color }: Disorient (3) for 3 turns*{: .mgl .fs-3 }  
+> > Adds:  
+> > *+1 Defense*{: .mgl .fs-3 }  
+> > *+1 Resist (Shock)*{: .mgl .fs-3 }  
+> > *Weakness (Blast, Quake)*{: .mgl .fs-3 }  
+> > *This weakness overrules any existing immunity or resistance.*{: .mgl-big .fs-3 }
+> > *Your stone form is chipped, nullifying this Power-Up's Defense and Resist boosts for a turn for each point of damage taken (minimum 1 turn), as well as Dazing (1) you for the same duration.*{: .mgl-big .fs-3 }
+> > Removes:  
+> > *Hover*{: .mgl .fs-3 }  
+> > *Fly*{: .mgl .fs-3 }
+
+{: .item-callout .item-left }
+> ![](assets/images/items/minimushroom.png)
+>
+> {: .item-inner-callout }
+> > *Mini Mushroom*{: .fs-6 .header-font }  
+> > *Power-Up*{: .label .power-up .header-font }  
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 30 Coins
+> >
+> > Causes the user to shrink to miniscule proportions.  
+> > When wilted, can be thrown at enemies to produce a similar effect to a Mini Mr. Mini.  
+> > For *5 FP*{: .spirit-color }:  
+> > *The user becomes Hustled (1) for 1 turn.*{: .mgl .fs-3 }  
+> > For *2 FP*{: .spirit-color }:  
+> > *Under-Foot*{: .mgl .fs-3 .header-font }  
+> > *The user ducks away from combat with superior quickness, hiding behind something bigger.*{: .mgl .fs-3 }  
+> > ***Trickery**{: .spirit-color }:*{: .mgl .fs-3 }  
+> > ***Nice!**{: .nice-color }: Become Secure of 1 turn*{: .mgl .fs-3 }  
+> > Adds:  
+> > *-2 Power*{: .mgl .fs-3 }  
+> > *Homing and Selective to **all**{: .underlined } Techniques*{: .mgl .fs-3 }  
+> > *Weakness (Air, Crushing)*{: .mgl .fs-3 }  
+> > *Crushing attacks can't bypass your Secure status from Under-Foot.*{: .mgl-big .fs-3 }  
+> > *The Level and Duration of all Statuses you suffer from these attacks are doubled.*{: .mgl-big .fs-3 }  
+> > Grants the user +2d6 to checks where their small size provides them a clear advantage, such as landing a hit with *Coordination*{: .heart-color }, or dodging attacks with *Trickery*{: .spirit-color }.  
+> > However, checks where the user's size is a hindrance, such as *Guard*{: .heart-color }, require a higher Grade of Success than usual.
+
+{: .item-callout .item-left }
+> ![](assets/images/items/megamushroom.png)
+>
+> {: .item-inner-callout }
+> > *Mega Mushroom*{: .fs-6 .header-font }  
+> > *Power-Up*{: .label .power-up .header-font }  
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 200 Coins
+> >
+> > Causes the user to grow to a tremendous size.  
+> > When wilted, can be consumed for an effect similar to a Power Punch.  
+> > For *5 FP*{: .spirit-color }:  
+> > *Megaton Charge*{: .mgl .fs-3 .header-font }  
+> > *The user barrels forwards with their full weight, striking all enemies in the target group.*{: .mgl .fs-3 }  
+> > ***Athletics**{: .heart-color }:*{: .mgl .fs-3 }  
+> > ***Good!**{: .good-color }: [Power] DMG*{: .mgl .fs-3 }  
+> > ***Great!**{: .great-color }: [2x Power] DMG*{: .mgl .fs-3 }  
+> > For *5 FP*{: .spirit-color }:  
+> > *Megaton Stomp*{: .mgl .fs-3 .header-font }  
+> > *The user slams the ground with their full weight, causing a powerful shockwave – affecting all enemies outside the user's group in contact with the floor, wall or ceiling.*{: .mgl .fs-3 }  
+> > ***Athletics**{: .heart-color }:*{: .mgl .fs-3 }  
+> > ***Great!**{: .great-color }: [2x Power] Piercing Earth Quake DMG*{: .mgl .fs-3 }  
+> > Adds:  
+> > *+3 Power*{: .mgl .fs-3 }  
+> > Grants the user +2d6 to checks where their large size provides them a clear advantage, such as blocking attacks with *Guard*{: .heart-color }, or standing their ground with *Steady*{: .courage-color }.  
+> > Checks where the user's size is a hindrance, such as *Coordination*{: .heart-color }, require two more Grades of Success than usual; in the case of this Power-Up's Megaton Charge and Megaton Stomp, this is already factored in.
+
+![](assets/images/scenes/22.png)
+{: .center-img }
+
+{: .tip-callout }
+> *Power-Ups don't need to be preserved – if you don't want to use one right away, letting it wilt so you can use it as an Item can be a solid strategy. After all, the original games didn't have any Power-Ups!* ![](assets/images/icons/tipguy.png)
+> {: .icon-right }
+
+## Gear
+
+Gear are specialised pieces of equipment that provide the user with new Techniques and other significant advantages, both in the field and in combat.  
+If players request personalised Gear, [*Craft*{: .spirit-color }](TODO:LINK) it themselves or (in the case of Basic Gear) begin play with a Tool Technique, they can even design their own!
 
