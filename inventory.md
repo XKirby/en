@@ -1162,8 +1162,6 @@ The following pieces of Gear are just a few examples of what can be found in the
 > > It has no Techniques, but provides an additional 10 Inventory slots for the holder to use, without occupying an Inventory slot itself.  
 > > Items are still relatively easy to locate, even when the sack is full, as they seem to rise up to the top whenever they're needed.
 
-![](assets/images/scenes/23.png)
-{: .center-img }
 
 {: .tip-callout }
 > *Gear is rare and expensive, but well worth the effort to track down. A good piece of Gear can either supplement your existing skillset or make you more reliable in different fields, giving you more options to work with.* ![](assets/images/icons/tipguy.png)

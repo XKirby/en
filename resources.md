@@ -6,17 +6,17 @@
 > A description of the Species and how they fit into the world. These descriptions are simple and general, and do not define individual members of their Species.
 >
 > *Stat Modifiers*{: .text-gamma .header-font }  
-> *Base Power & Defense*{: .text-gamma .header-font }  
+> *1 Power, 0 Defense*{: .text-gamma .header-font }  
 >
 > {: .specie-pros-callout }
 > > *Pros*{: .text-gamma .header-font }  
 > > The Skill Specialisations and other Traits that make denizens of that Species more capable.  
-*Some Traits, like Immune, will be described in more detail like this.*{: .mgl .fs-3 }
+> > *Some Traits, like Immune, will be described in more detail like this.*{: .mgl .fs-3 }
 >
 > {: .specie-cons-callout }
 > > *Cons*{: .text-gamma .header-font }  
 > > The Traits that a character of that Species have to deal with that are generally less desirable.  
-*Some Traits, like Weakness, will be described in more detail like this.*{: .mgl .fs-3 }
+> > *Some Traits, like Weakness, will be described in more detail like this.*{: .mgl .fs-3 }
 >
 > {: .specie-inner-callout }
 > > *Other Traits*{: .text-gamma .header-font }  
@@ -27,8 +27,9 @@
 > > *Tech Defaults*{: .text-gamma .header-font }  
 > >
 > > Example Tech 1  
-> > *Example Tech 2, 2nd part of Tech 2*{: .alt-grey-line }  
-> > Example Tech 3
+> > *Example Tech 2*{: .alt-grey-line }  
+> > Example Tech 3  
+> > *Example Tech 2*{: .alt-grey-line }  
 > >
 > > Any *Required*{: .underlined } or *Optional*{: .underlined } effects are listed underneath, and can (or must) be taken in addition to Tech Defaults.
 >
