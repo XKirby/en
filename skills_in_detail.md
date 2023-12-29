@@ -35,13 +35,14 @@ Sometimes though it's useful to have hard-and-fast rules for more complicated ef
 > - 1: Increase the duration of one of this Item's Statuses by 1 turn.
 > - 2: Add an appropriate Status onto this Item's effect, starting at Status Level 1 and lasting for 3 turns.
 > - 2: The Item isn't consumed during this action; it either remains useable or is in some fashion recoverable, but you may have to wait for a spare moment to retrieve it.
-
-![](assets/images/scenes/06.png)
-{: .center-img }
-
-{: .tip-callout }
-> *Aiming your Items may be risky without proper training, but sometimes that little bit of extra damage is worth the risk. Besides, it's satisfying to really nail a bad guy with whatever you can throw at them.* ![](assets/images/icons/tipguy.png)
-> {: .icon-right }
+> 
+> ![](assets/images/scenes/06.png)
+> {: .center-img }
+> 
+> {: .tip-callout }
+> > *Aiming your Items may be risky without proper training, but sometimes that little bit of extra damage is worth the risk. Besides, it's satisfying to really nail a bad guy with whatever you can throw at them.* ![](assets/images/icons/tipguy.png)
+> > {: .icon-right }
+>
 
 {: .content-callout }
 > ## *Athletics - Fleeing*{: .heart-color }
@@ -103,6 +104,7 @@ Sometimes though it's useful to have hard-and-fast rules for more complicated ef
 > > {: .icon-right }
 > 
 
+{: .content-callout }
 > ## *Heal - Recovery*{: .heart-color }
 > 
 > Recovering in Paper Story is generally very simple; most of the time, getting some rest is enough to fully restore *HP*{: .heart-color } and *FP*{: .spirit-color } and recover from [Status]({{ "/statuses" | absolute_url }}) effects.  
