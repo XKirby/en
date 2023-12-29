@@ -652,7 +652,7 @@ Each *Steady*{: .courage-color } check made requires a higher Grade of Success t
 > > Adds:  
 > > *+1 Resist (Air)*{: .mgl .fs-3 }  
 > > *Elevation*{: .mgl .fs-3 }  
-> > *Spend *2 FP*{: .spirit-color } for each use. Elevation can be provided for yourself or for another willing character, and lasts as long as your Power-Up state.*{: .mgl-big .fs-3 }  
+> > *Spend **2 FP**{: .spirit-color } for each use. Elevation can be provided for yourself or for another willing character, and lasts as long as your Power-Up state.*{: .mgl-big .fs-3 }  
 > > *When used on yourself, you can use **Athletics**{: .heart-color }, **Crafts**{: .spirit-color } or **Magic**{: .spirit-color }.*{: .mgl-big .fs-3 }  
 > > *When used on other characters, either they use **Athletics**{: .heart-color }, or you use **Crafts**{: .spirit-color } or **Magic**{: .spirit-color }.*{: .mgl-big .fs-3 }  
 > > Removes:  
