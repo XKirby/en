@@ -121,6 +121,9 @@ callouts:
   item-inner-callout:
     color: grey-lt
     opacity: 1
+  content-callout:
+    color: grey-lt
+    opacity: 0.5
 
 exclude:
   - tag/TAG.md
