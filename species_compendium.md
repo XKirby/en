@@ -2273,9 +2273,648 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 >
 
 {: .specie-callout }
-> ## Lantern Ghost (WIP)
+> ## Lantern Ghost
 >
 > ![](assets/images/species/lantern_ghost.png)
+> {: .float-right-desktop }
+> Despite the name, these relatives of Shy Guys are very much alive – they're just creepy. They thrive in dark and secluded places, but are seldom seen without a light to guide them and their allies. They have to take great care not to turn that light on themselves.
+>
+> ***+1 Spirit**{: .spirit-color }, **+1 Courage**{: .courage-color }*{: .text-gamma .header-font }  
+> *1 Power, 0 Defense*{: .text-gamma .header-font }  
+>
+> {: .specie-pros-callout }
+> > *Pros*{: .text-gamma .header-font }  
+> > *+ Notice (Dark Places)*{: .spirit-color }  
+> > *+ Trickery (Shadows)*{: .spirit-color }  
+> > *+ Bully (Surprises)*{: .courage-color }  
+> > Immune (Fear, Shadow)
+>
+> {: .specie-cons-callout }
+> > *Cons*{: .text-gamma .header-font }  
+> > Weakness (Sudden Light)  
+> > *The light blinds you, leaving you Dazed (1) for a number of turns equal to the damage taken (minimum 1).*{: .mgl .fs-3 }
+>
+> {: .specie-inner-callout }
+> > *Tech Defaults*{: .text-gamma .header-font }  
+> >
+> > Element (Light)  
+> > *Fear x2*{: .alt-grey-line }  
+> > Disorient  
+> > *Snatch*{: .alt-grey-line }  
+> >
+> > *Optional*{: .underlined }: Element (Light) on indirectt or Ranged attacks
+>
+> {: .specie-inverted-callout }
+> > *Example Techniques*{: .text-gamma .header-font .text-grey-lt-000 }  
+> >
+> > {: .specie-inner-callout }  
+> > > *Flash of Light*{: .header-font } (**0 FP**{: .spirit-color })  
+> > > Waves a searingly bright lantern in the enemy's face.  
+> > > *Coordination*{: .heart-color }:  
+> > > *Good!*{: .good-color }: 2 DMG  
+> > > *Bully*:  
+> > > *Nice!*{: .nice-color }: Disorient (1) for 2 turns  
+> > > *Good!*{: .good-color }: Disorient (2) for 2 turns  
+> > > *Disorient x2, Element (Light), Indirect, Commitment (Primary), Unwieldy*{: .italic }
+> > >
+> >
+> > {: .specie-inner-callout }  
+> > > *Shadow-Play Spook*{: .header-font } (**4 FP**{: .spirit-color })  
+> > > Uses the light from their lantern to conjure up vivid shadows, terrifying a group of enemies – causing them to either flee or cower in fear.  
+> > > *Trickery (+ Shadows)*{: .spirit-color }:  
+> > > *Nice!*{: .nice-color }: Stun (3) for 2 turns  
+> > > *Good!*{: .good-color }: Stun (4) for 2 turns  
+> > > *Fear x4, Empower x2, Group, Harmless (Indirect), Shorten x3*{: .italic }
+> > >
+> >
+>
+
+{: .specie-callout }
+> ## Magikoopa
+>
+> ![](assets/images/species/magikoopa.png)
+> {: .float-right-desktop }
+> While a Koopa's magic requires study, it's not what you'd call spiritual. It tends to be pragmatic, straightforward, and a little bit weird.  
+> Still, no one can deny they have a knack for it. When a Koopa devotes themselves to magical study they can make for powerful wizards. As long as they can keep a hold of their wands, anyway.
+>
+> ***+1 Heart**{: .heart-color }, **+1 Spirit**{: .spirit-color }*{: .text-gamma .header-font }  
+> *1 Power, 0 Defense*{: .text-gamma .header-font }  
+>
+> {: .specie-pros-callout }
+> > *Pros*{: .text-gamma .header-font }  
+> > *+ Aim (Magic)*{: .heart-color }  
+> > *+ Knowhow (Lore)*{: .spirit-color }  
+> > *+ Magic (Boosts)*{: .spirit-color }  
+> > *or **+ Magic (Shape-Change)**{: .spirit-color }*{: .mgl }  
+> > Efficient (Flight, Power-Ups, Shape-Change)
+>
+> {: .specie-cons-callout }
+> > *Cons*{: .text-gamma .header-font }  
+> > Weakness (Confuse)  
+> > *The Level and Duration of any Confusion inflicted on you is doubled.*{: .mgl .fs-3 }
+>
+> {: .specie-inner-callout }
+> > *Tech Defaults*{: .text-gamma .header-font }  
+> >
+> > Boost (Any)  
+> > *Empower*{: .alt-grey-line }  
+> > Tool (Ranged)  
+> > *Weaken (Any)*{: .alt-grey-line }  
+> >
+>
+> {: .specie-inverted-callout }
+> > *Example Techniques*{: .text-gamma .header-font .text-grey-lt-000 }  
+> >
+> > {: .specie-inner-callout }  
+> > > *Magic Blast*{: .header-font } (**0 FP**{: .spirit-color })  
+> > > Fires a flashy magic missile at range.  
+> > > *Aim (+ Magic)*{: .heart-color }:  
+> > > Auto: 1 DMG  
+> > > *Nice!*{: .nice-color }: 2 DMG  
+> > > *Tool (Ranged)*{: .italic }
+> > >
+> >
+> > {: .specie-inner-callout }  
+> > > *Cursed Form*{: .header-font } (**6 FP**{: .spirit-color })  
+> > > Transforms an enemy into a weaker form for 3 turns.  
+> > > *Magic (+ Shape-Change)*{: .spirit-color }:  
+> > > *Good!*{: .good-color }: -1 Attack, -1 Defense, for 3 turns  
+> > > *Great!*{: .great-color }: -2 Attack, -2 Defense, for 3 turns  
+> > > *Wonderful!*{: .wonderful-color }: -3 Attack, -3 Defense, for 3 turns  
+> > > *Weaken (Attack) x3, Tool (Ranged), Weaken (Defense) x3, Harmless, Unwieldy*{: .italic }
+> > >
+> >
+>
+
+{: .specie-callout }
+> ## Monty Mole
+>
+> ![](assets/images/species/monty_mole.png)
+> {: .float-right-desktop }
+> Otherwise known simply as "moles", these stout creatures keep to themselves. When they do venture out of their burrows, it's usually not for very long, and – typically – for selfish, petty reasons.
+>
+> ***+2 Heart**{: .heart-color }*{: .text-gamma .header-font }  
+> *1 Power, 0 Defense*{: .text-gamma .header-font }  
+>
+> {: .specie-pros-callout }
+> > *Pros*{: .text-gamma .header-font }  
+> > *+ Athletics (Burrow)*{: .heart-color }  
+> > *+ Aim (Throw)*{: .heart-color }  
+> > *+ Trickery (Stealth)*{: .spirit-color }  
+> > Elevation  
+> > *Requires elevated earth to burrow into.*{: .mgl .fs-3 }
+>
+> {: .specie-cons-callout }
+> > *Cons*{: .text-gamma .header-font }  
+> > Weakness (Quake)  
+> > *Has no effect unless you're currently underground.*{: .mgl .fs-3 }  
+> > *If you're currently underground, you're forced to the surface, dealing +2 damage and completely Stunning (6) you for the next turn.*{: .mgl .fs-3 }
+>
+> {: .specie-inner-callout }
+> > *Tech Defaults*{: .text-gamma .header-font }  
+> >
+> > Aerial  
+> > *Secure (Burrowed)*{: .alt-grey-line }  
+> > Selective  
+> > *Tool (Ranged)*{: .alt-grey-line }  
+> >
+>
+> {: .specie-inverted-callout }
+> > *Example Techniques*{: .text-gamma .header-font .text-grey-lt-000 }  
+> >
+> > {: .specie-inner-callout }  
+> > > *Debris Toss*{: .header-font } (**0 FP**{: .spirit-color })  
+> > > Hurls whatever you can find at the foe; if you're lucky, it'll be sharp.  
+> > > *Aim (+ Throw)*{: .heart-color }:  
+> > > Roll 1d6; on a 6, deals more damage.  
+> > > *Nice!*{: .nice-color }: 2 DMG / 6 DMG  
+> > > *Tool (Ranged), Lucky Hit (Strong x2), Commitment*{: .italic }
+> > >
+> >
+> > {: .specie-inner-callout }  
+> > > *Burrowing Piledriver*{: .header-font } (**3 FP**{: .spirit-color })  
+> > > Body slams the enemy, then burrows safely underground.  
+> > > *Athletics*{: .heart-color }:  
+> > > *Nice!*{: .nice-color }: 3 DMG  
+> > > *Good!*{: .good-color }: 6 DMG  
+> > > *Athletics (+ Burrow)*{: .heart-color }:  
+> > > *Good!*{: .good-color }: Secure (1, Burrowed) for 1 turn  
+> > > *Secure, Aerial, Strong x2, Split, Unwieldy x2*{: .italic }
+> > >
+> >
+>
+
+{: .specie-callout }
+> ## Nimbus
+>
+> ![](assets/images/species/nimbus.png)
+> {: .float-right-desktop }
+> Concept by *@bigmeatyflaws*{: .courage-color }  
+> Nimbus folk are highly social people weather spirits who live among the clouds. Naturally their fluffy marshmallow-like bodies give them a knack for all things airborne and weather-related, though they also take on some volatility – the weather is hard to predict, after all.
+>
+> ***+1 Spirit**{: .spirit-color }, **+1 Courage**{: .courage-color }*{: .text-gamma .header-font }  
+> *1 Power, 0 Defense*{: .text-gamma .header-font }  
+>
+> {: .specie-pros-callout }
+> > *Pros*{: .text-gamma .header-font }  
+> > *+ Knowhow (Weather)*{: .spirit-color }  
+> > *or **Magic (Weather)**{: .spirit-color }*{: .mgl }  
+> > *+ Cheer (Encourage)*{: .courage-color }  
+> > *+ Perform (Appeal)*{: .courage-color }  
+> > Immune (Water)  
+> > *You heal **5 HP**{: .heart-color } instead.*{: .mgl .fs-3 }  
+> > 1 Resist (Shock)  
+> > *You receive the following as a Contact trait, lasting for 1 turn per point of Raw Damage:*{: .mgl .fs-3 }  
+> > *The attacker takes 1 Piercing Shock DMG, and you make a **Steady**{: .courage-color } check; the attacker is Dazed (1) for 1 turn for each Grade of Success.*{: .mgl-big .fs-3 }  
+> > Efficient (Elements, Flight, Weather)
+>
+> {: .specie-cons-callout }
+> > *Cons*{: .text-gamma .header-font }  
+> > Weakness (Air)  
+> > *You must make a **Steady**{: .courage-color } check versus Disorientation, lasting a number of turns equal to the damage taken (minimum 1 turn).*{: .mgl .fs-3 }  
+> > Weakness (Fire, Ice)  
+> > *You become Dazed (1), lasting a number of turns equal to the damage taken (minimum 1 turn).*{: .mgl .fs-3 }  
+>
+> {: .specie-inner-callout }
+> > *Tech Defaults*{: .text-gamma .header-font }  
+> >
+> > Hearty x2  
+> > *Ranged*{: .alt-grey-line }  
+> > Stun  
+> > *Terrain (Weather)*{: .alt-grey-line }  
+> >
+> > *Optional*{: .underlined }: Element (Air/Ice/Shock/Water) on Indirect or Ranged Techniques
+>
+> {: .specie-inverted-callout }
+> > *Example Techniques*{: .text-gamma .header-font .text-grey-lt-000 }  
+> >
+> > {: .specie-inner-callout }  
+> > > *Thunderbolt*{: .header-font } (**0 FP**{: .spirit-color })  
+> > > A barely controlled discharge of electricity.  
+> > > *Aim*{: .heart-color }:  
+> > > *Good!*{: .good-color }: 4 DMG  
+> > > *Magic (+ Weather)*{: .spirit-color }:  
+> > > *Nice!*{: .nice-color }: Stun (1) for 1 turn  
+> > > *Good!*{: .good-color }: Stun (2) for 1 turn  
+> > > *Element (Shock), Ranged, Commitment (Primary), Stun, Strong, Unwieldy*{: .italic }
+> > >
+> >
+> > {: .specie-inner-callout }  
+> > > *Recover Shower*{: .header-font } (**3 FP**{: .spirit-color })  
+> > > Conjures a light drizzle over an ally to heal them.  
+> > > *Magic (+ Weather)*{: .spirit-color }:  
+> > > *Nice!*{: .nice-color }: *+4 HP*{: .heart-color }  
+> > > *Good!*{: .good-color }: *+5 HP*{: .heart-color }  
+> > > *Great!*{: .great-color }: *+6 HP*{: .heart-color }  
+> > > *Element (Water), Hearty x3, Empower x3, Harmless (Indirect), Others*{: .italic }
+> > >
+> >
+>
+
+{: .specie-callout }
+> ## Ninji
+>
+> ![](assets/images/species/ninji.png)
+> {: .float-right-desktop }
+> Concept by *@tact.elive*{: .courage-color }  
+> Naturally sneaky and fleet-footed, the mysterious Ninji clan have often found their skills in high demand. They excel both as spies and as bodyguards, though sharp as they are, they aren't limited to grunt-work.
+>
+> ***+1 Heart**{: .heart-color }, **+1 Spirit**{: .spirit-color }*{: .text-gamma .header-font }  
+> *1 Power, 0 Defense*{: .text-gamma .header-font }  
+>
+> {: .specie-pros-callout }
+> > *Pros*{: .text-gamma .header-font }  
+> > *+ Athletics (Jump)*{: .heart-color }  
+> > *+ Trickery (Dodge)*{: .spirit-color }  
+> > *+ Trickery (Stealth)*{: .spirit-color }  
+> > 1 Resist (Shadow)  
+> > Clone (Illusions)  
+> > Invisibility
+>
+> {: .specie-cons-callout }
+> > *Cons*{: .text-gamma .header-font }  
+> > Weakness (Sudden Light)  
+> > *This Weakness only applies to your clones or while Invisible.*{: .mgl .fs-3 }  
+> > *You are stunned by the light, Dazing (1) you for a turn for each point of damage taken (minimum 1 turn).*{: .mgl .fs-3 }
+>
+> {: .specie-inner-callout }
+> > *Tech Defaults*{: .text-gamma .header-font }  
+> >
+> > Aerial  
+> > *Ranged*{: .alt-grey-line }  
+> > Secure (Invisible)  
+> > *Variant (**Trickery**{: .spirit-color })*{: .alt-grey-line }  
+> >
+>
+> {: .specie-inverted-callout }
+> > *Example Techniques*{: .text-gamma .header-font .text-grey-lt-000 }  
+> >
+> > {: .specie-inner-callout }  
+> > > *Jump Kick*{: .header-font } (**0 FP**{: .spirit-color })  
+> > > Leaps at the foe from above with one quick strike.  
+> > > *Atheltics (+ Jump)*{: .heart-color }:  
+> > > Auto: 1 DMG  
+> > > *Nice!*{: .nice-color }: 2 DMG  
+> > > *Aerial*{: .italic }
+> > >
+> >
+> > {: .specie-inner-callout }  
+> > > *Shuriken Barrage*{: .header-font } (**4 FP**{: .spirit-color })  
+> > > Tosses a flurry of shuriken at the foe, hitting multiple times.  
+> > > *Aim*{: .heart-color }:  
+> > > *Nice!*{: .nice-color }: 2 DMG  
+> > > *Good!*{: .good-color }: 2 DMG x2  
+> > > *Great!*{: .great-color }: 2 DMG x3  
+> > > *Wonderful!*{: .wonderful-color }: 2 DMG x4  
+> > > *Ranged, Strong x3, Unwieldy*{: .italic }
+> > >
+> >
+>
+
+{: .specie-callout }
+> ## Noki
+>
+> ![](assets/images/species/noki.png)
+> {: .float-right-desktop }
+> Art by [Wolfsam](https://www.deviantart.com/wolfsam)  
+> Nokis are a laidback aquatic people. They're not quite as proactive and prone to action as their land-dwelling brethren; instead, Nokis tend to solve their problems by relying on their tough shells and social graces.
+>
+> ***+1 Heart**{: .heart-color }, **+1 Courage**{: .courage-color }*{: .text-gamma .header-font }  
+> *1 Power, 1 Defense*{: .text-gamma .header-font }  
+>
+> {: .specie-pros-callout }
+> > *Pros*{: .text-gamma .header-font }  
+> > *+ Athletics (Swim)*{: .heart-color }  
+> > *+ Guard (Melee)*{: .heart-color }  
+> > *+ Persuade (Diplomacy)*{: .courage-color }  
+> > 1 Resist (Fire, Water)  
+> > Aquatic
+>
+> {: .specie-cons-callout }
+> > *Cons*{: .text-gamma .header-font }  
+> > Weakness (Aerial, Blast, Quake)  
+> > *You are flipped over; you retain your Defense against Aerial and Blast attacks initially, but otherwise your Defense is negated for the duration.*{: .mgl .fs-3 }  
+> > *This leaves you completely Stunned (6) for the next 2 turns.*{: .mgl .fs-3 }  
+> > Weakness (Shock)  
+> > *You take +2 damage and become Dazed (1), lasting a number of turns equal to the damage taken.*{: .mgl .fs-3 }  
+>
+> {: .specie-inner-callout }
+> > *Tech Defaults*{: .text-gamma .header-font }  
+> >
+> > Charm  
+> > *Dismiss*{: .alt-grey-line }  
+> > Element (Water)  
+> > *Indirect*{: .alt-grey-line }  
+> >
+> > *Optional*{: .underlined }: Element (Water) on Indirect or Ranged Techniques or Variant (*Athletics*{: .heart-color } - Primary Only) on Indirect attacks  
+>
+> {: .specie-inverted-callout }
+> > *Example Techniques*{: .text-gamma .header-font .text-grey-lt-000 }  
+> >
+> > {: .specie-inner-callout }  
+> > > *Shell Spin*{: .header-font } (**0 FP**{: .spirit-color })  
+> > > Withdraws into their shell, then spins at the enemy. Defense is boosted afterwards.  
+> > > *Athletics*{: .heart-color }:  
+> > > *Nice!*{: .nice-color }: 1 DMG  
+> > > *Good!*{: .good-color }: 2 DMG  
+> > > *Guard*{: .heart-color }:  
+> > > *Good!*{: .good-color }: +1 Defense for 1 turn  
+> > > *Indirect, Variant (**Athletics**{: .heart-color }), Boost (Defense), Split, Unwieldy x2*{: .italic }
+> > >
+> >
+> > {: .specie-inner-callout }  
+> > > *Plea For Help*{: .header-font } (**3 FP**{: .spirit-color })  
+> > > Talks an enemy into helping out.  
+> > > *Persuade (+ Diplomacy)*{: .courage-color }:  
+> > > *Nice!*{: .nice-color }: Charm (1) for 3 turns  
+> > > *Good!*{: .good-color }: Charm (2) for 3 turns  
+> > > *Great!*{: .great-color }: Charm (3) for 3 turns  
+> > > *Charm x3, Ranged, Harmless*{: .italic }
+> > >
+> >
+>
+
+{: .specie-callout }
+> ## Outsider
+>
+> ![](assets/images/species/outsider.png)
+> {: .float-right-desktop }
+> Concept by *@bigmeatyflaws*{: .courage-color }  
+> All manner of Outsiders exist on the fringe of reality, appearing with all sorts of physical differences.  
+> Occasionally, they cross over and explore the Mushroom Kingdom. Outsider adventurers tend to have a knack for getting around in different dimensions.
+>
+> ***+1 Spirit**{: .spirit-color }, **+1 Courage**{: .courage-color }*{: .text-gamma .header-font }  
+> *1 Power, 0 Defense*{: .text-gamma .header-font }  
+>
+> {: .specie-pros-callout }
+> > *Pros*{: .text-gamma .header-font }  
+> > *+ Knowhow (Dimensions)*{: .spirit-color }  
+> > *+ Magic (Dimensions)*{: .spirit-color }  
+> > *or **+ Trickery (Dimensions)**{: .spirit-color }*{: .mgl }  
+> > *+ Persuade (Common Ground)*{: .courage-color }  
+> > Intangibility  
+> > Invisibility  
+> > 1 of the following:  
+> > *1 Resist (Element)*{: .mgl }  
+> > *Choose the resisted element during character creation.*{: .mgl-big .fs-3 }  
+> > *Aquatic*{: .mgl }  
+> > *Clone (Illusions)*{: .mgl }  
+> > *Efficient (Dimensions)*{: .mgl }  
+> > *Hover*{: .mgl }  
+> > *Latent (Mini Mushroom)*{: .mgl }  
+> > *For **5 FP**{: .spirit-color }: Activate a Mini Mushroom as a Power-Up, targeting yourself.*{: .mgl-big .fs-3 }  
+> > *Mimicry*{: .mgl }  
+>
+> {: .specie-cons-callout }
+> > *Cons*{: .text-gamma .header-font }  
+> > At least 2 of the following:  
+> > *Weakness (Confuse)*{: .mgl }  
+> > *The Level and Duration of any Confusion inflicted on you is doubled.*{: .mgl-big .fs-3 }  
+> > *Weakness (Disorient)*{: .mgl }  
+> > *The Level and Duration of any Disorientation inflicted on you is doubled.*{: .mgl-big .fs-3 }  
+> > *Weakness (Provoke)*{: .mgl }  
+> > *The Level and Duration of any Provocation inflicted on you is doubled.*{: .mgl-big .fs-3 }  
+> > *Handless*{: .mgl }  
+> > *Sinker*{: .mgl }  
+>
+> {: .specie-inner-callout }
+> > *Tech Defaults*{: .text-gamma .header-font }  
+> >
+> > Aerial  
+> > *Swap x2*{: .alt-grey-line }  
+> >
+> > *Up to 2 of the following:*{: .underlined }  
+> > Boost (*Dodge*{: .spirit-color })  
+> > *Confuse x2*{: .alt-grey-line }  
+> > Disorient  
+> > *Divider*{: .alt-grey-line }  
+> > Hearty x2  
+> > *Tool*{: .alt-grey-line }  
+> > Terrain (Any)  
+> > *Choose during character creation*{: .mgl .fs-3 }  
+> >
+>
+> {: .specie-inverted-callout }
+> > *Example Techniques*{: .text-gamma .header-font .text-grey-lt-000 }  
+> >
+> > {: .specie-inner-callout }  
+> > > *Backdoor Boot*{: .header-font } (**0 FP**{: .spirit-color })  
+> > > Kicks at the foe, knocking them off-balance through a crack in space.  
+> > > *Coordination*{: .heart-color }:  
+> > > Auto: 1 DMG  
+> > > *Nice!*{: .nice-color }: 2 DMG  
+> > > *Trickery (+ Dimensions)*{: .spirit-color }:  
+> > > *Nice!*{: .nice-color }: The foe switches positions with an adjacent ally  
+> > > *Swap*{: .italic }
+> > >
+> >
+> > {: .specie-inner-callout }  
+> > > *Magic Window*{: .header-font } (**3 FP**{: .spirit-color })  
+> > > Disappears into another dimension, then continuously reappears from every angle, bonking the foe over and over.  
+> > > *Athletics*{: .heart-color }:  
+> > > Deal 1 DMG once for each Grade of Success.  
+> > > *Aerial, Repeat*{: .italic }
+> > >
+> >
+>
+
+{: .specie-callout }
+> ## Pianta
+>
+> ![](assets/images/species/pianta.png)
+> {: .float-right-desktop }
+> While most Piantas are laidback, their strong social skills and large stature has been known to go to their heads.  
+> But whether you're in a fight or a business deal, it's always good to have a Pianta backing you up.
+>
+> ***+1 Heart*{: .heart-color }, **+1 Courage**{: .courage-color }*{: .text-gamma .header-font }  
+> *1 Power, 0 Defense*{: .text-gamma .header-font }  
+>
+> {: .specie-pros-callout }
+> > *Pros*{: .text-gamma .header-font }  
+> > *+ Athletics (Brawn)*{: .heart-color }  
+> > *+ Bully (Shakedown)*{: .courage-color }  
+> > *+ Persuade (Deals)*{: .courage-color }  
+> > 1 Resist (Earth, Shock, Water)
+>
+> {: .specie-cons-callout }
+> > *Cons*{: .text-gamma .header-font }  
+> > Weakness (Fire)  
+> > *You take +2 damage and suffer from a Lingering (1) burn, lasting a number of turns equal to the damage taken.*{: .mgl .fs-3 }
+>
+> {: .specie-inner-callout }
+> > *Tech Defaults*{: .text-gamma .header-font }  
+> >
+> > Flowery  
+> > *Launch*{: .alt-grey-line }  
+> > Strong  
+> > *Throw*{: .alt-grey-line }  
+> >
+>
+> {: .specie-inverted-callout }
+> > *Example Techniques*{: .text-gamma .header-font .text-grey-lt-000 }  
+> >
+> > {: .specie-inner-callout }  
+> > > *Brawny Backhand*{: .header-font } (**0 FP**{: .spirit-color })  
+> > > Smacks the enemy around with brute strength.  
+> > > *Coordination*{: .heart-color }:  
+> > > Auto: 2 DMG  
+> > > *Nice!*{: .nice-color }: 2 DMG x2  
+> > > *Strong*{: .italic }
+> > >
+> >
+> > {: .specie-inner-callout }  
+> > > *Chuckster*{: .header-font } (**4 FP**{: .spirit-color })  
+> > > Grabs an enemy in melee, then throws them at another target, damaging both targets.  
+> > > *Athletics (+ Brawn)*{: .heart-color }:  
+> > > *Nice!*{: .nice-color }: 3 DMG  
+> > > *Good!*{: .good-color }: 6 DMG  
+> > > *Strong x2, Throw, Unwieldy*{: .italic }
+> > >
+> >
+>
+
+{: .specie-callout }
+> ## Piranha Plant
+>
+> ![](assets/images/species/piranha_plant.png)
+> {: .float-right-desktop }
+> Vicious beasts and voracious eaters, it's no surprise Piranha Plants are feared as monsters. They rarely even learn to speak, though they're certainly capable. Most of them seem content to live as beasts.
+>
+> ***+1 Heart**{: .heart-color }*{: .text-gamma .header-font }  
+> *2 Power, 0 Defense*{: .text-gamma .header-font }  
+>
+> {: .specie-pros-callout }
+> > *Pros*{: .text-gamma .header-font }  
+> > *+ Athletics (Burrow)*{: .heart-color }  
+> > *+ Trickery (Camouflage)*{: .spirit-color }  
+> > *+ Bully (Poison)*{: .courage-color }  
+> > Immune (Poison, Water)  
+> > *You heal **5 HP**{: .heart-color } instead.*{: .mgl .fs-3 }  
+> > Elevation  
+> > *Requires elevated earth to burrow into.*{: .mgl .fs-3 }
+>
+> {: .specie-cons-callout }
+> > *Cons*{: .text-gamma .header-font }  
+> > Weakness (Fire)  
+> > *You take +2 damage and suffer from a Lingering (1) burn, lasting a number of turns equal to the damage taken.*{: .mgl .fs-3 }  
+> > Weakness (Quake)  
+> > *Has no effect unless you're currently underground.*{: .mgl .fs-3 }  
+> > *If you're currently underground, you're forced to the surface, dealing +2 damage and completely Stunning (6) you for the next turn.*{: .mgl .fs-3 }  
+>
+> {: .specie-inner-callout }
+> > *Tech Defaults*{: .text-gamma .header-font }  
+> >
+> > Lingering  
+> > *Secure (Burrowed)*{: .alt-grey-line }  
+> > Selective  
+> > *Underfoot*{: .alt-grey-line }  
+> >
+>
+> {: .specie-inverted-callout }
+> > *Example Techniques*{: .text-gamma .header-font .text-grey-lt-000 }  
+> >
+> > {: .specie-inner-callout }  
+> > > *Burrowing Bite*{: .header-font } (**0 FP**{: .spirit-color })  
+> > > Burrows underground to the target, then bites.  
+> > > *Coordination*{: .heart-color }:  
+> > > Auto: 2 DMG  
+> > > *Nice!*{: .nice-color }: 4 DMG  
+> > > *Selective*{: .italic }
+> > >
+> >
+> > {: .specie-inner-callout }  
+> > > *Toxic Fangs*{: .header-font } (**4 FP**{: .spirit-color })  
+> > > Lashes out in melee with potent toxic.  
+> > > *Coordination*{: .heart-color }:  
+> > > Auto: 2 DMG  
+> > > *Nice!*{: .nice-color }: 4 DMG  
+> > > *Bully (+ Poison)*{: .courage-color }:  
+> > > *Nice!*{: .nice-color }: Lingering (2) for 4 turns  
+> > > *Good!*{: .good-color }: Lingering (3) for 4 turns  
+> > > *Great!*{: .great-color }: Lingering (4) for 4 turns  
+> > > *Lingering x4, Empower*{: .italic }
+> > >
+> >
+>
+
+{: .specie-callout }
+> ## Pokey
+>
+> ![](assets/images/species/pokey.png)
+> {: .float-right-desktop }
+> These curious cacti grow in segments, and need very little to sustain themselves. Although only the head of a Pokey is truly alive, they can integrate and detach segments easily, allowing them to split off individual parts without much risk.
+>
+> ***+2 Heart**{: .heart-color }*{: .text-gamma .header-font }  
+> *1 Power, 0 Defense*{: .text-gamma .header-font }  
+>
+> {: .specie-pros-callout }
+> > *Pros*{: .text-gamma .header-font }  
+> > *+ Aim (Throw)*{: .heart-color }  
+> > *+ Athletics (Reach)*{: .heart-color }  
+> > *+ Steady (Poise)*{: .courage-color }  
+> > Immune (Aerial)  
+> > *This Immunity is negated if the attacker has Immune (Spikes).*{: .mgl .fs-3 }  
+> > Contact
+> > The attacker takes 1 Piercing DMG, and you make a **Steady**{: .courage-color } check; the attacker is Dazed (1) for 1 turn for each Grade of Success.
+>
+> {: .specie-cons-callout }
+> > *Cons*{: .text-gamma .header-font }  
+> > Handless  
+> > Weakness (Air, Blast)  
+> > *If you take damage from this attack, you have to make a **Good**{: .good-color } **Steady**{: .courage-color } check or be forced into your Detached State.*{: .mgl .fs-3 }  
+> > Weakness (Quake)  
+> > *Has no effect unless you're currently underground.*{: .mgl .fs-3 }  
+> > *If you're currently underground, you're forced to the surface, dealing +2 damage and completely Stunning (6) you for the next turn.*{: .mgl .fs-3 }  
+>
+> {: .specie-inner-callout }
+> > *Other Traits*{: .text-gamma .header-font }  
+> > State (Detache)  
+> > *You're able to remove your head from your body and move around as a single segment.*{: .mgl .fs-3 }  
+> > *Entering your Detached State is a free action that requires no check, but re-combining requires other segments and a **Steady**{: .courage-color } check.*{: .mgl .fs-3 }  
+> > *While detached you're smaller and slower, and your body is left completely inert. In addition to the obvious issues, your Guard and most kinds of Athletics (e.g. jumping, running) are Weakened (1); however your Trickery and certain kinds of Athletics (e.g. burrowing) are Boosted (1).*{: .mgl .fs-3 }  
+> > ***Good!**{: .good-color }: You recombine, exiting your Detached State.*{: .mgl .fs-3 }  
+> > ***Great!**{: .great-color }: You recombine quickly, exiting your Detached State as a free action.*{: .mgl .fs-3 }  
+>
+> {: .specie-inner-callout }
+> > *Tech Defaults*{: .text-gamma .header-font }  
+> >
+> > Lingering x2  
+> > *Ranged*{: .alt-grey-line }  
+> > Piercing  
+> > *Secure (Burrowed)*{: .alt-grey-line }  
+> >
+>
+> {: .specie-inverted-callout }
+> > *Example Techniques*{: .text-gamma .header-font .text-grey-lt-000 }  
+> >
+> > {: .specie-inner-callout }  
+> > > *Pokey Throw*{: .header-font } (**0 FP**{: .spirit-color })  
+> > > A lobbing attack made with the Pokey's own segments.  
+> > > *Aim (+ Throw)*{: .heart-color }:  
+> > > Auto: 2 DMG  
+> > > *Nice!*{: .nice-color }: 4 DMG  
+> > > *Ranged, Strong, Situational (Not while Detached)*{: .italic }
+> > >
+> >
+> > {: .specie-inner-callout }  
+> > > *Poison Point*{: .header-font } (**4 FP**{: .spirit-color })  
+> > > Leaps at and spears the enemy with their pointed head, afflicting them with a poison for 4 turns.  
+> > > *Athletics*{: .heart-color }:  
+> > > *Nice!*{: .nice-color }: 2 Piercing DMG  
+> > > *Good!*{: .good-color }: 4 Piercing DMG  
+> > > *Bully*{: .courage-color }:  
+> > > *Nice!*{: .nice-color }: Lingering (2) for 4 turns 
+> > > *Good!*{: .good-color }: Lingering (3) for 4 turns  
+> > > *Great!*{: .great-color }: Lingering (4) for 4 turns  
+> > > *Piercing, Aerial, Empower, Lingering x4, Strong, Unwieldy, Situational (While Detached)*{: .italic }
+> > >
+> >
+>
+
+{: .specie-callout }
+> ## Puff (WIP)
+>
+> ![](assets/images/species/puff.png)
 > {: .float-right-desktop }
 > A description of the Species and how they fit into the world. These descriptions are simple and general, and do not define individual members of their Species.
 >
