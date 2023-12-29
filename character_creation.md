@@ -29,11 +29,11 @@ nav_order: 11
     But as a general rule, they shouldn't be so vague that they always apply, or so specific that they rarely make a difference.
 
 5. *Design your Techniques*{: .header-font }  
-    Your [Techniques](TODO:LINK) are the special moves that help your character excel in combat. Usually these are straightforward attacks, but you can customise them to be as complex as you wish.  
+    Your [Techniques]({{ "/techniques" | absolute_url }}) are the special moves that help your character excel in combat. Usually these are straightforward attacks, but you can customise them to be as complex as you wish.  
     You begin play with two Techniques. It is recommended that you have at least one Technique that costs *0 FP*{: .spirit-color }, so that you always have a basic attack option.
 
 6. *Fill up your pockets*{: .header-font }  
-    Finally, you start with 100 Coins (or more or less, depending on your campaign) to spend on [Items](TODO:LINK), [Power-Ups](TODO:LINK), [Gear](TODO:LINK) and [Badges](TODO:LINK). Items, Power-Ups and Gear of all sizes occupy one of your 10 inventory slots, while Badges are small enough to not take up space – but the Badges you can actually equip and use at the same time will be restricted by your *BP*{: .courage-color }. 
+    Finally, you start with 100 Coins (or more or less, depending on your campaign) to spend on [Items]({{ "/inventory#items" | absolute_url }}), [Power-Ups]({{ "/inventory#power-ups" | absolute_url }}), [Gear]({{ "/inventory#gear" | absolute_url }}) and [Badges]({{ "/inventory#badges" | absolute_url }}). Items, Power-Ups and Gear of all sizes occupy one of your 10 inventory slots, while Badges are small enough to not take up space – but the Badges you can actually equip and use at the same time will be restricted by your *BP*{: .courage-color }. 
 
 {: .tip-callout }
 > *When you're choosing your skills, it's important to consider what the other players in your group can and can't do. That way when they run into trouble, you'll be ready to lend a helping hand ![](assets/images/icons/tipguy.png)*{: .icon-right }

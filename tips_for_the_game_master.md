@@ -228,7 +228,7 @@ Partners can't be attacked while in this state, though they may still take damag
 While in this state, partners can take certain actions to help them recover faster. This still counts as their action for the turn.
 - Using Items on themselves.
 - Making *Heal*{: .heart-color } checks on themselves.
-- Getting a [Second Wind](TODO:LINK) with their *SP*{: .courage-color }.
+- Getting a [Second Wind]({{ "/star_power#second-wind" | absolute_url }}) with their *SP*{: .courage-color }.
 
 Under this system, a number of Badges change when used by partners, as noted on the following page.
 

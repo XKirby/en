@@ -143,14 +143,14 @@ This Technique affects all of the user's allies, but not themselves. At the user
 
 Choose *HP*{: .heart-color }, *SP*{: .courage-color } or Coins:
 - *HP*{: .heart-color }: This Technique spends *HP*{: .heart-color } instead of *FP*{: .spirit-color }. It can't recover *HP*{: .heart-color }, and can't be combined with *Blowback*{: .negative-color } or varieties of *Self*{: .negative-color } that deal damage to the user.
-- *SP*{: .courage-color }: This Technique spends *SP*{: .courage-color } instead of *FP*{: .spirit-color }. It can't recover *SP*{: .courage-color }, even through [Exceptional Results](TODO:LINK) (though [Exceptional Techniques](TODO:LINK) are still possible).
+- *SP*{: .courage-color }: This Technique spends *SP*{: .courage-color } instead of *FP*{: .spirit-color }. It can't recover *SP*{: .courage-color }, even through [Exceptional Results]({{ "/grades_of_success#exceptional-results" | absolute_url }}) (though [Exceptional Techniques]({{ "/exceptional_techniques" | absolute_url }}) are still possible).
 - Coins: This Technique spends 5 Coins for every *1 FP*{: .spirit-color } it would cost. It can't steal Coins through *Snatch*{: .positive-color }, and can't cover an equivalent cost of more than *10 FP*{: .spirit-color } (for 50 Coins).
 
 The effective *FP*{: .spirit-color } cost can't be reduced lower than *1 FP*{: .spirit-color } by negative Traits while using *Alternative*{: .positive-color }.
 
 ### *Boost*{: .positive-color} *(+2 FP)*{: .spirit-color } [Secondary - *Cheer*{: .courage-color }/*Magic*{: .spirit-color }] [X]
 
-The target's abilities are [Boosted](TODO:LINK) for [X] turns – the exact abilities affected by the Boost are decided when this Trait is bought.  
+The target's abilities are [Boosted]({{ "/statuses#boosted" | absolute_url }}) for [X] turns – the exact abilities affected by the Boost are decided when this Trait is bought.  
 For every additional Grade of Success, increase the Status Level by 1, to a maximum of [X].  
 This Technique can also use the following skills for Secondary Checks, depending on the ability being Boosted:
 
@@ -172,7 +172,7 @@ Each subsequent attack deals -1 damage (to a minimum of 1), calculated for each 
 
 ### *Charm*{: .positive-color} *(+2 FP)*{: .spirit-color } [Secondary - *Magic*{: .spirit-color}/*Persuade*{: .courage-color }/*Trickery*{: .spirit-color }] [X]
 
-The target is [Charmed](TODO:LINK), causing them to be easily persuaded, for [X] turns.  
+The target is [Charmed]({{ "/statuses#charmed" | absolute_url }}), causing them to be easily persuaded, for [X] turns.  
 For every additional Grade of Success, increase the Status Level by 1, to a maximum of [X].
 
 {: .tip-callout }
@@ -209,24 +209,24 @@ If after this Coin Toss would have a negative *FP cost*{: .spirit-color }, you c
 
 This Technique's Primary Check defaults to either *Athletics*{: .heart-color } or *Steady*{: .courage-color }.
 
-Instead of the usual effect of this Technique, the target gains the qualities of this Technique (excluding *Counter*{: .positive-color }, [Approach] and [Target] traits) as a [Contact](TODO:LINK) Trait, either through some direct hazard or a counter-attack from the original user.  
+Instead of the usual effect of this Technique, the target gains the qualities of this Technique (excluding *Counter*{: .positive-color }, [Approach] and [Target] traits) as a [Contact]({{ "/personal_traits#contact" | absolute_url }}) Trait, either through some direct hazard or a counter-attack from the original user.  
 This Contact Trait lasts for 1 turn for each Grade of Success.  
 When the Contact Trait is triggered, it automatically succeeds and targets the attacker (ignoring their own Contact traits) with the same number of Grades of Success as the original user's Primary Check.  
 Secondary Checks are made as required when their Contact trait is triggered; depending on the nature of the trait, either the target or the original user make the check.
 
 ### *Confuse*{: .positive-color} *(+1 FP)*{: .spirit-color } [Secondary - *Bully*{: .courage-color }/*Magic*{: .spirit-color }/*Trickery*{: .spirit-color }] [X]
 
-The target is [Confused](TODO:LINK), causing them to behave unpredictably, for [X] turns.  
+The target is [Confused]({{ "/statuses#confused" | absolute_url }}), causing them to behave unpredictably, for [X] turns.  
 For every additional Grade of Success, increase the Status Level by 1, to a maximum of [X].
 
 ### *Daze*{: .positive-color} *(+1 FP)*{: .spirit-color } [Secondary - *Bully*{: .courage-color }/*Magic*{: .spirit-color }/*Trickery*{: .spirit-color }] [X]
 
-The target is [Dazed](TODO:LINK) for [X] turns, preventing them from fighting back.  
+The target is [Dazed]({{ "/statuses#dazed" | absolute_url }}) for [X] turns, preventing them from fighting back.  
 For every additional Grade of Success, increase the Status Level by 1, to a maximum of [X].
 
 ### *Disarm*{: .positive-color} *(+1 FP)*{: .spirit-color } [Secondary - *Bully*{: .courage-color }/*Magic*{: .spirit-color }/*Trickery*{: .spirit-color }] [X]
 
-The target is [Disarmed](TODO:LINK) for [X] turns, preventing them from using the targeted attack or Trait – the exact Traits (e.g. *Tool*{: .positive-color }) or manner of attack (e.g. jump attacks) affected by this status are decided when this Trait is chosen.  
+The target is [Disarmed]({{ "/statuses#disarmed" | absolute_url }}) for [X] turns, preventing them from using the targeted attack or Trait – the exact Traits (e.g. *Tool*{: .positive-color }) or manner of attack (e.g. jump attacks) affected by this status are decided when this Trait is chosen.  
 For every additional Grade of Success, increase the Status Level by 1, to a maximum of [X].
 
 ### *Dismiss*{: .positive-color} *(+2 FP)*{: .spirit-color } [Secondary - *Bully*{: .courage-color }/*Heal*{: .heart-color }/*Magic*{: .spirit-color }/*Trickery*{: .spirit-color }]
@@ -238,7 +238,7 @@ For each Grade of Success, the user can choose one of the target's Statuses, the
 
 ### *Disorient*{: .positive-color} *(+2 FP)*{: .spirit-color } [Secondary - *Bully*{: .courage-color }/*Magic*{: .spirit-color }/*Trickery*{: .spirit-color }] [X]
 
-The target is [Disoriented](TODO:LINK) for [X] turns, reducing the effectiveness of all actions requiring their senses.  
+The target is [Disoriented]({{ "/statuses#disoriented" | absolute_url }}) for [X] turns, reducing the effectiveness of all actions requiring their senses.  
 For every additional Grade of Success, increase the Status Level by 1, to a maximum of [X].
 
 ### *Divider*{: .positive-color} *(+3 FP)*{: .spirit-color } [Secondary - *Bully*{: .courage-color }/*Magic*{: .spirit-color }/*Trickery*{: .spirit-color }] [X]
@@ -263,7 +263,7 @@ As long as this Technique's Secondary Check succeeds, it functions as if it had 
 
 ### *Fear*{: .positive-color} *(+1 FP)*{: .spirit-color } [Secondary - *Bully*{: .courage-color }/*Trickery*{: .spirit-color }] [X]
 
-The target either flees the fight or becomes [Stunned](TODO:LINK) (their choice) for [X] turns.  
+The target either flees the fight or becomes [Stunned]({{ "/statuses#stunned" | absolute_url }}) (their choice) for [X] turns.  
 For every additional Grade of Success, increase the Status Level by 1, to a maximum of [X].
 
 ### *Flowery*{: .positive-color} *(+2 FP)*{: .spirit-color } [Secondary - *Cheer*{: .courage-color }/*Magic*{: .spirit-color }] [X]
@@ -280,13 +280,13 @@ This Technique heals the target *1 HP*{: .heart-color } for every Grade of Succe
 
 ### *Homing*{: .positive-color} *(+1 FP)*{: .spirit-color }
 
-This Technique can't be [*Dodged*{: .spirit-color }](TODO:LINK) and ignores the [](TODO:LINK) Status. It can still be [*Blocked*{: .heart-color }](TODO:LINK).
+This Technique can't be [*Dodged*{: .spirit-color }]({{ "/skills_in_detail#trickery---dodging" | absolute_url }}) and ignores the [Secure]({{ "/statuses#secure" | absolute_url }}) Status. It can still be [*Blocked*{: .heart-color }]({{ "skills_in_detail#guard---reducing-damage" | absolute_url }}K).
 If a target has any clones in battle (illusory or otherwise), this Technique can 
 ignore them to strike the target instead.
 
 ### *Hustle*{: .positive-color} *(+6 FP)*{: .spirit-color } [X - Cap 5]
 
-The target begins to [Hustle](TODO:LINK), giving them additional actions, for the next [X]  turns. If you target yourself with this Technique, you don't receive the benefit until after this turn.  
+The target begins to [Hustle]({{ "/statuses#hustled" | absolute_url }}), giving them additional actions, for the next [X]  turns. If you target yourself with this Technique, you don't receive the benefit until after this turn.  
 For every additional Grade of Success, increase the Status Level by 1, to a maximum of [X].
 
 ### *Indirect*{: .positive-color} *(+2 FP)*{: .spirit-color }
@@ -306,7 +306,7 @@ The effects of this Technique which have a duration last [X] more turns.
 
 ### *Lingering*{: .positive-color} *(+1 FP)*{: .spirit-color } [Secondary - *Bully*{: .courage-color }/*Magic*{: .spirit-color }] [X]
 
-The target suffers a [Lingering](TODO:LINK) burn, poison or other degenerative effect, for [X] turns.
+The target suffers a [Lingering]({{ "/statuses#lingering" | absolute_url }}) burn, poison or other degenerative effect, for [X] turns.
 For every additional Grade of Success, increase the Status Level by 1, to a maximum of [X].
 
 ### *Lucky Hit*{: .positive-color} *(+? FP)*{: .spirit-color } [Random]
@@ -351,11 +351,11 @@ This Technique affects all targets in the target group at the same elevation, as
 
 ### *Piercing*{: .positive-color} *(+3 FP)*{: .spirit-color }
 
-This attack ignores Defense, Resistances and Immunities. It can still be [*Blocked*{: .heart-color }](TODO:LINK).
+This attack ignores Defense, Resistances and Immunities. It can still be [*Blocked*{: .heart-color }]({{ "/skills_in_detail#guard---reducing-damage" | absolute_url }}).
 
 ### *Provoke*{: .positive-color} *(+1 FP)*{: .spirit-color } [Secondary - *Bully*{: .courage-color }/*Magic*{: .spirit-color }/*Trickery*{: .spirit-color }/*Persuade*{: .courage-color }] [X]
 
-The target becomes [Provoked](TODO:LINK), causing them to focus their attention on a particular valid target (specified by you), for [X] turns.  
+The target becomes [Provoked]({{ "/statuses#provoked" | absolute_url }}), causing them to focus their attention on a particular valid target (specified by you), for [X] turns.  
 For every additional Grade of Success, increase the Status Level by 1, to a maximum of [XX].
 
 ### *Quake*{: .positive-color} *(+3 FP)*{: .spirit-color } [Approach] [Target]
@@ -415,7 +415,7 @@ This Technique acts as if the user had +1 Power for each additional Grade of Suc
 
 ### *Secure*{: .positive-color} *(+4 FP)*{: .spirit-color } [Secondary - *Guard*{: .heart-color }/*Magic*{: .spirit-color }/*Trickery*{: .spirit-color }]
 
-The target becomes [Secure](TODO:LINK), rendering them completely immune to most Techniques targeting them for 1 turn; if this Technique would deal damage to or inflict status on the target, those effects take priority first.
+The target becomes [Secure]({{ "/statuses#secure" | absolute_url }}), rendering them completely immune to most Techniques targeting them for 1 turn; if this Technique would deal damage to or inflict status on the target, those effects take priority first.
 
 ### *Selective*{: .positive-color} *(+1 FP)*{: .spirit-color } [Target]
 
@@ -473,7 +473,7 @@ This Technique has +[X] Power.
 
 ### *Stun*{: .positive-color} *(+2 FP)*{: .spirit-color } [Secondary - *Bully*{: .courage-color }/*Magic*{: .spirit-color }/*Trickery*{: .spirit-color }] [X]
 
-The target is [Stunned](TODO:LINK) for [X] turns, stopped dead in their tracks.  
+The target is [Stunned]({{ "/statuses#stunned" | absolute_url }}) for [X] turns, stopped dead in their tracks.  
 For every additional Grade of Success, increase the Status Level by 1, to a maximum of [XX].
 
 ### *Swap*{: .positive-color} *(+1 FP)*{: .spirit-color } [Secondary - *Bully*{: .courage-color }/*Coordination*{: .heart-color }/*Magic*{: .spirit-color }/*Trickery*{: .spirit-color }] [X]
@@ -483,11 +483,11 @@ If this Technique affects multiple targets, each target can only be swapped once
 
 ### *Terrain*{: .positive-color} *(+3 FP)*{: .spirit-color } [Secondary - *Crafts*{: .spirit-color }/*Magic*{: .spirit-color }] [X]
 
-The environment around the target shifts for [X] turns, causing a [Terrain](TODO:LINK) to form around them. The exact Terrain this Technique causes is chosen when this Trait is bought.  
+The environment around the target shifts for [X] turns, causing a [Terrain]({{ "/terrain" | absolute_url }}) to form around them. The exact Terrain this Technique causes is chosen when this Trait is bought.  
 For every additional Grade of Success, increase the Terrain Level by 1, to a 
 maximum of [X].  
 If the target is already in a similar Terrain (e.g. both Terrains are Weathers), the new Terrain overrides the old one.  
-If the target is able to change position (e.g. by [*Swapping*{: .heart-color }](TODO:LINK)), the Terrain stays in the same place, and may affect different targets.
+If the target is able to change position (e.g. by [*Swapping*{: .heart-color }]({{ "/skills_in_detail#coordination---swapping" | absolute_url }})), the Terrain stays in the same place, and may affect different targets.
 
 ### *Throw*{: .positive-color} *(+2 FP)*{: .spirit-color } [Target] [Strikes] [X - Cap 2]
 
@@ -498,14 +498,14 @@ If [X] is 2, you can aim the target as if with the *Ranged*{: .positive-color } 
 ### *Tool*{: .positive-color} *(+1 FP)*{: .spirit-color }
 
 This Technique relies on a hand-held tool, such as a hammer or staff, and can't be used if the appropriate equipment isn't available. As a result it also has *Indirect*{: .positive-color } or *Ranged*{: .positive-color }, at the user's option.  
-The [Basic Gear](TODO:LINK) used for these Techniques don't cost anything during character creation, but they take up an inventory slot, and replacements may cost Coins. Ammunition isn't tracked; if a Tool is represented by a large number of disposable equipment (such as throwing weapons), one Tool is enough to represent the user's supply.  
-Built-In Tools (used by [Constructs](TODO:LINK)) are functionally the same as Tools, but are built into the user's body. They still take up an inventory slot.
+The [Basic Gear]({{ "/inventory#gear" | absolute_url }}) used for these Techniques don't cost anything during character creation, but they take up an inventory slot, and replacements may cost Coins. Ammunition isn't tracked; if a Tool is represented by a large number of disposable equipment (such as throwing weapons), one Tool is enough to represent the user's supply.  
+Built-In Tools (used by [Constructs]({{ "/personal_traits#constructs" | absolute_url }})) are functionally the same as Tools, but are built into the user's body. They still take up an inventory slot.
 
 ### *Tutor*{: .positive-color} *(+2 FP)*{: .spirit-color } [Secondary - *Bully*{: .courage-color }/*Cheer*{: .courage-color }/*Magic*{: .spirit-color }] [X]
 
 Choose up to [X] of this Technique's Traits; multiple instances of a Technique (e.g. *Lingering x2*{: .positive-color }) must be selected individually (requiring you to select both instances of *Lingering*{: .positive-color }).  
-Those Traits have no effect on this Technique, and the target instead becomes [Tutored](TODO:LINK) in their use for [X] turns; for each additional Grade of Success, increase the Status Level by 1, to a maximum of [X].  
-Depending on the exact nature of the Traits being Tutored and how the tutelage is carried out, you may also be [Disarmed](TODO:LINK) when trying to use relevant Techniques for the same duration (e.g. if you Tutor someone in *Tool*{: .positive-color } by handing them your equipment).  
+Those Traits have no effect on this Technique, and the target instead becomes [Tutored]({{ "/statuses#tutored" | absolute_url }}) in their use for [X] turns; for each additional Grade of Success, increase the Status Level by 1, to a maximum of [X].  
+Depending on the exact nature of the Traits being Tutored and how the tutelage is carried out, you may also be [Disarmed]({{ "/statuses#disarmed" | absolute_url }}) when trying to use relevant Techniques for the same duration (e.g. if you Tutor someone in *Tool*{: .positive-color } by handing them your equipment).  
 If the Tutored Traits are negative, any *FP*{: .spirit-color } that would be saved by them instead becomes a positive value (e.g. *Unwieldy*{: .negative-color } goes from *-2 FP*{: .spirit-color } to *+2 FP*{: .spirit-color }).  
 If this Secondary Check uses *Cheer*{: .courage-color }, you must include at least one positive Trait, and if it uses *Bully*{: .courage-color }, you can't include any positive Traits.
 
@@ -520,7 +520,7 @@ You may choose a different skill to use for either your Primary or Secondary che
 
 ### *Weaken*{: .positive-color} *(+2 FP)*{: .spirit-color } [Secondary - *Bully*{: .courage-color }/*Magic*{: .spirit-color }/*Trickery*{: .spirit-color }] [X]
 
-The target's abilities are [Weakened](TODO:LINK) for [X] turns – the exact abilities affected by the Weakening are decided when this Trait is chosen.  
+The target's abilities are [Weakened]({{ "/statuses#weakened" | absolute_url }}) for [X] turns – the exact abilities affected by the Weakening are decided when this Trait is chosen.  
 For every additional Grade of Success, increase the Status Level by 1, to a maximum of [X].
 
 ## Negative Technique Traits
@@ -607,7 +607,7 @@ This Technique can only be used on one other willing target (e.g. allies), and n
 
 ### *Penalty*{: .negative-color} *(-2 FP)*{: .spirit-color } [X - Cap 3]
 
-Choose up to [X] negative Statuses when you add this Trait (e.g. [Confused](TODO:LINK), [Dazed](TODO:LINK), [Disarmed](TODO:LINK), [Disoriented](TODO:LINK), [Lingering](TODO:LINK), [Provoked](TODO:LINK), [Stunned](TODO:LINK) or [Weakened](TODO:LINK)).  
+Choose up to [X] negative Statuses when you add this Trait (e.g. [Confused]({{ "/statuses#confused" | absolute_url }}), [Dazed]({{ "/statuses#dazed" | absolute_url }}), [Disarmed]({{ "/statuses#disarmed" | absolute_url }}), [Disoriented]({{ "/statuses#disoriented" | absolute_url }}), [Lingering]({{ "/statuses#lingering" | absolute_url }}), [Provoked]({{ "/statuses#provoked" | absolute_url }}), [Stunned]({{ "/statuses#stunned" | absolute_url }}) or [Weakened]({{ "/statuses#weakened" | absolute_url }})).  
 After this Technique resolves, you receive those Statuses with no opportunity to resist. The Status Level and duration of each Status added must add up to at least [XXXX], and their duration is unaffected by *Shorten*{: .negative-color }.  
 If you choose a Status you have an Immunity to, this effect bypasses that Immunity.  
 You can reduce this Status with *Steady*{: .courage-color } in later turns, as normal for any Status.
@@ -625,7 +625,7 @@ This Trait can't be taken more than the maximum number of turns all of its effec
 
 ### *Side-Effect*{: .negative-color} *(-2 FP)*{: .spirit-color } [X - Cap 3]
 
-Choose up to [X] positive Statuses when you add this Trait (e.g. [Boosted](TODO:LINK), [Hustled](TODO:LINK) or [Secure](TODO:LINK)).  
+Choose up to [X] positive Statuses when you add this Trait (e.g. [Boosted]({{ "/statuses#boosted" | absolute_url }}), [Hustled]({{ "/statuses#hustled" | absolute_url }}) or [Secure]({{ "/statuses#secure" | absolute_url }})).  
 Before this Technique resolves, regardless of its check result, all targeted enemies receive that Status. The Status Level and duration of each Status added must add up to at least [XXXX], their duration is unaffected by *Shorten*{: .negative-color }, and the Status Level can't exceed the maximum allowed for the Status (e.g. Secure can't go beyond Status Level 1).  
 Any Status added with this Trait must be impactful and useful to a general enemy; Boost (Attack) would be fine for most cases, but something like Boost (*Knowhow*{: .spirit-color }) would generally be too niche and require GM approval.
 

@@ -6,6 +6,7 @@ nav_order: 4
 ---
 
 # Our Story Begins
+{: .no_toc }
 
 Paper Story is a roleplaying game rooted in the design of the classic Paper Mario games, allowing you to take those familiar worlds and tell your own stories within them.
 

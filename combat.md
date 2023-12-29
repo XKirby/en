@@ -40,21 +40,21 @@ Generally this free attack cannot target more than one enemy and cannot cost *FP
 
 On the other hand if a player fails their Initiative check, an enemy can make an attack against them in the Surprise Round, even if they would normally be out of range. However, the same enemy cannot make multiple attacks in the Surprise Round.
 
-The Surprise Round isn't counted as a full round, and while players can act during it and get to react to damage, this isn't considered a "turn" in the traditional sense. So [Statuses](TODO:LINK) and other durations aren't affected by the Surprise Round.
+The Surprise Round isn't counted as a full round, and while players can act during it and get to react to damage, this isn't considered a "turn" in the traditional sense. So [Statuses]({{ "/statuses" | absolute_url }}) and other durations aren't affected by the Surprise Round.
 
 ## Free Actions and Reactions
 
 When the chips are down, players generally can't carry out more than one action on their turn. But there are cases where taking action is so straightforward, they don't have to think about it.  
-Whenever something calls for a reaction (such as *[Blocking](TODO:LINK)*{: .heart-color }), or a free action (such as [Charming](TODO:LINK) foes), players can carry it out and make any rolls necessary without using up their own actions. 
+Whenever something calls for a reaction (such as *[Blocking]({{ "/skills_in_detail#guard---reducing-damage" | absolute_url }})*{: .heart-color }), or a free action (such as [Charming]({{ "/example_of_play" | absolute_url }}) foes), players can carry it out and make any rolls necessary without using up their own actions. 
 
 ## Targeting
 
-When targeting someone with a [Technique](TODO:LINK) or an [Item](TODO:LINK), the first thing you need to consider is if they're an eligible target.  
+When targeting someone with a [Technique]({{ "/techniques" | absolute_url }}) or an [Item]({{ "/inventory#items" | absolute_url }}), the first thing you need to consider is if they're an eligible target.  
 Generally, attacks are made in melee range. Line up your groups and imagine a line between yourself and the target – if there are no enemies in between you, you're in melee range and good to go!
 
 If however a target is Flying or otherwise out of reach, they can't be targeted in melee and will generally require *Ranged*{: .spirit-color }, *Reach*{: .spirit-color } or *Aerial*{: .spirit-color } Techniques. The good news is they're not able to block you off from other targets.
 
-The same general rules apply to players – if you want to protect your teammates, you usually want to be standing in front of them, but it becomes harder to stop ranged or airborne attackers. If you need to get in front of your teammates, try *[Swapping](TOOD:LINK)*{: .heart-color } positions.
+The same general rules apply to players – if you want to protect your teammates, you usually want to be standing in front of them, but it becomes harder to stop ranged or airborne attackers. If you need to get in front of your teammates, try *[Swapping]({{ "/skills_in_detail#coordination---swapping" | absolute_url }})*{: .heart-color } positions.
 
 ![](assets/images/scenes/02.png)
 {: .center-img }

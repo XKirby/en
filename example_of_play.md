@@ -6,6 +6,7 @@ nav_order: 18
 ---
 
 # Example of Play
+{: .no_toc }
 
 Now if we put it all together, we can present an example of how a session works in Paper Story. For this example we'll be following the adventures of a group of three – *Kelly the Koopa*{: .heart-color }, *Buster the Bob-Omb*{: .spirit-color } and *Squinch the Squeek*{: .courage-color }.
 

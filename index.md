@@ -6,6 +6,7 @@ nav_order: 1
 ---
 
 # Home
+{: .no_toc }
 
 Welcome to the mirror of the Paper Story ruleset !
 

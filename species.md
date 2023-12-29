@@ -71,7 +71,7 @@ Includes potential outcomes and skills required for Primary and Secondary checks
 
 Some of the more commonly adventurous folk of the Mushroom Kingdom are listed here; it is however far from all the available options, as the Mushroom Kingdom and its surrounds are huge and incredibly diverse.
 
-For some of the rarer Species, or those less inclined to adventure – from Toads to Chomps to Piantas – refer to the [Species Compendium](TODO:LINK).
+For some of the rarer Species, or those less inclined to adventure – from Toads to Chomps to Piantas – refer to the [Species Compendium]({{ "/species_compendium" | absolute_url }}).
 
 ---
 {: .species-separator }

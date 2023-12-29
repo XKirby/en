@@ -22,7 +22,7 @@ Regardless of the size or number of things being carried, all players begin play
 
 ## Items
 
-Items are single-use consumables with a wide variety of effects. Generally, Items require an action to use and are consumed immediately. You don't need to make any special checks, though you can get more out of your Items using [*Aim*{: .heart-color }](TODO:LINK), [*Heal*{: .heart-color }](TODO:LINK) and [*Crafts*{: .spirit-color }](TODO:LINK).
+Items are single-use consumables with a wide variety of effects. Generally, Items require an action to use and are consumed immediately. You don't need to make any special checks, though you can get more out of your Items using [*Aim*{: .heart-color }]({{ "/skills_in_detail#aim---item-attacks" | absolute_url }}), [*Heal*{: .heart-color }]({{ "/skills_in_detail#heal---recovery" | absolute_url }}) and [*Crafts*{: .spirit-color }]({{ "/skills_in_detail#crafts---enhancing-and-mixing" | absolute_url }}).
 
 {: .item-callout .item-left }
 > ![](assets/images/items/mushroom.png)
@@ -930,7 +930,7 @@ Each *Steady*{: .courage-color } check made requires a higher Grade of Success t
 ## Gear
 
 Gear are specialised pieces of equipment that provide the user with new Techniques and other significant advantages, both in the field and in combat.  
-If players request personalised Gear, [*Craft*{: .spirit-color }](TODO:LINK) it themselves or (in the case of Basic Gear) begin play with a Tool Technique, they can even design their own!
+If players request personalised Gear, [*Craft*{: .spirit-color }]({{ "/skills_in_detail#crafts---working-from-scratch" | absolute_url }}) it themselves or (in the case of Basic Gear) begin play with a Tool Technique, they can even design their own!
 
 {: .item-callout .item-left }
 > ![](assets/images/gear/basicgear.png)

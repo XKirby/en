@@ -6,6 +6,7 @@ nav_order: 2
 ---
 
 # Version History
+{: .no_toc }
 
 • **v1.0** (11/7/20)  
 • **v1.0.1** (12/7/20)  

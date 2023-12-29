@@ -56,7 +56,7 @@ In battle, you sometimes want – or need – to swap places with an ally. This 
 
 In battle, you can use *Guard*{: .heart-color } to reduce damage from incoming attacks. Either on your turn (as an action) or at the end of the round (as a reaction, in response to incoming attacks), make a *Guard*{: .heart-color } check.
 
-If you choose to *Block*{: .heart-color }, you can't *Dodge*{: .spirit-color } incoming attacks in the same round, unless an [Item](TODO:LINK) or other effect would allow it.
+If you choose to *Block*{: .heart-color }, you can't *Dodge*{: .spirit-color } incoming attacks in the same round, unless an [Item]({{ "/inventory#items" | absolute_url }}) or other effect would allow it.
 
 - *Blocking*{: .header-font }  
     For each Grade of Success, you can ignore 1 point of damage this turn.  
@@ -100,7 +100,7 @@ If you choose to *Block*{: .heart-color }, you can't *Dodge*{: .spirit-color } i
 
 ## *Heal - Recovery*{: .heart-color }
 
-Recovering in Paper Story is generally very simple; most of the time, getting some rest is enough to fully restore *HP*{: .heart-color } and *FP*{: .spirit-color } and recover from [Status](TODO:LINK) effects.  
+Recovering in Paper Story is generally very simple; most of the time, getting some rest is enough to fully restore *HP*{: .heart-color } and *FP*{: .spirit-color } and recover from [Status]({{ "/statuses" | absolute_url }}) effects.  
 However, if you need to recover in the field, or want to use a healing Item more effectively, you can make a *Heal*{: .heart-color } check.
 
 - *First Aid*{: .header-font }  
@@ -163,9 +163,9 @@ Depending on the quality of the materials you use, you may be able to craft Item
 
 As a general rule, when it comes to materials:
 
-- [Items](TODO:LINK) can be made with common materials which can be sourced on the cheap in most settlements, costing no more than half the Item's value.
-- [Badges](TODO:LINK) and [Gear](TODO:LINK) require more valuable and rarer materials, which may take more work to find on the market, or require the crafter to seek them out in the field.
-- [Power-Ups](TODO:LINK) require some form of magical charge, either taken from rare materials, or crafted with [*Magic*{: .spirit-color }](TODO:LINK) assistance (as a Skill Substitution or Skill Enhancement; if you have an ally assisting, you don't necessarily have to do the magic yourself).
+- [Items]({{ "/inventory#items" | absolute_url }}) can be made with common materials which can be sourced on the cheap in most settlements, costing no more than half the Item's value.
+- [Badges]({{ "/inventory#badges" | absolute_url }}) and [Gear]({{ "/inventory#gear" | absolute_url }}) require more valuable and rarer materials, which may take more work to find on the market, or require the crafter to seek them out in the field.
+- [Power-Ups]({{ "/inventory#power-ups" | absolute_url }}) require some form of magical charge, either taken from rare materials, or crafted with [*Magic*{: .spirit-color }]({{ "/skills_in_detail#magic---spontaneous-spells" | absolute_url }}) assistance (as a Skill Substitution or Skill Enhancement; if you have an ally assisting, you don't necessarily have to do the magic yourself).
 
 If you don't achieve a high enough result, you can either settle for a similar product you could have made with the materials you used instead (such as settling for a Mushroom over a Super Mushroom), accept failure and make a Mistake, or take the time to make another check; each additional check made in this way takes more time, and successive checks without rest require a higher Grade of Success.
 
@@ -175,7 +175,7 @@ If you don't achieve a high enough result, you can either settle for a similar p
 
 ## *Crafts - Enhancing and Mixing*{: .spirit-color }
 
-In addition to creating things from scratch, *Crafts*{: .spirit-color } (and other appropriate Skills) can be used to enhance or combine consumable [Items](TODO:LINK).  
+In addition to creating things from scratch, *Crafts*{: .spirit-color } (and other appropriate Skills) can be used to enhance or combine consumable [Items]({{ "/inventory#items" | absolute_url }}).  
 For each Grade of Success, you can choose one of the following effects to apply to the new Item:
 
 - Consume another Item, adding *all*{: .underlined } of its effects (*HP*{: .heart-color }, *FP*{: .spirit-color }, gradual recovery, damage, Status, etc.) to the new Item, using the first Item's targets.  
@@ -231,7 +231,7 @@ If you have a relevant Specialisation, you pay *2 FP*{: .spirit-color } per die 
 No matter the circumstances, you *always*{: .underlined } pay at least as much *FP*{: .spirit-color } as one die would cost.  
 Regardless, the final roll is modified by your *Spirit*{: .spirit-color } as normal for a *Magic*{: .spirit-color } check.
 
-Keep in mind though that *no matter what*{: .underlined }, *Magic*{: .spirit-color } spells can't be used to gain or bestow *FP*{: .spirit-color } or *SP*{: .courage-color } ([Exceptional Results](TODO:LINK) aside).
+Keep in mind though that *no matter what*{: .underlined }, *Magic*{: .spirit-color } spells can't be used to gain or bestow *FP*{: .spirit-color } or *SP*{: .courage-color } ([Exceptional Results]({{ "/grades_of_success#exceptional-results" | absolute_url }}) aside).
 
 - *Skill Substitution*{: .header-font }  
   *Magic*{: .spirit-color } can be used to emulate other skills, such as *Athletics*{: .heart-color }, *Notice*{: .spirit-color } or *Bully*{: .courage-color }, by making a *Magic*{: .spirit-color } check instead – completely replacing the check you'd make with your Magic pool.
@@ -249,7 +249,7 @@ Keep in mind though that *no matter what*{: .underlined }, *Magic*{: .spirit-col
 > The dice come up 1 and 2; since they can use both their *Heart*{: .heart-color } and their *Spirit*{: .spirit-color }, this is enough to boost both dice to 4's for a *Good*{: .good-color } result.
 
 - *Enchantments*{: .header-font }  
-  *Magic*{: .spirit-color } can be used to temporarily enchant targets with [Personal Traits](TODO:LINK), such as Fly, Invisibility or Mimicry.  
+  *Magic*{: .spirit-color } can be used to temporarily enchant targets with [Personal Traits]({{ "/personal_traits" | absolute_url }}), such as Fly, Invisibility or Mimicry.  
   Make a *Magic*{: .spirit-color } check and choose a Personal Trait; if you succeed, the target receives the chosen Trait, lasting for 1 turn for each *Magic*{: .spirit-color } die you used.  
   Numerical values of the Trait (e.g. Resist, Contact damage, Status Level) are all set to 1, even if they would normally be higher.  
   For each Grade of Success you earn, you can choose one:
@@ -277,7 +277,7 @@ Keep in mind though that *no matter what*{: .underlined }, *Magic*{: .spirit-col
 
 - *Curses*{: .header-font }  
   Similarly, *Magic*{: .spirit-color } can be used to temporarily neutralise the target's qualities and other Personal Traits.  
-  Make a *Magic*{: .spirit-color } check and choose a quality the target has (e.g. a Personal Trait, a Status delivered by their attack, or an elemental affinity of their attack); if you succeed, the target suffers a Curse as if it was a Status, temporarily neutralising their ability to use that quality in some fashion. They can recover as normal, such as with [Items](TODO:LINK) or [*Steady*{: .courage-color }](TODO:LINK), and players can make a *Steady*{: .courage-color } check to resist as a reaction, just like any other Status.  
+  Make a *Magic*{: .spirit-color } check and choose a quality the target has (e.g. a Personal Trait, a Status delivered by their attack, or an elemental affinity of their attack); if you succeed, the target suffers a Curse as if it was a Status, temporarily neutralising their ability to use that quality in some fashion. They can recover as normal, such as with [Items]({{ "/inventory#items" | absolute_url }}) or [*Steady*{: .courage-color }]({{ "/skills_in_detail#steady---resisting-effects" | absolute_url }}), and players can make a *Steady*{: .courage-color } check to resist as a reaction, just like any other Status.  
   The Curse lasts for 1 turn for each *Magic*{: .spirit-color } die you used.  
   For each Grade of Success you earn, you can choose one:
   - The Curse lasts for one more turn.
@@ -323,7 +323,7 @@ Keep in mind though that *no matter what*{: .underlined }, *Magic*{: .spirit-col
 ## *Trickery - Dodging*{: .spirit-color }
 
 In battle, you can use *Trickery*{: .spirit-color } to completely side-step attacks.  
-If you attempt to *Dodge*{: .spirit-color }, you can't also *Guard*{: .heart-color } against attacks in the same round, unless an [Item](TODO:LINK) or other effect would specifically allow it.  
+If you attempt to *Dodge*{: .spirit-color }, you can't also *Guard*{: .heart-color } against attacks in the same round, unless an [Item]({{ "/inventory#items" | absolute_url }}) or other effect would specifically allow it.  
 A *Great*{: .great-color } result allows you to dodge all attacks from one target. For each additional Grade of Success, you can dodge attacks from another target.
 
 {: .example-callout}
@@ -348,7 +348,7 @@ Repetitive cheering gets to be a bore, with each follow-up check requiring a hig
 ## *Perform - Appeals*{: .courage-color }
 
 The Stars watch over everything, like an audience watching the stage. Heroes, villains and all creatures in between can count on their favour if they play to the crowd. Whether it's through prayer, focus or showboating, the Stars reward you for great showmanship.  
-Make a *Perform*{: .courage-color } check; you don't receive any extra *SP*{: .courage-color } for [Exceptional Successes](TODO:LINK), but if you succeed you receive *2 SP*{: .courage-color }, plus an extra *+2 SP*{: .courage-color } per additional Grade of Success.  
+Make a *Perform*{: .courage-color } check; you don't receive any extra *SP*{: .courage-color } for [Exceptional Successes]({{ "/grades_of_success#exceptional-results" | absolute_url }}), but if you succeed you receive *2 SP*{: .courage-color }, plus an extra *+2 SP*{: .courage-color } per additional Grade of Success.  
 Repetitive Appeals get to be a bore, with each follow-up check requiring a higher Grade of Success. After you get some rest, or the session ends, the difficulty reverts back to normal.
 
 ![](assets/images/scenes/13.png)
@@ -369,7 +369,7 @@ Any extra dice you'd receive for *Perform*{: .courage-color }, such as from your
 Nailing a Stylish Move is harder than usual, requiring one more Grade of Success than usual.  
 If you succeed you earn *2 SP*{: .courage-color } on the spot, and *double the SP*{: .courage-color } you would have received from an Exceptional Result!
 
-Bear in mind though that if you commit to a Stylish Move, you can't spend the *SP*{: .courage-color } you would gain on [Exceptional Techniques](TODO:LINK).
+Bear in mind though that if you commit to a Stylish Move, you can't spend the *SP*{: .courage-color } you would gain on [Exceptional Techniques]({{ "/exceptional_techniques" | absolute_url }}).
 
 {: .example-callout}
 > *Example: Stylish Moves*{: .header-font }

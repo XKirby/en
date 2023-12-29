@@ -28,7 +28,7 @@ A character with this Trait is comfortable underwater. They treat movement throu
 ## Carrier
 
 A character with this Trait can carry one other character easily; usually they carry them around on their back, but the specifics will vary depending on the character.  
-As an action, a character can either pick up an adjacent ally or climb aboard an adjacent ally with Carrier – similarly to [*Swapping*{: .heart-color}](TODO:LINK), both characters can make a *Coordination*{: .heart-color} check to speed this up. With a *Great*{: .great-color } result from both characters, this becomes a free action.  
+As an action, a character can either pick up an adjacent ally or climb aboard an adjacent ally with Carrier – similarly to [*Swapping*{: .heart-color}]({{ "/skills_in_detail#coordination---swapping" | absolute_url }}), both characters can make a *Coordination*{: .heart-color} check to speed this up. With a *Great*{: .great-color } result from both characters, this becomes a free action.  
 During either character's turn, they can split back up as a free action, with the carried character taking up a space adjacent to the carrier. If the carrier is Dazed, Stunned or KO'd, both characters split up immediately.  
 While a character is being carried they move with the carrier, occupy the same space in combat and take their turn after the carrier. They can't be targeted if the carrier is in the way, and likewise, the carrier can't be targeted by attacks if their passenger would block them.  
 If an attack would affect both characters at the same time (e.g. Group, Quake), it hits them as normal.
@@ -68,7 +68,7 @@ Clones can be either Copies or Illusions. Regardless of the style of cloning, th
     Your split clones are illusory, requiring you to make a *Magic*{: .spirit-color } or *Trickery*{: .spirit-color } check as an action to conjure them.  
     You pay *1 FP*{: .spirit-color } for every clone created, and can create up to 1 clone for each Grade of Success. If you attempt to create more with another action, the existing clones dissipate immediately.  
     Each of the illusions are functionally lifeless imitations of the original, with no ability to take actions of their own. On your turn you can direct them to fly around like ghosts and act out actions, and you can perceive things as they would, but they are completely intangible and pass straight through solid matter. Despite their intangible nature, if they would be attacked or otherwise lose *HP*{: .heart-color }, they immediately dissipate.  
-    You can use the clones to effortlessly disguise your own actions as long as you have at least one near you. While doing so, you can [*Dodge*{: .spirit-color }](TODO:LINK) as if Boosted by a Status Level equal to the number of clones near you – however when you do this, each successfully dodged attack causes one of the clones to be hit instead, destroying them.  Maintaining the illusion requires constant concentration; for every turn that passes with your illusory clones active you must choose and attempt one of the following:
+    You can use the clones to effortlessly disguise your own actions as long as you have at least one near you. While doing so, you can [*Dodge*{: .spirit-color }]({{ "/skills_in_detail#trickery---dodging" | absolute_url }}) as if Boosted by a Status Level equal to the number of clones near you – however when you do this, each successfully dodged attack causes one of the clones to be hit instead, destroying them.  Maintaining the illusion requires constant concentration; for every turn that passes with your illusory clones active you must choose and attempt one of the following:
     
     - Pay *1 FP*{: .spirit-color } for every clone still active, and *1 FP*{: .spirit-color } for every turn that's already passed.
     - Make a *Steady*{: .courage-color } check with a Grade of Success for every turn that's already passed.  
@@ -88,7 +88,7 @@ A character with this Trait has an artificial body. They may still have the spar
 
 - Constructs can equip Built-In Gear, which are functionally identical to Gear, but occupy a part of their body as well as their inventory. This Gear is harder to disarm (granting +1d6 to checks to hold onto them), but losing them is bound to cause more problems than normal.
 - Constructs don't need to breathe, and may not even have a mouth, granting them a number of passive immunities in addition to their listed Traits (such as immunity to scent-based effects).
-- Lifelike Constructs (such as Bob-Ombs or Puppets) can, and often need to, eat. However, True Constructs (such as Mechas) can't, preventing them from using Mushrooms, Syrups and other Items. They may still be able to use [Power-Ups](TODO:LINK), though it might take some effort.
+- Lifelike Constructs (such as Bob-Ombs or Puppets) can, and often need to, eat. However, True Constructs (such as Mechas) can't, preventing them from using Mushrooms, Syrups and other Items. They may still be able to use [Power-Ups]({{ "/inventory#power-ups" | absolute_url }}), though it might take some effort.
 - Constructs can't be healed through conventional means; *Crafts*{: .spirit-color } and appropriate tools are required in place of *Heal*{: .heart-color }. They otherwise follow all the standard rules for recovering *HP*{: .heart-color }.  
 Lifelike Constructs can still rest and be healed with *Magic*{: .spirit-color }, though other Constructs need more specific methods (like recharging their batteries) – typically, they can't even recover from resting.
 
@@ -117,8 +117,8 @@ An elevated character struck by an *Aerial*{: .positive-color }, *Launch*{: .pos
 
 A character with an Efficient ability is better at managing their *FP*{: .spirit-color } under specific circumstances. This doesn't affect their standard Techniques in battle, but makes their other uses more cost-effective – especially *Magic*{: .spirit-color } checks.
 - When paying for the cost of an ongoing ability (such as Invisibility), the ability lasts twice as long for each *FP*{: .spirit-color } payment.
-- When casting spells on the fly with *Magic*{: .spirit-color }, they pay less *FP*{: .spirit-color } – for more details, see [*Magic – Spontaneous Spells*{: .spirit-color }](TODO:LINK).
-- When activating the effects of a [Power-Up](TODO:LINK), they pay ½ as much *FP*{: .spirit-color }.
+- When casting spells on the fly with *Magic*{: .spirit-color }, they pay less *FP*{: .spirit-color } – for more details, see [*Magic – Spontaneous Spells*{: .spirit-color }]({{ "/skills_in_detail#magic---spontaneous-spells" | absolute_url }}).
+- When activating the effects of a [Power-Up]({{ "/inventory#power-ups" | absolute_url }}), they pay ½ as much *FP*{: .spirit-color }.
 
 ## Fly
 
@@ -148,7 +148,7 @@ Where applicable, Immune applies before Weakness. If the effect would otherwise 
 ## Intangibility
 
 A character with Intangibility can become solid or intangible as an action.  
-While intangible they appear translucent and are virtually untouchable, effectively making them [Secure](TODO:LINK), though certain methods may affect them or bring them back to a solid state.  
+While intangible they appear translucent and are virtually untouchable, effectively making them [Secure]({{ "/statuses#secure" | absolute_url }}), though certain methods may affect them or bring them back to a solid state.  
 This intangibility can usually be shared with another target, too, though in this case neither character can move or act while intangible.  
 Characters with Intangibility and Invisibility can use them as the same ability, activating and paying for both as if they were one Trait.  
 Generally this ability takes an action to activate, costs *1 FP*{: .spirit-color } per turn, and can't be used under serious stress (such as during combat). Each turn after the first requires more *FP*{: .spirit-color } and a *Steady*{: .courage-color } check, requiring a Grade of Success for each turn that's already passed. If you fail, you become Dazed for 1 turn.  
@@ -156,7 +156,7 @@ If you otherwise take damage or become Dazed or Stunned, you become tangible imm
 
 ## Invisibility
 
-A character with Invisibility can become visible or invisible as an action.   While invisible they are virtually undetectable, effectively making them [Secure](TODO:LINK), though certain methods may reveal their presence.  
+A character with Invisibility can become visible or invisible as an action.   While invisible they are virtually undetectable, effectively making them [Secure]({{ "/statuses#secure" | absolute_url }}), though certain methods may reveal their presence.  
 This invisibility can usually be shared with another target, too, though in this case neither character can move or act while invisible.  
 Characters with Invisibility and Intangibility can use them as the same ability, activating and paying for both as if they were one Trait.  
 Generally this ability takes an action to activate, costs *1 FP*{: .spirit-color } per turn, and can't be used under serious stress (such as during combat). Each minute after the first requires more *FP*{: .spirit-color } and a *Steady*{: .courage-color } check, requiring a Grade of Success for each minute that's already passed. If you fail, you become Dazed for 1 turn.  
@@ -208,7 +208,7 @@ Where applicable, Immune and Weakness overrule Resist.
 A character with this Trait cannot swim in water, at all, though they can walk around at the bottom of the water.  
 If they're Aquatic, they don't risk drowning, and can move comfortably as if they were on dry land.  
 Otherwise, their ability to move (e.g. *Athletics*{: .heart-color }) is hampered, as if they were Weakened (1), and if they need to breathe they may risk drowning.  
-See the rules on [Underwater Terrain](TODO:LINK) for more information.
+See the rules on [Underwater Terrain]({{ "/terrain#underwater" | absolute_url }}) for more information.
 
 ## State
 
@@ -229,5 +229,5 @@ Undead otherwise follow all the standard rules for recovering *HP*{: .heart-colo
 You are vulnerable to a specific type of Technique or attack. You can still *Guard*{: .heart-color } against them, but you don't receive any Defense unless otherwise specified, and are often affected in some other fashion. Usually, this means extra damage, which can't be *Guarded*{: .heart-color } against and gets added onto *all Strikes*{: .underlined } that trigger your Weakness; other effects (such as Statuses) only apply once per attack.  
 If the Technique would bestow a status effect on its own, that still applies even if you prevent the damage – and depending on your Weakness, it might even be worse than usual.  
 In any case, you can't protect against statuses added by the triggering Technique or by your Weakness with *Steady*{: .courage-color }, but you can still reduce their duration through *Steady*{: .courage-color } actions as normal.  
-If you can [*Superguard*{: .heart-color }](TODO:LINK) the initial damage, though, you can ignore the Weakness altogether!  
+If you can [*Superguard*{: .heart-color }]({{ "/skills_in_detail#guard---reducing-damage" | absolute_url }}) the initial damage, though, you can ignore the Weakness altogether!  
 Where applicable, Immune applies before Weakness.

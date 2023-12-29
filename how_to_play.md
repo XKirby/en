@@ -32,13 +32,13 @@ Characters in Paper Story all follow the same general rules. They all have three
 
 In addition, players have some special stats used for combat, which aren't related to the main three stats.
 
-![](assets/images/icons/power.png) ***Power** – your raw combat skill and capacity for dealing damage to foes. The base damage for your [Techniques](TODO:LINK) is determined by your Power. You begin play with 1 Power, unless your Species modifies it.*
+![](assets/images/icons/power.png) ***Power** – your raw combat skill and capacity for dealing damage to foes. The base damage for your [Techniques]({{ "/techniques" | absolute_url }}) is determined by your Power. You begin play with 1 Power, unless your Species modifies it.*
 {: .icon-left }
 
-![](assets/images/icons/attack.png) ***Attack** – how hard you can hit in the heat of the moment. Under most circumstances, your Attack is 0, but it can temporarily go up or down. Every one of your [Strikes](TODO:LINK) are modified by your Attack.*
+![](assets/images/icons/attack.png) ***Attack** – how hard you can hit in the heat of the moment. Under most circumstances, your Attack is 0, but it can temporarily go up or down. Every one of your [Strikes]({{ "/techniques#strikes" | absolute_url }}) are modified by your Attack.*
 {: .icon-left }
 
-![](assets/images/icons/defense.png) ***Defense** – whenever you're struck in combat, you reduce the damage by your Defense. You get your full Defense against all strikes made against you, even if they're made by the same attacker. For most species, your beginning Defense is 0, though this can be improved with [Gear](TODO:LINK).*
+![](assets/images/icons/defense.png) ***Defense** – whenever you're struck in combat, you reduce the damage by your Defense. You get your full Defense against all strikes made against you, even if they're made by the same attacker. For most species, your beginning Defense is 0, though this can be improved with [Gear]({{ "/inventory#gear" | absolute_url }}).*
 {: .icon-left }
 
 Before we go any further, there's just a few more general rules to cover off:
@@ -117,6 +117,6 @@ useful enough to provide any advantage.
 
 ## Partial Bonuses
 
-In some cases you may receive a situational bonus for part – but not all – of your check. Such as a *Guard (VS Ranged)*{: .heart-color } Specialisation, when you're being attacked both in range and in melee, or a [Disoriented](TODO:LINK) enemy, when you're attacking them and their healthy allies at the same time.
+In some cases you may receive a situational bonus for part – but not all – of your check. Such as a *Guard (VS Ranged)*{: .heart-color } Specialisation, when you're being attacked both in range and in melee, or a [Disoriented]({{ "/statuses#disoriented" | absolute_url }}) enemy, when you're attacking them and their healthy allies at the same time.
 
 In these cases, you only receive the benefit if it would apply to *more than half*{: .underlined } of the check (whether that's the number of different targets you're attacking, the number of different attacks you're blocking, or anything else).

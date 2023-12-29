@@ -9,8 +9,9 @@ nav_order: 17
 {: .float-right }
 
 # Exceptional Techniques
+{: .no_toc }
 
-While Techniques start out simple, [Exceptional Results](TODO:LINK) are rewarded here too.
+While Techniques start out simple, [Exceptional Results]({{ "/grades_of_success#exceptional-results" | absolute_url }}) are rewarded here too.
 
 When your Primary or Secondary Check rolls high enough, instead of earning *SP*{: .courage-color }, you can take some of that *SP*{: .courage-color } and spend it on the following options at-will.  
 Critically, you can make Exceptional Techniques even when you wouldn't be able to recover *SP*{: .courage-color } (such as after a Second Wind) – all that matters is if your check is good enough to qualify.
