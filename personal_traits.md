@@ -77,13 +77,15 @@ This can be subjective though, and in some cases up to the character to decide, 
 >    - Make a *Steady*{: .courage-color } check with a Grade of Success for every turn that's already passed.  
 >    
 >    If you fail to do either of the above your illusory clones disappear, though you suffer no other consequences.
-
-![](assets/images/scenes/16.png)
-{: .center-img }
-
-{: .tip-callout }
-> *In the thick of battle, it doesn't matter if your illusions are unconvincing – they just need to distract the enemy for a split second* ![](assets/images/icons/tipguy.png)
-> {: .icon-right }
+> 
+> ![](assets/images/scenes/16.png)
+> {: .center-img }
+> 
+> {: .tip-callout }
+> > *In the thick of battle, it doesn't matter if your illusions are unconvincing – they just need to distract the enemy for a split second* ![](assets/images/icons/tipguy.png)
+> > {: .icon-right }
+> >
+> 
 
 {: .content-callout }
 > ## Construct
@@ -95,13 +97,15 @@ This can be subjective though, and in some cases up to the character to decide, 
 > - Lifelike Constructs (such as Bob-Ombs or Puppets) can, and often need to, eat. However, True Constructs (such as Mechas) can't, preventing them from using Mushrooms, Syrups and other Items. They may still be able to use [Power-Ups]({{ "/inventory#power-ups" | absolute_url }}), though it might take some effort.
 > - Constructs can't be healed through conventional means; *Crafts*{: .spirit-color } and appropriate tools are required in place of *Heal*{: .heart-color }. They otherwise follow all the standard rules for recovering *HP*{: .heart-color }.  
 > Lifelike Constructs can still rest and be healed with *Magic*{: .spirit-color }, though other Constructs need more specific methods (like recharging their batteries) – typically, they can't even recover from resting.
-
-![](assets/images/scenes/17.png)
-{: .center-img }
-
-{: .tip-callout }
-> *Don't feel like you have to play Constructs as soulless automatons if you don't want to. Many Constructs still think – and feel – for themselves.* ![](assets/images/icons/tipguy.png)
-> {: .icon-right }
+> 
+> ![](assets/images/scenes/17.png)
+> {: .center-img }
+> 
+> {: .tip-callout }
+> > *Don't feel like you have to play Constructs as soulless automatons if you don't want to. Many Constructs still think – and feel – for themselves.* ![](assets/images/icons/tipguy.png)
+> > {: .icon-right }
+> >
+>
 
 {: .content-callout }
 > ## Contact
@@ -199,10 +203,12 @@ This can be subjective though, and in some cases up to the character to decide, 
 > - *Unbelievable!*{: .unbelievable-color }: A creature that you have no visual reference for, which may not even exist; it can even be extremely unusual or large. Costs *6 FP*{: .spirit-color } per turn.
 > 
 > Naturally, these transformations are unstable; if you lose focus while transformed (such as by taking damage), you must make a *Steady*{: .courage-color } check, requiring the same Grade of Success as if you were transforming into your current form. On failure, you revert forms on the spot.
-
-{: .tip-callout }
-> *Mimicry is an incredibly powerful Trait. Even investing in it a little bit will allow you to transform into your enemies and allies, expanding your options in and out of battle. And if you get really good at it, you can essentially do anything! It's as open-ended as Magic itself, if you get creative* ![](assets/images/icons/tipguy.png)
-> {: .icon-right }
+>
+> {: .tip-callout }
+> > *Mimicry is an incredibly powerful Trait. Even investing in it a little bit will allow you to transform into your enemies and allies, expanding your options in and out of battle. And if you get really good at it, you can essentially do anything! It's as open-ended as Magic itself, if you get creative* ![](assets/images/icons/tipguy.png)
+> > {: .icon-right }
+> >
+>
 
 {: .content-callout }
 > ## Resilient
