@@ -91,6 +91,9 @@ callouts:
   specie-callout:
     color: beige
     opacity: 1
+  subspecie-callout:
+    color: alt-grey
+    opacity: 1
   specie-pros-callout:
     color: alt-green
     opacity: 1
