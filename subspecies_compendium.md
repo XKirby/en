@@ -130,10 +130,10 @@ Above all else, keep in mind that this is intended to easily put together unique
 > >
 > > Element (Water)  
 > > *+ **Optional**{: .underlined }: Element (Water) on attacks and Indirect or Ranged Techniques*{: .mgl .fs-3 }  
-> > Spillover  
+> > *Spillover*{: .alt-grey-line }  
 > > Terrain  
 > > *Rain or Underwater only; choose during character creation*{: .mgl .fs-3 }  
-> > Weaken (Attack)
+> > *Weaken (Attack)*{: .alt-grey-line }
 > >
 >
 > {: .specie-inner-callout }
@@ -679,7 +679,6 @@ Above all else, keep in mind that this is intended to easily put together unique
 > ![](assets/images/species/sub/flame.png)
 > {: .float-right-desktop }
 > Flame creatures are confident thrill-seekers, but they tend not to worry about the consequences of their actions. Their bravado is legendary, and their reputation precedes them, but they have a tendency to burn bridges wherever they go.
-
 >
 > *e.g. Blargg, Fire Bro*{: .italic }
 >
@@ -719,7 +718,7 @@ Above all else, keep in mind that this is intended to easily put together unique
 > > *Added Tech Defaults*{: .text-gamma .header-font }  
 > >
 > > Element (Fire)  
-> > + *Optional*{: .underlined }: Element (Fire) on attacks and Indirect or Ranged Techniques  
+> > *+ **Optional**{: .underlined }: Element (Fire) on attacks and Indirect or Ranged Techniques*{: .mgl .fs-3 }  
 > > *Lingering x2*{: .alt-grey-line }  
 > > Spillover  
 > > *Terrain (Heatwave or Lava)*{: .alt-grey-line }  
@@ -1462,7 +1461,7 @@ Above all else, keep in mind that this is intended to easily put together unique
 > {: .float-right-desktop }
 > Spiny creatures are covered in spikes, making them stronger and more resilient in battle – although they aren't exactly known for their hospitality. For any warrior, though, being Spiny would be quite the boon; Koopas in particular will go out of their way to acquire spikier shells.
 >
-> *e.g. Koopaling Spiny*{: .italic }
+> *e.g. Koopaling, Spiny*{: .italic }
 >
 > ***+1 Heart**{: .heart-color }, **-1 Courage**{: .courage-color }*{: .text-gamma .header-font }  
 >
@@ -1523,7 +1522,7 @@ Above all else, keep in mind that this is intended to easily put together unique
 > > Clone (Illusions)  
 > > Fly  
 > > Latent (Stone Cap)  
-> > *For **5 FP**{: .spirit-color }: Activate the effect of a Stone Cap, targeting yourself.  
+> > *For **5 FP**{: .spirit-color }: Activate the effect of a Stone Cap, targeting yourself.*{: .mgl .fs-3 }  
 > > Mimicry  
 > > Weakness (Blast, Quake)  
 > > *This Weakness only applies while in a stone form.*{: .mgl .fs-3 }  
