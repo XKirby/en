@@ -149,7 +149,7 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 > ![](assets/images/items/whackabump.png)
 >
 > {: .item-inner-callout }
-> > *Tasty Tonic*{: .fs-6 .header-font }  
+> > *Whacka Bump*{: .fs-6 .header-font }  
 > > *Item*{: .label .item .header-font }*Curative*{: .label .curative .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 200 Coins
 > >
