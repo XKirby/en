@@ -62,6 +62,9 @@ url: "https://paperstoryttrpg.github.io"
 # color_scheme: light
 color_scheme: pm
 aux_links:
+  - name: "Homebrew"
+    url: "https://paperstoryttrpg.github.io/homebrew/"
+    new_tab: true
   - name: "Itch.io"
     url: "https://joy-games.itch.io/paper-story/"
     new_tab: true
