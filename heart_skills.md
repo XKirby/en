@@ -64,6 +64,7 @@ nav_order: 8
 >
 > *Specialisations include: VS Melee, VS Ranged, VS Aerial*{: .italic }
 
+{: .content-callout }
 > ## Heal
 > {: .heart-color }
 > 
