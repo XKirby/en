@@ -1998,7 +1998,7 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > >
 > > After victory, make a *Notice*{: .spirit-color } check.  
 > > You may find more coins that belonged to an enemy, as appropriate.  
-> > *(Roughly 1d6 per Grade of Success)*{ .fs-3 }
+> > *(Roughly 1d6 per Grade of Success)*{: .fs-3 }
 
 {: .item-callout .item-left }
 > ![](assets/images/badges/berserker.png)
