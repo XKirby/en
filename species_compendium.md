@@ -1080,8 +1080,8 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > > > *Rolling Boulder*{: .header-font } (**4 FP**{: .spirit-color })  
 > > > Rolls into melee and bowls enemies over, one by one, hitting up to 4 targets. Strikes get weaker after each target.  
 > > > *Athletics (+ Brawn)*{: .heart-color }:  
-> > > *Good!*{: .good-color }: 3 DMG / 2 DMG / 1 DMG / 1 DMG  
-> > > *Great!*{: .great-color }: 6 DMG / 5 DMG / 4 DMG / 3 DMG  
+> > > *Good!*{: .good-color }: 4 DMG / 3 DMG / 2 DMG / 1 DMG  
+> > > *Great!*{: .great-color }: 8 DMG / 7 DMG / 6 DMG / 5 DMG  
 > > > *Strong x2, Strike-Through x3, Variant (**Athletics**{: .heart-color }), Unwieldy x2*{: .italic }
 > > >
 > >
@@ -3396,7 +3396,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > > > *Good!*{: .good-color }: Disarm Tool (4) for 3 turns  
 > > > *Great!*{: .great-color }: Disarm Tool (5) for 3 turns  
 > > > *Wonderful!*{: .wonderful-color }: Disarm Tool (6) for 3 turns  
-> > > *Disarm (Tool) x6, Auto x2, Overrun, Harmless, Shorten x3*{: .italic }
+> > > *Disarm (Tool) x6, Empower x2, Overrun, Harmless, Shorten x3*{: .italic }
 > > >
 > >
 >
@@ -3483,7 +3483,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
 > >
-> > Disarm  
+> > Disarm x2  
 > > *Launch*{: .alt-grey-line }  
 > > Ranged  
 > > *Variant (**Trickery**{: .spirit-color })*{: .alt-grey-line }  
