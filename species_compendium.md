@@ -1206,7 +1206,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 {: .specie-callout }
 > ## Cleft
 >
-> ![](assets/images/species/cleft)
+> ![](assets/images/species/cleft.png)
 > {: .float-right-desktop }
 > Clefts are truly stoic creatures, made almost entirely of solid stone and virtually indistinguishable from ordinary rocks. They're resilient in the face of most attacks, making them reliable defenders.
 >
@@ -4007,7 +4007,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > {: .float-right-desktop }
 > While the average Toad is passive to a fault, when driven to action they make for stalwart companions and devoted team players. Though as common as they are, the world is full of exceptions.
 >
-> ***+2 Courage**{: .courage-color }, **+1 Heart**{: .heart-color }, **+1 Courage**{: .courage-color }*{: .text-gamma .header-font }  
+> ***+2 Courage**{: .courage-color }, or **+1 Heart**{: .heart-color } and **+1 Courage**{: .courage-color }*{: .text-gamma .header-font }  
 > *1 Power, 0 Defense*{: .text-gamma .header-font }  
 >
 > {: .specie-pros-callout }
