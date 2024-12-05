@@ -510,7 +510,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > > {: .specie-inner-callout }  
 > > > *Outta Sight*{: .header-font } (*0 FP*{: .spirit-color })  
 > > > Hides you and your allies away from attacks.  
-> > > *Trickery (+Evade)*{: .spirit-color }:  
+> > > *Trickery (+Dodge)*{: .spirit-color }:  
 > > > *Nice!*{: .nice-color }: Become Secure for one turn.  
 > > > *Secure, Allies, Harmless*{: .italic }
 > > >
@@ -3822,6 +3822,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > > Weakness (Shadow)  
 > > *You take double damage. If this Technique wouldn't usually deal damage, it deals 2 Piercing damage.*{: .mgl .fs-3 }  
 > > *Your Defense is Weakened (1) for a number of turns equal to the damage taken.*{: .mgl .fs-3 }
+> > Handless
 >
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
@@ -3887,7 +3888,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > {: .specie-cons-callout }
 > > *Cons*{: .text-gamma .header-font }  
 > > Weakness (Air)  
-> > *You must make a **Steady**{: .courage-color } check versus Disorientation, lasting a number of turns equal to the damage taken (mimimum 1 turn).*{: .mgl .fs-3 }  
+> > *You must make a **Steady**{: .courage-color } check versus Disorientation, lasting a number of turns equal to the damage taken (minimum 1 turn).*{: .mgl .fs-3 }  
 > > Weakness (Sudden Light)  
 > > *You are stunned by the light, Dazing you for a turn for each point of damage taken (minimum 1 turn).*{: .mgl .fs-3 }  
 > > Handless
@@ -4445,7 +4446,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > {: .specie-cons-callout }
 > > *Cons*{: .text-gamma .header-font }  
 > > Weakness (Air)  
-> > *You must make a **Steady**{: .courage-color } check versus Disorientation, lasting a number of turns equal to the damage taken (mimimum 1 turn).*{: .mgl .fs-3 }  
+> > *You must make a **Steady**{: .courage-color } check versus Disorientation, lasting a number of turns equal to the damage taken (minimum 1 turn).*{: .mgl .fs-3 }  
 > > Handless
 >
 > {: .specie-inner-callout }
