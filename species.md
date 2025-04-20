@@ -31,7 +31,7 @@ While all the peoples of the Mushroom Kingdom are wildly different, their advant
 > {: .specie-cons-callout }
 > > *Cons*{: .text-gamma .header-font }  
 > > The Traits that a character of that Species have to deal with that are generally less desirable.  
-&emsp;&emsp;*Some Traits, like Weakness, will be described in more detail like this.*{: .fs-3 }
+*Some Traits, like Weakness, will be described in more detail like this.*{: .mgl .fs-3 }
 >
 > {: .specie-inner-callout }
 > > *Other Traits*{: .text-gamma .header-font }  
@@ -40,10 +40,11 @@ Most often this is for Species with a State Trait, which grants them contextual 
 >
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
-> > Sets of Technique Traits a character of that Species can include when they start designing a Technique, without affecting its cost.  
+> > Sets of Technique Traits a character of that Species can include when they start designing an Innate Technique, without affecting its cost.  
 Multiple instances of a Trait are listed as "Trait x2", "Trait x3", and so on.  
 Each Technique can only benefit from one set of Tech Defaults without affecting its cost at a time.  
-Each set of Tech Defaults is set apart by colour and by line.Each Trait in a set is set apart by commas.  
+Each set of Tech Defaults is set apart by colour and by line.  
+Each Trait in a set is set apart by commas.  
 > >
 > > Example Tech 1  
 *Example Tech 2, 2nd part of Tech 2*{: .alt-grey-line }  
@@ -88,10 +89,10 @@ For some of the rarer Species, or those less inclined to adventure – from Toad
 >
 > {: .specie-pros-callout }
 > > *Pros*{: .text-gamma .header-font }  
-> > *+ Athletics (Explode)*{: .heart-color }  
-*+ Crafts (Demolition)*{: .spirit-color }  
-&emsp;&emsp;or *+ Crafts (Explosives)*{: .spirit-color }  
-*+ Crafts (Repairs)*{: .spirit-color }  
+> > *+Athletics (Explode)*{: .heart-color }  
+*+Crafts (Demolition)*{: .spirit-color }  
+*or **+Crafts (Explosives)**{: .spirit-color }*{: .mgl }  
+*+Crafts (Repairs)*{: .spirit-color }  
 Immune (Poison)  
 1 Resist (Ice)  
 Construct (Lifelike)
@@ -109,7 +110,7 @@ Handless
 Ranged  
 *Scaling*{: .alt-grey-line }
 > > 
-> > *Optional*{: .underlined }: Element (Blast) on attacks, or Element (Blast) and Variant (*Athletics*{: .heart-color} - Primary Only) on Indirect attacks
+> > *Optional*{: .underlined }: Element (Blast) on attacks, or Element (Blast) and Variant (*Athletics*{: .heart-color}) on Indirect attacks
 > >
 >
 > {: .specie-inverted-callout }
@@ -153,18 +154,18 @@ Auto: 2 DMG
 >
 > {: .specie-pros-callout }
 > > *Pros*{: .text-gamma .header-font }  
-> > *+ Trickery (Dodge)*{: .spirit-color }  
-*+ Knowhow (Lore)*{: .spirit-color }  
-*+ Bully (Surprises)*{: .courage-color }  
+> > *+Trickery (Dodge)*{: .spirit-color }  
+*+Knowhow (Lore)*{: .spirit-color }  
+*+Bully (Surprises)*{: .courage-color }  
 Immune (Fear, Poison)  
 Immune (Shadow)  
 *You recover **HP**{: .heart-color } equal to the attack's damage (minimum **1 HP**{: .heart-color }).*{: .mgl .fs-3 }  
 *If there's any excess **HP**{: .heart-color }, your Attack is Boosted (1) for a number of turns equal to the excess **HP**{: .heart-color }.*{: .mgl .fs-3 }  
-Clone (Illusions)  
 Hover  
 Fly  
 Intangibility  
 Invisibility  
+Mirage  
 Undead (Lifelike)
 >
 > {: .specie-cons-callout }
@@ -172,7 +173,8 @@ Undead (Lifelike)
 > > Weakness (Life Magic, Sudden Light, Stars)  
 *Any **HP**{: .heart-color } you would normally recover is treated as damage instead; then, you take double damage.*{: .mgl .fs-3 }  
 *If this Technique wouldn't usually deal damage, it deals 2 Piercing damage.*{: .mgl .fs-3 }  
-*You're left Dazed (1) for a number of turns equal to the damage taken.*{: .mgl .fs-3 }
+*You're left Dazed (1) for a number of turns equal to the damage taken.*{: .mgl .fs-3 }  
+Legless
 >
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
@@ -226,12 +228,12 @@ Hides you and your allies away from attacks.
 >
 > {: .specie-pros-callout }
 > > *Pros*{: .text-gamma .header-font }  
-> > *+ Athletics (Run)*{: .heart-color }  
-*+ Cheer (FP)*{: .courage-color }  
-*+ Perform (Sing)*{: .courage-color }  
+> > *+Athletics (Run)*{: .heart-color }  
+*+Cheer (FP)*{: .courage-color }  
+*+Perform (Sing)*{: .courage-color }  
 Immune (Water)  
 *You heal **5 HP**{: .heart-color } instead.*{: .mgl .fs-3 }  
-1 Resist (Earth, Shock)
+1 Resist (Earth, Quake, Shock)
 >
 > {: .specie-cons-callout }
 > > *Cons*{: .text-gamma .header-font }  
@@ -247,8 +249,9 @@ Weakness (Fire)
 Flowery  
 *Variant (**Perform**{: .courage-color })*{: .alt-grey-line }
 > > 
-> > *Optional*{: .underlined }: Split on Flowery Techniques  
-***Optional**{: .underlined }: Element (Earth) on melee attacks*{: .alt-grey-line }
+> > *Optional*{: .underlined }: Add a single Split Slot on Flowery Techniques; it can't contain Strikes,  
+*or*{: .italic .underlined } Ranged on Techniques with Variant (*Perform*{: .courage-color }),  
+*or*{: .italic .underlined } Element (Earth) on melee attacks.
 > >
 >
 > {: .specie-inverted-callout }
@@ -295,9 +298,9 @@ Targeted singing puts the target to sleep while dealing damage.
 >
 > {: .specie-pros-callout }
 > > *Pros*{: .text-gamma .header-font }  
-> > *+ Athletics (Jump)*{: .heart-color }  
-*+ Knowhow (Battle)*{: .spirit-color }  
-*+ Cheer (Aggression)*{: .courage-color }
+> > *+Athletics (Jump)*{: .heart-color }  
+*+Knowhow (Battle)*{: .spirit-color }  
+*+Cheer (Aggression)*{: .courage-color }
 >
 > {: .specie-cons-callout }
 > > *Cons*{: .text-gamma .header-font }  
@@ -354,10 +357,10 @@ Often associated with Bowser's armies in the past, these days there are many pea
 >
 > {: .specie-pros-callout }
 > > *Pros*{: .text-gamma .header-font }  
-> > *+ Athletics (Shells)*{: .heart-color }  
-&emsp;&emsp;or *+ Athletics (Swim)*{: .heart-color }  
-*+ Guard (Melee)*{: .heart-color }  
-*+ Steady (VS Weaken)*{: .courage-color }  
+> > *+Athletics (Shells)*{: .heart-color }  
+*or **+Athletics (Swim)**{: .heart-color }*{: .mgl }  
+*+Guard (Melee)*{: .heart-color }  
+*+Steady (VS Weaken)*{: .courage-color }  
 1 Resist (Water)
 >
 > {: .specie-cons-callout }
@@ -373,7 +376,7 @@ Often associated with Bowser's armies in the past, these days there are many pea
 Indirect  
 *Overrun*{: .alt-grey-line }
 > > 
-> > *Optional*{: .underlined }: Variant (*Athletics*{: .heart-color } - Primary Only) on Indirect attacks
+> > *Optional*{: .underlined }: Variant (*Athletics*{: .heart-color }) on Indirect attacks
 > >
 >
 > {: .specie-inverted-callout }
@@ -416,9 +419,9 @@ Bolsters the target's Defense with a borrowed shell.
 >
 > {: .specie-pros-callout }
 > > *Pros*{: .text-gamma .header-font }  
-> > *+ Notice (Scent)*{: .spirit-color }  
-*+ Trickery (Stealth **or**{: .italic } Theft)*{: .spirit-color }  
-*+ Persuade (Smooth Talk)*{: .courage-color }  
+> > *+Notice (Scent)*{: .spirit-color }  
+*+Trickery (Stealth **or**{: .italic } Theft)*{: .spirit-color }  
+*+Persuade (Smooth Talk)*{: .courage-color }  
 Immune (Charm)
 >
 > {: .specie-cons-callout }

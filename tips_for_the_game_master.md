@@ -72,7 +72,7 @@ Keep in mind these are rough estimates, as many Star Power Techniques don't fit 
 > >
 > > Restore all allies' *HP*{: .heart-color } and *FP*{: .spirit-color } by 5, and cures all status conditions. Affects the user, too.  
 > > *Allies, Hearty x3, Flowery x3, Dismiss, Harmless*{: .fs-3 .italic }  
-> > *Equivalent: **11 FP**{: .spirit-color }*{: .fs-3 .italic }
+> > *Equivalent: **10 FP**{: .spirit-color }*{: .fs-3 .italic }
 
 {: .item-callout .item-left }
 > ![](assets/images/stars/mamar.png)
@@ -112,7 +112,7 @@ Keep in mind these are rough estimates, as many Star Power Techniques don't fit 
 > >
 > > Reduces the Attack of all targets outside the user's group by -3, for 3 turns.  
 > > *All, Safe, Weaken (Attack) x3, Harmless*{: .fs-3 .italic }  
-> > *Equivalent: **7 FP**{: .spirit-color }*{: .fs-3 .italic }
+> > *Equivalent: **8 FP**{: .spirit-color }*{: .fs-3 .italic }
 
 {: .item-callout .item-left }
 > ![](assets/images/stars/misstar.png)
@@ -139,7 +139,7 @@ Keep in mind these are rough estimates, as many Star Power Techniques don't fit 
 > > Attempts to freeze all targets outside the user's group in time, Stunning them at Status Level 5.  
 > > The user makes a *Magic*{: .spirit-color } or *Cheer*{: .courage-color } check; for each Grade of Success, targets are completely Stunned (6) for a turn, to a maximum of 5 turns.  
 > > *All, Safe, Stun x5 (Stronger Variant), Harmless*{: .fs-3 .italic }  
-> > *Equivalent: **12 FP**{: .spirit-color }*{: .fs-3 .italic }
+> > *Equivalent: **10 FP**{: .spirit-color }*{: .fs-3 .italic }
 
 {: .item-callout .item-left }
 > ![](assets/images/stars/kalmar.png)
@@ -168,7 +168,7 @@ Keep in mind these are rough estimates, as many Star Power Techniques don't fit 
 > >
 > > The user can remove all positive conditions (e.g. Boost, Counter, Secure) and magic effects (e.g. Invisibility, Flight) from all combatants in the target group.  
 > > *Group, Harmless, Dismiss*{: .fs-3 .italic }  
-> > *Equivalent: **3 FP**{: .spirit-color }*{: .fs-3 .italic }
+> > *Equivalent: **4 FP**{: .spirit-color }*{: .fs-3 .italic }
 
 ## Simplified Rules
 
@@ -267,8 +267,7 @@ In any case, it's not as flexible as standard play, and is only recommended for 
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
 > >
-> > -1 Attack.  
-> > When your attacks deal damage, you can restore *1 HP*{: .heart-color } for yourself or an ally.
+> > Bestows -1 Attack, but when a strike you make would deal damage to one or more targets, you can restore *1 HP*{: .heart-color } for yourself or an ally.
 
 {: .item-callout .item-left }
 > ![](assets/images/badges/laststand.png)
@@ -279,7 +278,8 @@ In any case, it's not as flexible as standard play, and is only recommended for 
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
 > >
-> > You can still act until you lose *6 or more HP*{: .heart-color }.
+> > You can still act while injured, up until you lose *6 or more HP*{: .heart-color }.  
+> > While injured, incoming attacks deal half as much raw damage.
 
 {: .item-callout .item-left }
 > ![](assets/images/badges/closecall.png)
@@ -290,7 +290,7 @@ In any case, it's not as flexible as standard play, and is only recommended for 
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
 > >
-> > While suffering from damage, you can attempt to *Dodge*{: .spirit-color } before you *Block*{: .heart-color }, and you have +1d6 to *Dodge*{: .spirit-color } checks.
+> > While suffering from damage, you can attempt to *Dodge*{: .spirit-color } before you *Guard*{: .heart-color }, and you have +1d6 to *Dodge*{: .spirit-color } checks.
 
 {: .item-callout .item-left }
 > ![](assets/images/badges/heartfinder.png)
@@ -301,7 +301,7 @@ In any case, it's not as flexible as standard play, and is only recommended for 
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 3 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
 > >
-> > When an ally takes damage, you can make a *Heal*{: .heart-color } check targeting them as a free action.
+> > When an ally takes damage, you can make a *[First Aid]({{ "/skills_in_detail#heal---first-aid" | absolute_url }})*{: .heart-color } check targeting them as a free action.
 
 ## True and Honest Paper Mario
 

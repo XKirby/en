@@ -31,26 +31,29 @@ At the end of the players' turns, each enemy group takes their actions in sequen
 
 Before most combats, all players have to roll Initiative to see how quickly they react – in other words, who gets a First Strike.
 
-Typically this check depends on *Athletics*{: .heart-color }, but *Trickery*{: .spirit-color }, Notice or other checks may be more appropriate, depending on how the fight begins.  
+Typically this check depends on *Athletics*{: .heart-color }, but *Trickery*{: .spirit-color }, *Notice*{: .spirit-color } or other checks may be more appropriate, depending on how the fight begins.  
 Usually, all players act in the same group, but sometimes you might have multiple players working independently – or fighting it out.  
 Whichever group of players gets the most Grades of Success collectively goes first; if all player groups are tied, then the GM has to make a decision. In any case, enemies never move ahead of the players.
 
-If a player gets a *Great*{: .great-color } result, they can act in the Surprise Round, allowing them to use one Technique before turns are declared.  
-Generally this free attack cannot target more than one enemy and cannot cost *FP*{: .spirit-color }, but can target foes that would normally be out of range.
+If a player gets a *Great!*{: .great-color } result, they can act in the Surprise Round, allowing them to strike quickly in the chaos before battle lines are drawn! They can freely target any one enemy, even if they'd normally be out of range.  
+They can use one Innate or Geat Technique before turns are declared, treating the result of their initiative check as their Primary Check; if that Technique would require a Secondary Check, that has to be rolled as normal.
 
-On the other hand if a player fails their Initiative check, an enemy can make an attack against them in the Surprise Round, even if they would normally be out of range. However, the same enemy cannot make multiple attacks in the Surprise Round.
+In most cases your First Strike can't target more than one enemy, and can't cost *FP*{: .spirit-color }, *SP*{: .courage-color } or equivalent (in the case of *Alt-Cost*{: .positive } Techniques. If the Technique would normally affect multiple targets, its effects are limited to one target.
+
+On the other hand if a player *fails*{: .underlined } their Initiative check, an enemy can make an attack against them in the Surprise Round - even if they would normally be out of range.  
+The same enemy cannot make multiple attacks in the Surprise Round.
 
 The Surprise Round isn't counted as a full round, and while players can act during it and get to react to damage, this isn't considered a "turn" in the traditional sense. So [Statuses]({{ "/statuses" | absolute_url }}) and other durations aren't affected by the Surprise Round.
 
 ## Free Actions and Reactions
 
 When the chips are down, players generally can't carry out more than one action on their turn. But there are cases where taking action is so straightforward, they don't have to think about it.  
-Whenever something calls for a reaction (such as *[Blocking]({{ "/skills_in_detail#guard---reducing-damage" | absolute_url }})*{: .heart-color }), or a free action (such as [Charming]({{ "/example_of_play" | absolute_url }}) foes), players can carry it out and make any rolls necessary without using up their own actions. 
+Whenever something calls for a reaction (such as *[Guarding]({{ "/skills_in_detail#guard---guarding-reactively" | absolute_url }})*{: .heart-color }), or a free action (such as [Charming]({{ "/example_of_play" | absolute_url }}) foes), players can carry it out and make any rolls necessary without using up their own actions. 
 
 ## Targeting
 
 When targeting someone with a [Technique]({{ "/techniques" | absolute_url }}) or an [Item]({{ "/inventory#items" | absolute_url }}), the first thing you need to consider is if they're an eligible target.  
-Generally, attacks are made in melee range. Line up your groups and imagine a line between yourself and the target – if there are no enemies in between you, you're in melee range and good to go!
+Most attacks are made in melee range. Line up your groups and imagine a line between yourself and the target – if there are no enemies in between you, you're in melee range and good to go!
 
 If however a target is Flying or otherwise out of reach, they can't be targeted in melee and will generally require *Ranged*{: .spirit-color }, *Reach*{: .spirit-color } or *Aerial*{: .spirit-color } Techniques. The good news is they're not able to block you off from other targets.
 
@@ -63,10 +66,7 @@ The same general rules apply to players – if you want to protect your teammate
 
 Eventually, you're bound to take damage in a fight – you may even drop down to *0 HP*{: .heart-color } and be knocked out!
 
-Whenever you would deal damage with an attack, if it has an apporpriate number of successes, it will always deal at least 1 damage.
-This includes mult-target attacks, Sequential, Repeat, etc., and also if your attack is made with 0 Power.
-
-While you're at *0 HP*{: .heart-color } you're KO'd, and you can't really do anything; you can't block attackers from targeting allies behind you in melee, and you can't take actions on your turn.
+Once you have *0 HP*{: .heart-color } you're KO'd, and you can't really do anything; you can't block attackers from targeting allies behind you in melee, and you can't take actions on your turn.
 
 Healing effects work like normal, but even if you restore your *HP*{: .heart-color }, you're still KO'd. But Life Shrooms, *Revive*{: .spirit-color } and similar effects can perk you up and get you back into the fight, immediately!  
 If your turn would have passed by the time you get revived, you can take your turn immediately after revival.

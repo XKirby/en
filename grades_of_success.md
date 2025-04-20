@@ -43,6 +43,12 @@ In the event of a tie, compare the relevant Stat for each tied player and the hi
 
 ## Exceptional Results
 
-High rolls are always worthwhile, as the Stars bestow their blessing on exceptional individuals. As long as your check succeeds, *Great*{: .great-color } results earn *1 SP*{: .courage-color }, *Wonderful*{: .wonderful-color } results earn *2 SP*{: .courage-color }, *Excellent*{: .excellent-color } results earn *5 SP*{: .courage-color } and *Unbelievable*{: .unbielevable-color } results earn a whopping *10 SP*{: .courage-color }!
+High rolls are always worthwhile, as the Stars bestow their blessing on exceptional individuals. As long as your check succeeds, you receive *SP*{: .courage-color } based on the total Grades of Success you rolled. As long as you rolled dice for your check, and it's otherwise successful:
+- *Great*{: .great-color } results earn *1 SP*{: .courage-color }!
+- *Wonderful*{: .wonderful-color } results earn *2 SP*{: .courage-color }!
+- *Excellent*{: .excellent-color } results earn *5 SP*{: .courage-color }!
+- *Unbelievable*{: .unbielevable-color } results earn a whopping *10 SP*{: .courage-color }!
 
-Be mindful though that if you spend, earn or restore any *SP*{: .courage-color } during the check, you can't earn any more *SP*{: .courage-color } in the process.
+Be mindful though that if you spend, earn or restore any *SP*{: .courage-color } during the check, you can't earn any more *SP*{: .courage-color } in the process!
+
+In any case Techniques can still spend that *SP*{: .courage-color } on *Exceptional Technique*{: .courage-color .underlined } results, even if you can't otherwise add the *SP*{: .courage-color } earned to your pool.

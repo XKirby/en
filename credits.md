@@ -21,10 +21,11 @@ Paper Mario, Mario and all related properties are a trademark of Nintendo. Ninte
 - [HammerBro101](https://www.deviantart.com/hammerbro101) for their work on the font *Mario Font v3 Solid*{: .header-font } which Paper Story borrows for its headers.
 
 - All of the *Wonderful*{: .heart-color } *@Players*{: .courage-color } playing along and providing great feedback on [Discord](https://discord.gg/AUQJmKH5pf). Special mention to:
-    - *@afanguy*{: .courage-color } for their incredible work on the Avrae dice bot we use to represent the nudge system.
-    - *@lucydndprincess*{: .courage-color } for their exhaustive homebrew content and consistently running excellent games for everyone to enjoy.
+    - *@lucydndprincess*{: .courage-color }, *@bigmeatyflaws*{: .courage-color }, and *@mei.vongola* for all their contributions, including Lucy and Flaws' exhaustive homebrew content, Mei's extraordinary work on the wiki and generally being extremely supportive.
+	- *@afanguy*{: .courage-color } for their incredible work on the Avrae dice bot we use to represent the nudge system.
     - *@RT1337*{: .courage-color } and *@tact.elive*{: .courage-color } for playing along in the early days, which helped immensely and inspired me to keep this up.
     - Emily, Matt and Trent, for supporting (and putting up with) this silly little passion of mine.
+	- Matilda, who I can't wait to share this world with.
 
 Always remember, Paper Story is a free product and 100% open source for you, 
 the fans, to enjoy.

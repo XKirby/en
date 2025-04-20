@@ -17,7 +17,7 @@ nav_order: 15
 {:toc}
 </details>
 
-Techniques are the myriad ways a character acts in combat, most often by attacking.
+Techniques are the myriad ways a character acts in combat, most often by attacking. Mostly characters get by with their Innate Techniques, which they learn over time, but they can access even more Techniques through [Gear]({{ "/inventory#gear" | absolute_url }}), [Badges]({{ "/inventory#badges" | absolute_url }}), *[Magic]({{ "/spirit_skills#magic" | absolute_url }})*{: .spirit-color }, and even *[Star Power]({{ "/star_power" | absolute_url }})*{: .courage-color }!
 
 By default, all Techniques start from the same template:
 
@@ -49,8 +49,7 @@ A Technique can divide its potential damage up into any number of strikes.
 {: .content-callout }
 > ### Single-Strike  
 > Single-Strike attacks can hit one target solidly, dealing [Power] in DMG at a minimum, or [2 x Power] with an additional Grade of Success.  
-> Single-Strike attacks hit with more force up-front; as long as they score that additional Grade of Success, and the overall attack would only damage one target, they treat the user's positive Attack modifiers as doubled, and always treat their base damage before Attack as at least 1 (regardless of the user's Power).  
-> While Single-Strike attacks can be made to hit additional targets with Traits like *Burst*{: .spirit-color } or *Strike-Through*{: .spirit-color }, this gives up some of the raw power.
+> Single-Strike attacks hit with more force up-front, so regardless of the user's Power, a maximum result always deals at least 1 raw damage. Better yet, if they score a maximum result and *only*{: .underlined } have one target, they treat the user's positive Attack modifiers as doubled!
 
 {: .content-callout }
 > ### Multi-Strike  
@@ -70,21 +69,21 @@ Taking damage at any point during an attack (such as from a Contact Trait) inter
 
 When defining your Techniques you have a wide variety of Traits to modify them with, which either increase or decrease the Technique's final *FP*{: .spirit-color } cost. If this reduces your *FP*{: .spirit-color } cost to 0 or less, the Technique doesn't cost any *FP*{: .spirit-color }.
 
-Your Species' Tech Defaults are especially useful here – you can add on one of your Tech Default sets without modifying the *FP*{: .spirit-color } cost at all!  
+Tech Defaults are especially useful here – you can add on one of your available Tech Default sets without modifying the *FP*{: .spirit-color } cost at all!  
 Any Optional Tech Defaults which would apply can be added on as well without *FP*{: .spirit-color }.  
 Required Tech Defaults *must*{: .underlined } be added where they would apply, and don't modify *FP*{: .spirit-color }.
-Tech Defaults can only save FP once across the entirety of a Technique. This applies even to random slots in traits like Roulette, which would otherwise calculate FP separately.
 
-Generally you can only take a Trait once, with different forms of the Trait (e.g. different elements) counting as separate distinct Traits.  
-While you can stack as many Traits on a Technique as you please, there are limits to how much *FP*{: .spirit-color } you can save with negative Traits. You can only save *FP*{: .spirit-color } from a number of Traits equal to your level.  
+Some Traits can be taken multiple times, layering together to enhance their effects. If two instances of the same Trait have different qualities (e.g. different elements, or targeted stats), count them as separate Traits.  
+While you can stack as many Traits on a Technique as you please, there are limits to how much *FP*{: .spirit-color } you can save with negative Traits. You can only save *FP*{: .spirit-color } from 3 Traits at a time, plus one more Trait for every 2 of your levels.  
 Any other negative Traits you add contribute to the overall Technique's effect, but don't modify *FP*{: .spirit-color } at all.
 
 {: .example-callout}
 > *Example: Negative Traits*{: .header-font }
 >
 > A level 1 Buzzy Beetle wants to begin play with a powerful *0 FP*{: .spirit-color } attack.
-> They could add Strong for *2 FP*{: .spirit-color }, and offset it with Unwieldy, for a powerful – but inaccurate – melee attack.
-> They could add more negative Traits, but since they can only save *FP*{: .spirit-color } from one Trait at a time, they decide to leave it there to start with.
+> They could add Strong for *2 FP*{: .spirit-color }, Overrun for *3 FP*{: .spirit-color }, and Divider for *3 FP*{: .spirit-color }, allowing them to cleave through a group of foes and break their formation apart. *8 FP*{: .spirit-color } is a lot to swallow, though. They can use up to 3 negative Traits to try and mitigate this cost.
+> After much deliberation, they decide on Exhausting (*-4 FP*{: .spirit-color }), Penalty (*-2 FP*{: .spirit-color }), and Unwieldy (*-2 FP*{: .spirit-color }), giving them an all-or-nothing attack that's difficult to execute, and leaves them Dazed afterwards.
+> They could add more negative Traits if they really wanted, but they wouldn't be able to save any more *FP*{: .spirit-color } from those Traits.
 
 While you can describe a Technique in shorthand by referring to its Traits, in practice it's better to write out the full effect for your own reference – you may not always remember that a Piercing attack ignores Defense, or you may need to record how your Boost Technique works at different Grades of Success.
 
@@ -131,6 +130,13 @@ Some Traits have similar functions which are referred to in shorthand, explained
 > This Trait features a random element. Multiple [Random] Traits can't be taken at once, unless otherwise specified.
 > Random traits can only benefit from a number of negative traits equal to your character level.
 
+{: .content-callout }
+> ### [Slots]
+>
+> This Trait includes Technique Slots, a smaller compartmentalised collection of Technique Traits. The exact number and nature of these slots depends on the Technique Trait.
+> Unless otherwise specified, Technique Slots calculate their *FP cost*{: .spirit-color } separately from the overall Technique; rather than paying the *FP cost*{: .spirit-color } of the slot, it's used to determine the Technique's *FP cost*{: .spirit-color }.
+> When calculated in this way, each individual Technique Slot can benefit from the same number of negative Traits that the Technique itself would, but can't benefit from any Tech Defaults.
+
 ## Positive Technique Traits
 
 {: .content-callout }
@@ -153,17 +159,28 @@ Some Traits have similar functions which are referred to in shorthand, explained
 > This Technique affects all of the user's allies, but not themselves. At the user's option this can also include the *Indirect*{: .positive-color } Trait for no additional cost.
 
 {: .content-callout }
-> ### *Alternative*{: .positive-color} *(+2 FP)*{: .spirit-color }
+> ### *Alt-Cost*{: .positive-color} *(+2 FP)*{: .spirit-color }
 >
 > Choose *HP*{: .heart-color }, *SP*{: .courage-color } or Coins:
 > - *HP*{: .heart-color }: This Technique spends *HP*{: .heart-color } instead of *FP*{: .spirit-color }. It can't recover *HP*{: .heart-color }, and can't be combined with *Blowback*{: .negative-color } or varieties of *Self*{: .negative-color } that deal damage to the user.
 > - *SP*{: .courage-color }: This Technique spends *SP*{: .courage-color } instead of *FP*{: .spirit-color }. It can't recover *SP*{: .courage-color }, even through [Exceptional Results]({{ "/grades_of_success#exceptional-results" | absolute_url }}) (though [Exceptional Techniques]({{ "/exceptional_techniques" | absolute_url }}) are still possible).
 > - Coins: This Technique spends 5 Coins for every *1 FP*{: .spirit-color } it would cost. It can't steal Coins through *Snatch*{: .positive-color }, and can't cover an equivalent cost of more than *10 FP*{: .spirit-color } (for 50 Coins).
 >
-> The effective *FP*{: .spirit-color } cost can't be reduced lower than *1 FP*{: .spirit-color } by negative Traits while using *Alternative*{: .positive-color }.
+> The effective *FP*{: .spirit-color } cost can't be reduced lower than *1 FP*{: .spirit-color } by negative Traits while using *Alt-Cost*{: .positive-color }.
 
 {: .content-callout }
-> ### *Boost*{: .positive-color} *(+2 FP)*{: .spirit-color } [Secondary - *Cheer*{: .courage-color }/*Magic*{: .spirit-color }] [X]
+> ### *Bestow*{: .positive-color} *(+2 FP)*{: .spirit-color } [Secondary - *Bully*{: .courage-color }/*Cheer*{: .courage-color }/*Knowhow*{: .spirit-color }/*Magic*{: .spirit-color }/*Trickery*{: .spirit-color }] [X]
+>
+> The target temporarily acquires a [Personal Trait]({{ "/personal_traits" | absolute_url }}) of your choice, as if they were *[Enchanted]({{ "/skills_in_detail#magic---spontaneous-spells" | absolute_url }})*, lasting for [X] turns. The exact Personal Traits added by this Trait are decided when this Trait is bought, and any special effects (such as an added Weakness) should be in line with similar effects.
+> If the Trait requires an action or check to activate (such as to take flight with Fly), it uses your action, and the results of your Secondary Check.
+> Numerical values of the Trait (e.g. Resist, Contact damage, Status Level) are all set to 1, even if they would normally be higher.
+> For every additional Grade of Success, increase those numerical values by 1, to a maximum of [X].
+> The target must pay *FP costs*{: .spirit-color } for their Traits as normal.
+> If this Technique doesn't have *Variant*{: .positive-color }, and it uses *Cheer*{: .courage-color } for its skill check, this effect can only be used to add positive Traits to allies (e.g. Fly).
+> Otherwise, if it doesn't have *Variant*{: .positive-color }, and it uses *Bully*{: .courage-color } or *Trickery*{: .spirit-color } for its skill check, this effect can only be used on enemies to add negative Traits (e.g. Weakness).
+
+{: .content-callout }
+> ### *Boost*{: .positive-color} *(+2 FP)*{: .spirit-color } [Secondary - *Cheer*{: .courage-color }/*Heal*{: .heart-color}/*Magic*{: .spirit-color }] [X]
 >
 > The target's abilities are [Boosted]({{ "/statuses#boosted" | absolute_url }}) for [X] turns – the exact abilities affected by the Boost are decided when this Trait is bought.  
 > For every additional Grade of Success, increase the Status Level by 1, to a maximum of [X].  
@@ -182,9 +199,10 @@ Some Traits have similar functions which are referred to in shorthand, explained
 {: .content-callout }
 > ### *Burst*{: .positive-color} *(+2 FP)*{: .spirit-color } [Strikes] [Target] [X]
 > 
-> This Technique acts as a Single-Strike Technique on the initial target, then repeats on up to [X] valid targets in front of them, and up to [X] valid targets behind them, ignoring elevation.
-> 
-> Each subsequent attack deals -1 damage (to a minimum of 1), calculated for each direction separately.
+> This attack bursts either side of its initial target, reaching to strike the next [X] additional targets in front of them and the next [X] additional targets behind them, regardless of their elevation.
+> The first target takes damage equal to [Power]. Like with a Single-Strike Technique, earning an additional Grade of Success instead deals damage equal to [2 x Power] (or 1 damage, if the Technique has 0 Power).
+> Each new strike in either direction deals 1 less raw damage than the last; this can't reduce the raw damage below 0, so as long as the first strike could deal damage, the rest will deal at least 1 raw damage.
+> If it has no other element, the user can optionally give this Technique *Element (Blast)*{: .positive-color }.
 
 {: .content-callout }
 > ### *Charm*{: .positive-color} *(+2 FP)*{: .spirit-color } [Secondary - *Magic*{: .spirit-color}/*Persuade*{: .courage-color }/*Trickery*{: .spirit-color }] [X]
@@ -198,13 +216,11 @@ Some Traits have similar functions which are referred to in shorthand, explained
 >
 
 {: .content-callout }
-> ### *Coin Toss*{: .positive-color} *(+? FP)*{: .spirit-color } [Random]
+> ### *Coin Toss*{: .positive-color} *(+? FP)*{: .spirit-color } [Random] [Slots]
 > 
-> This Technique has 2 different Coin Slots made up of Technique Traits, each assigned either Heads or Tails.
+> This Technique has 2 different Technique Slots, each assigned either Heads or Tails.
 >
 > When you use this Technique, flip a coin. Only the Slot whose side comes up is active for this use of the Technique, and the other Slot's Traits are ignored.  
-> Each Coin Slot can include any number of Technique Traits, with their *FP cost*{: .spirit-color } calculated separately from your own Technique, including all of their negative Traits.  
-> The two Coin Slots must be different from one another in some way.  
 > The overall *FP cost*{: .spirit-color } Coin Toss adds to your Technique is equal to the sum of the following:
 >
 > - ½ of the highest positive *FP cost*{: .spirit-color } in both Coin Slots.
@@ -219,17 +235,16 @@ Some Traits have similar functions which are referred to in shorthand, explained
 > >
 > > A gambling Shy Guy spins into a wild, uncontrolled kick!  
 > > Essentially, they flip a coin; if it comes up Heads, they can add Strong to their kick! If it comes up Tails, though, they Exhaust themselves instead.  
-> > On the Heads side, Strong would normally cost *2 FP*{: .spirit-color }, so they add ½ that for *+1 FP*{: .spirit-color } to the cost.  
-> > Looking at Tails though, Exhausting would save *-4 FP*{: .spirit-color }; so they take ½ that away, for *-2 FP*{: .spirit-color }.  
+> > With Heads, Strong would normally cost *2 FP*{: .spirit-color }, so they add ½ that for *+1 FP*{: .spirit-color } to the cost.  
+> > With Tails, Exhausting would save *-4 FP*{: .spirit-color }; so they take ½ that away, for *-2 FP*{: .spirit-color }.  
 > > Both sides have the same number of Traits, so they add *+1 FP*{: .spirit-color } for 1 Trait.  
-> > The gambler's kick is so risky, it would actually work out to *0 FP*{: .spirit-color } overall!
+> > The gambler's kick is so risky, it works out to *0 FP*{: .spirit-color } overall!
 > 
 
 {: .content-callout }
 > ### *Counter*{: .positive-color} *(+3 FP)*{: .spirit-color }
 > 
 > This Technique's Primary Check defaults to either *Athletics*{: .heart-color } or *Steady*{: .courage-color }.
-> 
 > Instead of the usual effect of this Technique, the target gains the qualities of this Technique (excluding *Counter*{: .positive-color }, [Approach] and [Target] traits) as a [Contact]({{ "/personal_traits#contact" | absolute_url }}) Trait, either through some direct hazard or a counter-attack from the original user.  
 > This Contact Trait lasts for 1 turn for each Grade of Success.  
 > When the Contact Trait is triggered, it automatically succeeds and targets the attacker (ignoring their own Contact traits) with the same number of Grades of Success as the original user's Primary Check.  
@@ -257,10 +272,10 @@ Some Traits have similar functions which are referred to in shorthand, explained
 > ### *Dismiss*{: .positive-color} *(+2 FP)*{: .spirit-color } [Secondary - *Bully*{: .courage-color }/*Heal*{: .heart-color }/*Magic*{: .spirit-color }/*Trickery*{: .spirit-color }]
 >
 > For each Grade of Success, the user can choose one of the target's Statuses, their current Power-Up or a temporary Terrain affecting them.
-> 
 > - Statuses or Terrain: Reduce duration by -1 for each Grade of Success this Technique earned overall.
 > - Power-Up: The target must try to hold onto their Power-Up, as if they took damage; their check requires an additional Grade of Success for each Grade of Success this Secondary Check earned overall.
-> - Dismiss effects using Heal can only reduce negative Statuses, while Bully/Trickery can only reduce positive Statuses.
+> If this Technique doesn't have *Variant*{: .positive-color }, and it uses *Heal*{: .heart-color } for its skill check, this effect can only be used to remove negative effects from allies (e.g. Weaken, debilitating Terrain).
+> Otherwise, if it doesn't have *Variant*{: .positive-color }, and it uses *Bully*{: .courage-color } or *Trickery*{: .spirit-color } for its skill check, this effect can only be used on enemies to remove positive effects (e.g. Boost, Power-Ups, enhancing Terrain).
 
 {: .content-callout }
 > ### *Disorient*{: .positive-color} *(+2 FP)*{: .spirit-color } [Secondary - *Bully*{: .courage-color }/*Magic*{: .spirit-color }/*Trickery*{: .spirit-color }] [X]
@@ -276,9 +291,9 @@ Some Traits have similar functions which are referred to in shorthand, explained
 > If multiple targets are divided into the same group, they maintain their relative position and turn order in the new group.
 
 {: .content-callout }
-> ### *Drain*{: .positive-color} *(+1 FP)*{: .spirit-color } [X]
+> ### *Drain*{: .positive-color} *(+3 FP)*{: .spirit-color } [X - Cap 2]
 > 
-> This attack heals the user an amount equal to the total damage dealt, up to a maximum of *[XX] HP*{: .heart-color }.
+> This attack heals the user an amount of *HP*{: .heart=color } equal to ½ the damage dealt to *one*{: .underlined } of its targets; If [X] is 2, it heals that amount in *HP*{: .heart-color } instead.
 
 {: .content-callout }
 > ### *Element*{: .positive-color} *(+1 FP)*{: .spirit-color } [X]
@@ -304,25 +319,25 @@ Some Traits have similar functions which are referred to in shorthand, explained
 > This Technique restores *+1 FP*{: .spirit-color } to the target for every Grade of Success, to a maximum of [X] FP.
 
 {: .content-callout }
-> ### *Group*{: .positive-color} *(+4 FP)*{: .spirit-color } [Target]	
+> ### *Group*{: .positive-color} *(+5 FP)*{: .spirit-color } [Target]	
 > 
 > This Technique affects all targets in the chosen group. If targeting their own group, the user can choose whether or not it affects them too. At the user's option this can include the *Indirect*{: .positive-color } Trait.
 
 {: .content-callout }
 > ### *Hearty*{: .positive-color} *(+1 FP)*{: .spirit-color } [Secondary - *Heal*{: .heart-color }/*Magic*{: .spirit-color }] [X]
 > 
-> This Technique heals the target *1 HP*{: .heart-color } for every Grade of Success, to a maximum of *[XX] HP*{: .heart-color }.
+> This Technique heals the target *2 HP*{: .heart-color } for every Grade of Success, to a maximum of *[XX] HP*{: .heart-color }.
 
 {: .content-callout }
 > ### *Homing*{: .positive-color} *(+1 FP)*{: .spirit-color }
 > 
-> This Technique can't be [*Dodged*{: .spirit-color }]({{ "/skills_in_detail#trickery---dodging" | absolute_url }}) and ignores the [Secure]({{ "/statuses#secure" | absolute_url }}) Status. It can still be [*Blocked*{: .heart-color }]({{ "skills_in_detail#guard---reducing-damage" | absolute_url }}K).
-> If a target has any clones in battle (illusory or otherwise), this Technique can ignore them to strike the target instead.
+> This Technique can't be [*Dodged*{: .spirit-color }]({{ "/skills_in_detail#trickery---dodging" | absolute_url }}) and ignores the [Secure]({{ "/statuses#secure" | absolute_url }}) Status. It can still be [*Guarded*{: .heart-color }]({{ "skills_in_detail#guard---reducing-damage" | absolute_url }}) against.
+> If a target has any [Clones]({{ "/personal_traits#clone" | absolute_url }}) or [Mirages]({{ "/personal_traits#mirage" | absolute_url }}) in battle, this Technique can ignore them to strike the target instead.
 
 {: .content-callout }
 > ### *Hustle*{: .positive-color} *(+6 FP)*{: .spirit-color } [Secondary - *Athletics*{: .heart-color }/*Cheer*{: .courage-color}/*Magic*{: .spirit-color}][X - Cap 5]
 >
-> The target begins to [Hustle]({{ "/statuses#hustled" | absolute_url }}), giving them additional actions, for the next [X]  turns. If you target yourself with this Technique, you don't receive the benefit until after this turn.  
+> The target begins to [Hustle]({{ "/statuses#hustled" | absolute_url }}), giving them additional actions, for the next [X] turns. If you target yourself with this Technique, you don't receive the benefit until after this turn.  
 > For every additional Grade of Success, increase the Status Level by 1, to a maximum of [X].
 
 {: .content-callout }
@@ -350,11 +365,10 @@ Some Traits have similar functions which are referred to in shorthand, explained
 > For every additional Grade of Success, increase the Status Level by 1, to a maximum of [X].
 
 {: .content-callout }
-> ### *Lucky Hit*{: .positive-color} *(+? FP)*{: .spirit-color } [Random]
+> ### *Lucky Hit*{: .positive-color} *(+? FP)*{: .spirit-color } [Random] [Slots]
 >
-> This Technique has a rare special effect! It contains a Lucky Slot made up of Technique Traits.  
-> When you use this Technique, roll 1d6; the Lucky Slot's Traits are only active if you roll a 6.  
-> The Lucky Slot can contain any number of Technique Traits, with their *FP cost*{: .spirit-color } calculated separately from your own Technique, including all of their negative Traits; the Lucky Slot's overall *FP cost*{: .spirit-color } *must*{: .underlined } be positive.
+> This Technique has a rare special effect! Add a single Technique Slot to this Technique; its overall *FP cost*{:. spirit-color} *must*{: .underlined } be positive.  
+> When you use this Technique, roll 1d6; the Lucky Hit Slot's Traits are only active if you roll a 6.  
 > The overall *FP cost*{: .spirit-color } *Lucky Hit*{: .positive-color } adds to your Technique is equal to the sum of the following:
 >
 > - 1/3 of the overall *FP cost*{: .spirit-color }.
@@ -364,24 +378,25 @@ Some Traits have similar functions which are referred to in shorthand, explained
 > > *Example: Lucky Critical*{: .header-font }
 > >
 > > A roguish Swooper strikes from the shadows! Their attack has a 1 in 6 chance to land a devastating Lucky Hit!  
-> > The Lucky Slot contains 4 instances of Strong, which would normally cost *8 FP*{: .spirit-color }.  
+> > The Lucky Hit Slot contains 4 instances of Strong, which would normally cost *8 FP*{: .spirit-color }.  
 > > This cost is divided by 3 and rounded down, for *2 FP*{: .spirit-color }. Since it contains 4 Traits (two pairs), another *+2 FP*{: .spirit-color } is added.  
 > > Overall, this Lucky Hit costs *4 FP*{: .spirit-color } – half the usual cost!
 > 
-> You can combine *Lucky Hit*{: .positive-color } with *Fumble*{: .negative-color }. If the Technique has both traits, roll the same die once for both effects.
+> You *can*{: .underlined } combine *Lucky Hit*{: .positive-color } with *Fumble*{: .negative-color }. If the Technique has both traits, roll the same die once for both effects.
 
 {: .content-callout }
 > ### *Minion*{: .positive-color} *(+3 FP)*{: .spirit-color } [Secondary - *Bully*{: .courage-color }/*Cheer*{: .courage-color }/*Magic*{: .magic-color }/*Persuade*{: .courage-color }] [Target] [X]
 >
 > This Technique generates one or more minions in any location in your group, and then targets them with any other effects of this Technique, including damage.  
-> These minions are all functionally identical to one another, though they might look superficially different, and the number of minions summoned and their qualities are defined separately for each possible result when you buy this Trait.  
+> These minions are all functionally identical to one another, though they might look superficially different, and the number of minions summoned and their qualities are defined separately for each possible result.  
 > These minions don't act during the round they're summoned, and persist for up to [X] rounds after that round. If they would have the Elevation or Fly traits, they can enter the battle with these active with no further action required.  
 > Minions follow your orders, acting in turn order as usual. They have one Technique, and can reliably use their Personal Traits, but besides that they can't take on complicated tasks which would normally require a skill check (e.g. *Crafts*{: .spirit-color }, *Guard*{: .heart-color }, *Notice*{: .spirit-color }).  
 > For those actions they can carry out, minions automatically score Grades of Success on their Primary and Secondary checks equal to this Technique's Grades of Success (to a maximum of [X] Grades), with -1 for each minion summoned besides themselves.  
 > For each Grade of Success, you can assign up to 5 points to their qualities in the following combinations, to a maximum of [XXXXX] points split across up to [X] minions:
 >
 > - *HP*{: .heart-color }, receiving 2x the points assigned to this quality in *HP*{: .heart-color }. Just like regular characters, minions can't restore *HP*{: .heart-color } beyond their maximum. They begin with just *1 HP*{: .heart-color }.
-> - Power or Defense, receiving 1 point in either for every 2 points assigned to this quality. Minions begin with 0 Power and 0 Defense.
+> - Power, receiving 1 point for every point assigned to this quality. Minions begin with 1 Power.
+> - Defense, received 1 point for every 2 points assigned to this quality. Minions begin with 0 Defense.
 > - Up to [X] positive Traits and up to [X] negative Traits for their Technique.  The Technique's final *FP cost*{: .spirit-color } must be 0 for the minion to use it; you can reduce it by a further *1 FP*{: .spirit-color } for every 1 point assigned to this quality.
 > - Up to [X] positive Personal Traits (e.g. Fly) and up to [X] negative Personal Traits (e.g. Weakness), at a cost of 2 points for every positive Trait added, and earning a free positive Trait (ignoring the maximum Trait count) for every negative Trait added.  
 > Distinct copies of the same Trait (e.g. Weakness (Blast) and Weakness (Fire)) must be added separately.  
@@ -395,7 +410,7 @@ Some Traits have similar functions which are referred to in shorthand, explained
 {: .content-callout }
 > ### *Piercing*{: .positive-color} *(+3 FP)*{: .spirit-color }
 > 
-> This attack ignores Defense, Resistances and Immunities. It can still be [*Blocked*{: .heart-color }]({{ "/skills_in_detail#guard---reducing-damage" | absolute_url }}).
+> This attack ignores Defense, though it's still affected by Resistances and Immunities. It can still be [*Guarded*{: .heart-color }]({{ "/skills_in_detail#guard---reducing-damage" | absolute_url }}) against.
 
 {: .content-callout }
 > ### *Provoke*{: .positive-color} *(+1 FP)*{: .spirit-color } [Secondary - *Bully*{: .courage-color }/*Magic*{: .spirit-color }/*Trickery*{: .spirit-color }/*Persuade*{: .courage-color }] [X]
@@ -423,8 +438,10 @@ Some Traits have similar functions which are referred to in shorthand, explained
 {: .content-callout }
 > ### *Repeat*{: .positive-color} *(+3 FP)*{: .spirit-color } [Strikes]
 > 
-> The user repeatedly attacks with single strikes, hitting once for each Grade of Success; each strike deals damage equal to this Technique's Power, -1 for each successive attack made (to a minimum of 1 damage).  
-> There's no limit to how many strikes can be made.
+> The user repeatedly attacks with single strikes. With a successful attack they strike once, then make an additional follow-up strike for each Grade of Success.  
+> The first strike deals raw damage equal to this Technique's Power (or 1 damage, if the Technique has 0 Power). Each successive strike then deals 1 less damage than the last, to a minimum of 1 damage (as long as the last strike dealt some amount of damage).
+> This damage penalty is applied after Attack, Defense, and other resistances are factored in, so as long as the first strike deals damage, each follow-up hit will deal at least 1 damage.
+> There's no limit to how many strikes that can be made.
 
 {: .content-callout }
 > ### *Revive*{: .positive-color} *(+10 FP)*{: .spirit-color } [Secondary - *Heal*{: .heart-color }/*Magic*{: .spirit-color }]
@@ -433,28 +450,26 @@ Some Traits have similar functions which are referred to in shorthand, explained
 > If for whatever reason this Technique would deal damage, it's dealt after they're revived and healed, and the target can resist as normal.
 
 {: .content-callout }
-> ### *Roulette*{: .positive-color} *(+? FP)*{: .spirit-color } [Random]
+> ### *Roulette*{: .positive-color} *(+? FP)*{: .spirit-color } [Random] [Slots]
 >
 > This Technique has 6 different Roulette Slots of Technique Traits, each with a different number between 1 and 6 assigned to them.  
 > When you use this Technique, roll 1d6. Only the Slot whose number is rolled is active for this use of the Technique, and all other Roulette Slot Traits are ignored.  
-> Each Roulette Slot can include any number of Technique Traits, with their *FP cost*{: .spirit-color } calculated separately from your own Technique, including all of their negative Traits.  
-> Each Roulette Slot must be different from the others in some way.  
 > The overall FP cost Roulette adds to your Technique is equal to the sum of the following:
 >
-> - The highest *FP cost*{: .spirit-color } in all your Roulette Slots (to a minimum of *0 FP*{: .spirit-color }); you don't pay the *FP cost*{: .spirit-color } for any other Slots.
-> - *+1 FP*{: .spirit-color } for each Trait included in the Roulette Slot with the most Traits.
-> - *-2 FP*{: .spirit-color } for each Roulette Slot with a negative cost.
+> - The highest *FP cost*{: .spirit-color } in all your Roulette Slots (to a minimum of *0 FP*{: .spirit-color }); don't factor in the *FP cost*{: .spirit-color } for any other Slots.
+> - *+1 FP*{: .spirit-color } for each *pair*{: .underlined } of Traits included in the Roulette Slot with the most Traits (both positive and negative).
+> - Take *½ the FP cost*{: .spirit-color } of each Slot with a negative cost away from the total.
 >
 > If after this *Roulette*{: .positive-color } would have a negative *FP cost*{: .spirit-color }, you can treat it as a negative Trait instead.  
-> Otherwise, if *Roulette*{: .positive-color } would cost *0 FP*{: .spirit-color }, increase the cost to *1 FP*{: .spirit-color }.
 >
 > {: .example-callout}
 > > *Example: Elemental Roulette*{: .header-font }
 > >
 > > A Magikoopa conjures a blast of prismatic energy, shifting between 6 different elements at random.  
 > > Each Roulette Slot has a different Element Trait, but no other Traits.  
-> > The magician only has to pay for one of those Roulette Slots (costing *1 FP*{: .spirit-color }), then *+1 FP*{: .spirit-color } for the one Trait used.  
-> > Thus, Roulette would add *+2 FP*{: .spirit-color }, instead of the *+6 FP*{: .spirit-color } normally paid for each Element added together.
+> > The magician only has to pay for one of those Roulette Slots (costing *1 FP*{: .spirit-color }).  
+> > They only have one Trait per slot, so they don't have to add any more *FP*{: .spirit-color } to the cost!
+> > Thus, Roulette would add *+1 FP*{: .spirit-color }, instead of the *+6 FP*{: .spirit-color } normally paid for each Element added together.
 
 {: .content-callout }
 > ### *Safe*{: .positive-color} *(+2 FP)*{: .spirit-color }
@@ -464,7 +479,7 @@ Some Traits have similar functions which are referred to in shorthand, explained
 {: .content-callout }
 > ### *Scaling*{: .positive-color} *(+3 FP)*{: .spirit-color } [X]
 >
-> This Technique acts as if the user had +1 Power for each additional Grade of Success achieved on the Primary Check beyond its maximum, up to a maximum of +[XX] Power.
+> This Technique deals damage equal to its Power to all targets. For each *additional*{: .underlined } Grade of Success earned, increase this Technique's Power by +1.
 
 {: .content-callout }
 > ### *Secure*{: .positive-color} *(+4 FP)*{: .spirit-color } [Secondary - *Guard*{: .heart-color }/*Magic*{: .spirit-color }/*Trickery*{: .spirit-color }]
@@ -479,14 +494,14 @@ Some Traits have similar functions which are referred to in shorthand, explained
 {: .content-callout }
 > ### *Sequential*{: .positive-color} *(+1 FP)*{: .spirit-color } [Strikes] [Target]
 >
-> The user attacks their target, then for each additional Grade of Success earned beyond the maximum result, moves to and attacks the next available target.  
+> The user attacks their target with a single strike, before moving onto the next for. For *each*{: .underlined} Grade of Success earned, they move to and attack the next available target with another strike.  
+> Each strike deals damage equal to the user's Power.  
 > Each target is struck one after another, and must be a valid target – though the additional targets can be attacked in melee even if they would normally be blocked by their allies.  
-> Each strike acts as a Single-Strike, dealing the user's Power in raw damage.
 
 {: .content-callout }
 > ### *Shared*{: .positive-color} *(+1 FP)*{: .spirit-color }
 >
-> The user can share in all the effects of this Technique's Secondary Check, as if they were targeted. If the Technique would have targeted them anyway, they don't receive any additional benefit; they're only added as a target.
+> The user can share in all or part of the effects of this Technique's Secondary Check, as if they were targeted by it. If the Technique would have targeted them anyway, they don't receive any additional benefit; they're only added as a target.
 
 {: .content-callout }
 > ### *Simple*{: .positive-color} *(+2 FP)*{: .spirit-color } [X]
@@ -512,23 +527,36 @@ Some Traits have similar functions which are referred to in shorthand, explained
 > > An Overrun Snatch that affected three targets with a *Wonderful*{: .wonderful-color } result could assign two Grades of Success to one target (stealing a small Item), and split up the remaining two Grades of Success to steal from the other targets (stealing 1d6 Coins from each). 
 
 {: .content-callout }
-> ### *Spillover*{: .positive-color} *(+1 FP)*{: .spirit-color } [Target]
+> ### *Spillover*{: .positive-color} *(+2 FP)*{: .spirit-color } [Target]
 > 
-> This Technique targets a single valid target. However, if it deals enough damage to KO its initial target, you can target another valid target and attack them with the excess raw damage, continuing on until all the raw damage has been allocated.  
-> Note that since each new target is attacked separately, Attack and other modifiers to damage are calculated separately for each target.
+> This Technique targets a single valid target. If one of its Strikes deals enough damage to KO its initial target, you can re-allocate the excess damage and any additional Strikes to another valid target.  
+> Continue on until all of this Technique's raw damage and Strikes have been allocated.  
+> Bear in mind that re-allocating damage doesn't count as targeting for an attack, so Single-Strikes can still use their full Attack boost!
 
 {: .content-callout }
-> ### *Split*{: .positive-color} *(+1 FP)*{: .spirit-color }
+> ### *Split*{: .positive-color} *(+2 FP)*{: .spirit-color } [Slots]
 > 
-> The user can divide this Technique's effects between any valid targets, including themselves, such as to heal themselves with *Hearty*{: .positive-color } instead of the target, or to use different *Element*{: .positive-color } traits against different enemies.  
-> It can't be used to redirect damage, and the new targets must have been valid choices at the time the Technique was used.
-> These effects also work on [Target] Traits.
+> This Technique can include any number of Technique Slots; any slot added by this Trait is treated as a Split Slot. Unlike other [Slot] Traits, the Traits included in a Split Slot are calculated exactly as if they were outside that slot; they contribute to the Technique's *FP cost*{: .spirit-color } and can include Tech Defaults, as normal.  
+> Any Trait or Strike left outside of a Split Slot is directed at this Technique's original target(s).  
+> Each Split Slot can include its own [Approach] and [Target] traits, and one or more of the Technique's Strikes can be allocated to that slot. If a Split Slot has no [Approach] or [Target] Traits of its own, it defaults to the same targeting options as the main Technique.  
+> Whenever you use this Technique, your Split Slots and the main Technique resolve in order, allocating targets as you direct.  
+> The exact order everything resolves is defined by you when you design this Technique. Any Primary or Secondary checks required are shared between Split Slots, as normal.  
+> A Split Slot can't contain the *Harmless*{: .negative-color } Trait; but if it has no Strikes it deals no damage, exactly as if it was *Harmless*{: .negative-color }.
+>
+> {: .example-callout }
+> > *Example: Splitting your Harming and Healing*{: .header-font }
+> >
+> > Split gives you a lot of versatility in designing your Techniques; for a simple example, you could deal damage to a foe while healing your allies!  
+> > To do this with Split, you would need to include the traits Hearty and Allies, then assign them to a Split Slot. You want the Healing to trigger after you make your attack, so you have the bulk of the Technique resolve first, then the Split Slot afterwawrds.  
+> > The Technique could then be used to attack a single target in melee (as normal for a Technique without a [Target] Trait). Afterwards, your allies would receive the *HP*{: .heart-color } recovered from Hearty!0
 
 {: .content-callout }
 > ### *Strike-Through*{: .positive-color} *(+1 FP)*{: .spirit-color } [Strikes] [Target] [X]
 >
-> This Technique acts as a Single-Strike Technique on the initial target, then repeats on up to [X] valid targets behind them (at the same elevation).  
-> Each subsequent attack deals -1 damage (to a minimum of 1).
+> This attack pierces past its initial target to strike the next [X] additional targets at the same elevation.  
+> The first target takes damage equal to this Technique's Power. Like with a Single-Strike Technique, earning an additional Grade of Success instead deals damage equal to double the Technique's Power (or 1 damage, if the Technique has 0 Power).  
+> The attack then repeats with a strike on up to [X] valid targets behind the first, at the same elevation.  
+> Each new strike deals 1 less raw damage than the last; this can't reduce the raw damage below 0, so as long as the first strike could deal damage, the rest will deal at least 1 raw damage.
 
 {: .content-callout }
 > ### *Strong*{: .positive-color} *(+2 FP)*{: .spirit-color } [X]
@@ -544,8 +572,8 @@ Some Traits have similar functions which are referred to in shorthand, explained
 {: .content-callout }
 > ### *Swap*{: .positive-color} *(+1 FP)*{: .spirit-color } [Secondary - *Bully*{: .courage-color }/*Coordination*{: .heart-color }/*Magic*{: .spirit-color }/*Trickery*{: .spirit-color }] [X]
 >
-> The target swaps position with another target in the same group, maintaining their current elevation where possible. The second target can't be further away in group order than 1 space for each Grade of Success, to a maximum of [X] spaces away.  
->If this Technique affects multiple targets, each target can only be swapped once.
+> The target swaps position with another target in the same group as you direct, maintaining their current elevation where possible. The second target can't be further away in group order than 1 space for each Grade of Success, to a maximum of [X] spaces away.  
+> If this Technique affects multiple targets, each target can only be swapped once.
 
 {: .content-callout }
 > ### *Terrain*{: .positive-color} *(+3 FP)*{: .spirit-color } [Secondary - *Crafts*{: .spirit-color }/*Magic*{: .spirit-color }] [X]
@@ -559,24 +587,25 @@ Some Traits have similar functions which are referred to in shorthand, explained
 > ### *Throw*{: .positive-color} *(+2 FP)*{: .spirit-color } [Target] [Strikes] [X - Cap 2]
 >
 > At the user's option, this Technique's Primary Check can use *Athletics*{: .heart-color } instead.  
-> The target is bodily hurled into the next available target. Both targets are struck as a single Strike, and trigger any Contact Traits the other target has, though only the original target suffers any secondary effects of the attack.  
+> The target is bodily hurled into the next available target. Both targets are struck as a single Strike, and trigger any Contact Traits the other target has.  
+> If this Technique has a Secondary Check that would affect the original target, it affects the new target as well.  
 > If [X] is 2, you can aim the target as if with the *Ranged*{: .positive-color } Trait, and can use *Aim*{: .heart-color } as the Primary Check.
 
 {: .content-callout }
 > ### *Tool*{: .positive-color} *(+1 FP)*{: .spirit-color }
 > 
 > This Technique relies on a hand-held tool, such as a hammer or staff, and can't be used if the appropriate equipment isn't available. As a result it also has *Indirect*{: .positive-color } or *Ranged*{: .positive-color }, at the user's option.  
-> The [Basic Gear]({{ "/inventory#gear" | absolute_url }}) used for these Techniques don't cost anything during character creation, but they take up an inventory slot, and replacements may cost Coins. Ammunition isn't tracked; if a Tool is represented by a large number of disposable equipment (such as throwing weapons), one Tool is enough to represent the user's supply.  
+> The [Basic Gear]({{ "/inventory#gear" | absolute_url }}) used for these Techniques don't cost anything during character creation, but they take up an inventory slot, and replacements may need to be bought. Ammunition isn't tracked; if a Tool is represented by a large number of disposable equipment (such as throwing weapons), one Tool is enough to represent the user's supply.  
 > Built-In Tools (used by [Constructs]({{ "/personal_traits#constructs" | absolute_url }})) are functionally the same as Tools, but are built into the user's body. They still take up an inventory slot.
 
 {: .content-callout }
-> ### *Tutor*{: .positive-color} *(+1 FP)*{: .spirit-color } [Secondary - *Bully*{: .courage-color }/*Cheer*{: .courage-color }/*Magic*{: .spirit-color }] [X]
+> ### *Tutor*{: .positive-color} *(+1 FP)*{: .spirit-color } [Secondary - *Bully*{: .courage-color }/*Cheer*{: .courage-color }/*Magic*{: .spirit-color }/*Trickery*{: .spirit-color }] [X]
 > 
 > Choose up to [X] of this Technique's Traits; multiple instances of a Technique (e.g. *Lingering x2*{: .positive-color }) must be selected individually (requiring you to select both instances of *Lingering*{: .positive-color }).  
 > Those Traits have no effect on this Technique, and the target instead becomes [Tutored]({{ "/statuses#tutored" | absolute_url }}) in their use for [X] turns; for each additional Grade of Success, increase the Status Level by 1, to a maximum of [X].  
 > Depending on the exact nature of the Traits being Tutored and how the tutelage is carried out, you may also be [Disarmed]({{ "/statuses#disarmed" | absolute_url }}) when trying to use relevant Techniques for the same duration (e.g. if you Tutor someone in *Tool*{: .positive-color } by handing them your equipment).  
 > If the Tutored Traits are negative, any *FP*{: .spirit-color } that would be saved by them instead becomes a positive value (e.g. *Unwieldy*{: .negative-color } goes from *-2 FP*{: .spirit-color } to *+2 FP*{: .spirit-color }).  
-> If this Secondary Check uses *Cheer*{: .courage-color }, you must include at least one positive Trait, and if it uses *Bully*{: .courage-color }, you can't include any positive Traits.
+> If this Secondary Check uses *Cheer*{: .courage-color }, you must include at least one positive Trait, and if it uses *Bully*{: .courage-color }, you can't include *any*{: .underlined } positive Traits.
 
 {: .content-callout }
 > ### *Underfoot*{: .positive-color} *(+2 FP)*{: .spirit-color } [Approach] [Target]
@@ -600,10 +629,10 @@ Some Traits have similar functions which are referred to in shorthand, explained
 {: .content-callout }
 > ### *Blowback*{: .negative-color} *(-4 FP)*{: .spirit-color }
 >
-> After finishing this attack, the user loses *HP*{: .heart-color } equal to half this attack's Raw Damage.  
+> After finishing this attack, the user loses *HP*{: .heart-color } equal to half the Raw Damage this attack would deal to a single target; if there's a range of different damage totals, refer to the highest Raw Damage potential possible.  
 > If this attack would affect the target with a Secondary Check, the user is affected as well, though they can resist with *Steady*{: .courage-color } as normal.  
 > The user's *HP*{: .heart-color } loss can't be resisted in any way (including Defense, *Safe*{: .positive-color } or *Secure*{: .positive-color }) and ignores the user's Weaknesses, Resistances or Immunities.  
-> The Technique must deal damage, and this Trait cannot be combined with Self.
+> This Trait cannot be combined with *Harmless*{: .negative-color } or *Self*{: .negative-color }.
 
 {: .content-callout }
 > ### *Commitment*{: .negative-color} *(-2 FP)*{: .spirit-color } [X - Cap 2]
@@ -611,7 +640,7 @@ Some Traits have similar functions which are referred to in shorthand, explained
 > Choose Primary Check or Secondary Check:
 > 
 > - Primary: This Technique's Primary Check fails unless its maximum possible effectiveness is achieved, and no higher roll is possible.  
-> Can't be combined with Traits that have no functional maximum (e.g. *Repeat*{: .positive-color }, *Sequential*{: .positive-color }), or Techniques without a useable reduced state (e.g. 0 Power).
+> Can't be combined with Traits that have no functional maximum (e.g. *Repeat*{: .positive-color }, *Sequential*{: .positive-color }), or Techniques without a usable reduced state (e.g. 0 Power).
 > - Secondary: This Technique's Secondary Check only works if the maximum possible result is achieved.  
 > You can't combine this effect with a Secondary Check that only has one potential outcome, (e.g. *Nice!*{: .nice-color } with no benefits for a *Good!*{: .good-color } result), or a Team effect which has no additional benefit for extra successes.
 > 
@@ -628,7 +657,7 @@ Some Traits have similar functions which are referred to in shorthand, explained
 {: .content-callout }
 > ### *Cooldown*{: .negative-color} *(-1 FP)*{: .spirit-color } [X - Cap 5]
 > 
-> This Technique can't be used again until [X] turns have passed, counting from the next turn your actions become possible.
+> This Technique can't be used again until [X] of the user's actionable turns (i.e. turns where they otherwise could have used this Technique) have passed, counting from the next turn.
 
 {: .content-callout }
 > ### *Delayed*{: .negative-color} *(-2 FP)*{: .spirit-color } [X - Cap 5]
@@ -639,17 +668,21 @@ Some Traits have similar functions which are referred to in shorthand, explained
 > Instead of swapping with their allies, if a targeted character would swap under their own power, they can move the targeted space for this Technique the same distance – and can even move it outside of their group to completely dodge it.
 
 {: .content-callout }
+> ### *Drip-Feed*{: .negative-color} *(-1 FP)*{: .spirit-color } [X - Cap 5]
+>
+> This Technique takes time to reach its full effect, instead dividing its Status Levels, *HP*{: .heart-color } restored and *FP*{: .spirit-color } restored evenly over the course of the next [XX] turns for all targets. Status Levels added on in this way are compounded with the existing Status, making it gradually grow stronger, without impacting its duration.  
+> If a target has one of the Technique's Statuses dismissed or *Steadied*{: .courage-color } before it reaches its full potential, the Status ends, and no more Status Levels are added on from this Trait.
+
+{: .content-callout }
 > ### *Exhausting*{: .negative-color} *(-4 FP)*{: .spirit-color } [X]
 >
 > The user can't take any more actions for [X] turns. They can still talk, move around (without changing position), take part in other characters' actions (such as *Team*{: .negative-color } Techniques and swapping with *Coordination*{: .heart-color }), and can react freely.
 
 {: .content-callout }
-> ### *Fumble*{: .negative-color} *(-? FP)*{: .spirit-color } [Random]
+> ### *Fumble*{: .negative-color} *(-? FP)*{: .spirit-color } [Random] [Slots]
 > 
-> This Technique has a rare chance to backfire.  
-> It contains a Fumble Slot of Technique Traits. When you use this Technique, roll 1d6; the Fumble Slot's Traits are suppressed, as long as you don't roll a 1.  
-> The Fumble Slot can contain any number of Technique Traits, with their *FP cost*{: .spirit-color } calculated separately from your own Technique, including all of their negative Traits.  
-> The Fumble Slot can have any number of Traits, but its overall *FP cost*{: .spirit-color } *must*{: .underlined } be negative.  
+> This Technique has a rare chance to backfire. Add a single Technique Slot to this Technique; its overall *FP cost*{: .spirit-color } *must*{: .underlined } be negative.  
+> When you use this Technique, roll 1d6; the Fumble Slot's Traits are suppressed, as long as you don't roll a 1.  
 > The amount of *FP*{: .spirit-color } *Fumble*{: .negative-color } takes off of your Technique is equal to 1/3 of the Fumble Slot's *FP cost*{: .negative-color }.
 >
 > {: .example-callout}
@@ -667,7 +700,7 @@ Some Traits have similar functions which are referred to in shorthand, explained
 > 
 > This Technique doesn't deal damage at all; it includes no Strikes, isn't affected by Attack and has no Primary Check, instead skipping to the Secondary Check (if applicable).  
 > Since it has no need to physically strike at the target, it can also include the *Indirect*{: .positive-color } Trait at the user's option for no added cost.  
-> This Trait can't be combined with *Weak*{: .negative-color }.
+> This Trait can't be combined with *Weak*{: .negative-color }, or added to Split Slots with *Split*{: .positive-color }.
 
 {: .content-callout }
 > ### *Lacking*{: .negative-color} *(-1 FP)*{: .spirit-color } [X]
@@ -699,7 +732,7 @@ Some Traits have similar functions which are referred to in shorthand, explained
 > ### *Self*{: .negative-color} *(-? FP)*{: .spirit-color } [Target]
 > 
 > This Technique can only be used on the user.  
-> If this Technique has *Counter*{: .positive-color } or *Harmless*{: .negative-color }, this trait is worth *-1 FP*{: .spirit-color }.  
+> If this Technique has *Counter*{: .positive-color } or *Harmless*{: .negative-color }, or if this Trait is contained in a Split Slot with no Strikes, this trait is worth *-1 FP*{: .spirit-color }.  
 > Otherwise, this trait is worth *-2 FP*{: .spirit-color } for each point of Power in this Technique (after applying other Traits), and the user can't bypass or otherwise resist its damage through Immunities, Resistances, Secure or any other effect.
 
 {: .content-callout }

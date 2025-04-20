@@ -19,29 +19,42 @@ Critically, you can make Exceptional Techniques even when you wouldn't be able t
 ## Primary Checks
 
 - *1 SP*{: .courage-color }: Add +1 DMG to one of this Technique's Strikes.
-- *1 SP*{: .courage-color }: Increase the duration and Status Level of one of this Technique's existing Statuses by 1 each.
-- *1 SP*{: .courage-color }: This Technique gains one of the following traits, if appropriate:  
-    - Aerial
-    - Element
-    - Homing
-    - Indirect
-    - Ranged
-    - Reach
-    - Selective
+- *1 SP*{: .courage-color }: Increase *both*{: .underlined } the duration and Status Level of one of this Technique's existing Statuses by 1 each.
+- *1 SP*{: .courage-color }: This Technique gains or loses an instance of one of the following Traits, if it would be appropriate to do so:  
+    - *Aerial*{: .positive-color }
+	- *Burst*{: .positive-color }
+    - *Element*{: .positive-color }
+    - *Homing*{: .positive-color }
+    - *Indirect*{: .positive-color }
+	- *Launch*{: .positive-color }
+    - *Ranged*{: .positive-color }
+    - *Reach*{: .positive-color }
+    - *Selective*{: .positive-color }
+	- *Strike-Through*{: .positive-color }
+	- *Throw*{: .positive-color }
+	- *Delayed*{: .negative-color }
+	- *Cooldown*{: .negative-color }
 - *2 SP*{: .courage-color }: This Technique inflicts a new Status on the enemy with no check required, lasting 1 turn at Status Level 1.
-- *2 SP*{: .courage-color }: This Technique gains one of the following traits, if appropriate:  
-    - Launch
-    - Piercing
-    - Sequential
-    - Throw
-- *4 SP*{: .courage-color }: This Technique gains one of the following traits, if appropriate:
-    - All
-    - Group
+- *2 SP*{: .courage-color }: This Technique gains or loses an instance of one of the following Traits, if it would be appropriate to do so:  
+	- *Sequential*{: .positive-color }
+    - *Blowback*{: .negative-color }
+    - *Penalty*{: .negative-color }
+    - *Side-Effect*{: .negative-color }
+- *3 SP*{: .courage-color }: This Technique gains or loses an instance of one of the following Traits, if it would be appropriate to do so:  
+    - *All*{: .positive-color }
+    - *Overrun*{: .positive-color }
+    - *Piercing*{: .positive-color }
+    - *Exhausting*{: .negative-color }
+- *5 SP*{: .courage-color }: This Technique gains or loses an instance of one of the following Traits, if it would be appropriate to do so:
+    - *Group*{: .positive-color }
 
 ## Secondary Checks
 
-- *1 SP*{: .courage-color }: Increase the duration or Status Level of one of this Technique's existing Statuses by 1.
-- *2 SP*{: .courage-color }: This Technique adds on another Status with no check required, lasting 1 turn at Status Level 1.
+- *1 SP*{: .courage-color }: Increase *both*{: .underlined } the duration or Status Level of one of this Technique's existing Statuses by 1.
+- *1 SP*{: .courage-color }: If this Technique would restore *HP*{: .heart-color } or *FP*{: .spirit-color }, it restores an additional +1 to all targets.
+- *2 SP*{: .courage-color }: This Technique restores either *+1 HP*{: .heart-color } or *+1 FP*{: .spirit-color } to all targets.
+- *2 SP*{: .courage-color }: Choose a Status; this Technique dismisses that Status from all targets. For the purposes of this effect, different types of *Boost*{: .positive-color } and *Weaken*{: .negative-color } count as different Statuses.
+- *2 SP*{: .courage-color }: This Technique inflicts (or bestows) its targets with another Status with no check required, lasting 1 turn at Status Level 1.
 
 {: .example-callout}
 > *Example: Exceptional Techniques*{: .header-font }

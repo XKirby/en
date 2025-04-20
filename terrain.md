@@ -20,7 +20,7 @@ nav_order: 22
 Adventures and battles can take place in a wide variety of locations, under any number of conditions. Some of the common varieties are listed here, but this list and the effects attributed to each Terrain are by no means exhaustive.
 
 Usually, all parties in battle are impacted by the Terrain, but it's possible through circumstance or Techniques for just a small area to be impacted.  
-In this case, whenever characters affected would move or swap spaces under their own power, they can choose to move the Terrain instead, even moving it out of their group entirely – in which case it's no longer involved in the battle.
+In this case, whenever characters affected would move or swap spaces, the Terrain often stays in the same place - potentially affecting a different combatant or even removing it from the battlefield.
 
 Multiple Terrains may even be considered active at once in the same area, as long as they don't contradict each other; for instance, the weather in an area can't be both a Gale and a Heatwave.
 
